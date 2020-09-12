@@ -1,0 +1,1355 @@
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\InputManagement.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\InputManagement.pdb
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\csc.exe
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\csc.exe.config
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\csc.rsp
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\csi.exe
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\csi.rsp
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\System.AppContext.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\vbc.exe
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\vbc.exe.config
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\vbc.rsp
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\Antlr3.Runtime.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\Newtonsoft.Json.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\System.Web.Helpers.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\System.Web.Mvc.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\System.Web.Optimization.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\System.Web.Razor.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\System.Web.WebPages.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\WebGrease.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\System.Web.Helpers.xml
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\System.Web.Mvc.xml
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\System.Web.Optimization.xml
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\System.Web.Razor.xml
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\System.Web.WebPages.xml
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\Newtonsoft.Json.xml
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\Antlr3.Runtime.pdb
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\obj\Debug\InputManagement.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\obj\Debug\InputManagement.pdb
+C:\Users\jaturong.kie\source\repos\InputManagement\InputManagement\bin\InputManagement.dll.config
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\InputManagement.dll.config
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\InputManagement.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\InputManagement.pdb
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\csc.exe
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\csc.exe.config
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\csc.rsp
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\csi.exe
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\csi.rsp
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\System.AppContext.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\vbc.exe
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\vbc.exe.config
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\vbc.rsp
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\Antlr3.Runtime.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\BusinessData.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\Newtonsoft.Json.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\System.Web.Helpers.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\System.Web.Mvc.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\System.Web.Optimization.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\System.Web.Razor.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\System.Web.WebPages.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\WebGrease.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\MySql.Data.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\BusinessData.pdb
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\System.Web.Helpers.xml
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\System.Web.Mvc.xml
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\System.Web.Optimization.xml
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\System.Web.Razor.xml
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\System.Web.WebPages.xml
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\Newtonsoft.Json.xml
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\Antlr3.Runtime.pdb
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\obj\Debug\InputManagement.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\InputManagement\obj\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\obj\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\obj\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\InputManagement.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\csc.exe
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\csc.exe.config
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\csc.rsp
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\csi.exe
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\csi.rsp
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\System.AppContext.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\vbc.exe
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\vbc.exe.config
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\vbc.rsp
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\Antlr3.Runtime.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\Newtonsoft.Json.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\System.Web.Helpers.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\System.Web.Optimization.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\System.Web.Razor.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\WebGrease.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\System.Web.Helpers.xml
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\System.Web.Mvc.xml
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\System.Web.Optimization.xml
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\System.Web.Razor.xml
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\System.Web.WebPages.xml
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\Newtonsoft.Json.xml
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\Antlr3.Runtime.pdb
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\Login.exe
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\Login.pdb
+C:\Users\anawat.mon\Desktop\InputManagement\InputManagement\bin\Login.exe.config
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\InputManagement.dll.config
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\InputManagement.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\InputManagement.pdb
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\csc.exe
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\csc.exe.config
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\csc.rsp
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\csi.exe
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\csi.rsp
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\System.AppContext.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\vbc.exe
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\vbc.exe.config
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\vbc.rsp
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\Antlr3.Runtime.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\BusinessData.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\Login.exe
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\Newtonsoft.Json.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\System.Web.Helpers.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\System.Web.Mvc.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\System.Web.Optimization.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\System.Web.Razor.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\System.Web.WebPages.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\WebGrease.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\MySql.Data.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\BusinessData.pdb
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\Login.pdb
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\Login.exe.config
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\System.Web.Helpers.xml
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\System.Web.Mvc.xml
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\System.Web.Optimization.xml
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\System.Web.Razor.xml
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\System.Web.WebPages.xml
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\Newtonsoft.Json.xml
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\Antlr3.Runtime.pdb
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\obj\Debug\InputManagement.dll
+C:\Users\jaturong.kie\source\repos\Input\InputManagement\obj\Debug\InputManagement.pdb
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\InputManagement.dll.config
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\InputManagement.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\InputManagement.pdb
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\csc.exe
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\csc.exe.config
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\csc.rsp
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\csi.exe
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\csi.rsp
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\System.AppContext.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\vbc.exe
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\vbc.exe.config
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\vbc.rsp
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\Antlr3.Runtime.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\BusinessData.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\Login.exe
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\Newtonsoft.Json.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\System.Web.Helpers.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\System.Web.Mvc.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\System.Web.Optimization.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\System.Web.Razor.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\System.Web.WebPages.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\WebGrease.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\MySql.Data.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\BusinessData.pdb
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\Login.pdb
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\Login.exe.config
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\System.Web.Helpers.xml
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\System.Web.Mvc.xml
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\System.Web.Optimization.xml
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\System.Web.Razor.xml
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\System.Web.WebPages.xml
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\Newtonsoft.Json.xml
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\Antlr3.Runtime.pdb
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\obj\Debug\InputManagement.dll
+C:\Users\jaturong.kie\Desktop\Input\InputManagement\obj\Debug\InputManagement.pdb
+D:\Project\Input\InputManagement\bin\InputManagement.dll.config
+D:\Project\Input\InputManagement\bin\InputManagement.dll
+D:\Project\Input\InputManagement\bin\InputManagement.pdb
+D:\Project\Input\InputManagement\bin\roslyn\csc.exe
+D:\Project\Input\InputManagement\bin\roslyn\csc.exe.config
+D:\Project\Input\InputManagement\bin\roslyn\csc.rsp
+D:\Project\Input\InputManagement\bin\roslyn\csi.exe
+D:\Project\Input\InputManagement\bin\roslyn\csi.rsp
+D:\Project\Input\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\Input\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\Input\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\Input\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\Input\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\Input\InputManagement\bin\roslyn\System.AppContext.dll
+D:\Project\Input\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\Input\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\Input\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\Input\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\Input\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\Input\InputManagement\bin\roslyn\vbc.exe
+D:\Project\Input\InputManagement\bin\roslyn\vbc.exe.config
+D:\Project\Input\InputManagement\bin\roslyn\vbc.rsp
+D:\Project\Input\InputManagement\bin\roslyn\VBCSCompiler.exe
+D:\Project\Input\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\Input\InputManagement\bin\Antlr3.Runtime.dll
+D:\Project\Input\InputManagement\bin\BusinessData.dll
+D:\Project\Input\InputManagement\bin\Login.exe
+D:\Project\Input\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\Input\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\Input\InputManagement\bin\Newtonsoft.Json.dll
+D:\Project\Input\InputManagement\bin\System.Web.Helpers.dll
+D:\Project\Input\InputManagement\bin\System.Web.Mvc.dll
+D:\Project\Input\InputManagement\bin\System.Web.Optimization.dll
+D:\Project\Input\InputManagement\bin\System.Web.Razor.dll
+D:\Project\Input\InputManagement\bin\System.Web.WebPages.Deployment.dll
+D:\Project\Input\InputManagement\bin\System.Web.WebPages.dll
+D:\Project\Input\InputManagement\bin\System.Web.WebPages.Razor.dll
+D:\Project\Input\InputManagement\bin\WebGrease.dll
+D:\Project\Input\InputManagement\bin\MySql.Data.dll
+D:\Project\Input\InputManagement\bin\BusinessData.pdb
+D:\Project\Input\InputManagement\bin\Login.pdb
+D:\Project\Input\InputManagement\bin\Login.exe.config
+D:\Project\Input\InputManagement\bin\System.Web.Helpers.xml
+D:\Project\Input\InputManagement\bin\System.Web.Mvc.xml
+D:\Project\Input\InputManagement\bin\System.Web.Optimization.xml
+D:\Project\Input\InputManagement\bin\System.Web.Razor.xml
+D:\Project\Input\InputManagement\bin\System.Web.WebPages.xml
+D:\Project\Input\InputManagement\bin\System.Web.WebPages.Deployment.xml
+D:\Project\Input\InputManagement\bin\System.Web.WebPages.Razor.xml
+D:\Project\Input\InputManagement\bin\Newtonsoft.Json.xml
+D:\Project\Input\InputManagement\bin\Antlr3.Runtime.pdb
+D:\Project\Input\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\Input\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+D:\Project\Input\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+D:\Project\Input\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+D:\Project\Input\InputManagement\obj\Debug\InputManagement.dll
+D:\Project\Input\InputManagement\obj\Debug\InputManagement.pdb
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\InputManagement.dll.config
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\InputManagement.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\InputManagement.pdb
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\csc.exe
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\csc.exe.config
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\csc.rsp
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\csi.exe
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\csi.rsp
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\System.AppContext.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\vbc.exe
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\vbc.exe.config
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\vbc.rsp
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\Antlr3.Runtime.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\BusinessData.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\Login.exe
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\Newtonsoft.Json.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\System.Web.Helpers.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\System.Web.Mvc.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\System.Web.Optimization.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\System.Web.Razor.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\System.Web.WebPages.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\WebGrease.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\MySql.Data.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\BusinessData.pdb
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\Login.pdb
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\Login.exe.config
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\System.Web.Helpers.xml
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\System.Web.Mvc.xml
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\System.Web.Optimization.xml
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\System.Web.Razor.xml
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\System.Web.WebPages.xml
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\Newtonsoft.Json.xml
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\Antlr3.Runtime.pdb
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\obj\Debug\InputManagement.dll
+C:\Users\kittayod.pet\Desktop\Input\InputManagement\obj\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\csc.exe
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\csc.exe.config
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\csc.rsp
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\csi.exe
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\csi.rsp
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\System.AppContext.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\vbc.exe
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\vbc.exe.config
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\vbc.rsp
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\Antlr3.Runtime.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\Login.exe
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\Newtonsoft.Json.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\System.Web.Helpers.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\System.Web.Optimization.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\System.Web.Razor.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\WebGrease.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\Login.pdb
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\System.Web.Helpers.xml
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\System.Web.Mvc.xml
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\System.Web.Optimization.xml
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\System.Web.Razor.xml
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\System.Web.WebPages.xml
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\Newtonsoft.Json.xml
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\Antlr3.Runtime.pdb
+C:\Users\anawat.mon\Desktop\Input\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anawat.mon\Desktop\Input\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input\InputManagement\obj\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input\InputManagement\obj\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\csc.exe
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\csc.exe.config
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\csc.rsp
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\csi.exe
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\csi.rsp
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\System.AppContext.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\vbc.exe
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\vbc.exe.config
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\vbc.rsp
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\Antlr3.Runtime.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\Newtonsoft.Json.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\System.Web.Helpers.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\System.Web.Optimization.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\System.Web.Razor.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\WebGrease.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\System.Web.Helpers.xml
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\System.Web.Mvc.xml
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\System.Web.Optimization.xml
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\System.Web.Razor.xml
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\System.Web.WebPages.xml
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\Newtonsoft.Json.xml
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\Antlr3.Runtime.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\obj\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\InputManagement\obj\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\csc.exe
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\csc.exe.config
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\csc.rsp
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\csi.exe
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\csi.rsp
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\System.AppContext.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\vbc.exe
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\vbc.exe.config
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\vbc.rsp
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\Antlr3.Runtime.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\Newtonsoft.Json.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\System.Web.Helpers.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\System.Web.Optimization.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\System.Web.Razor.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\WebGrease.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\System.Web.Helpers.xml
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\System.Web.Mvc.xml
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\System.Web.Optimization.xml
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\System.Web.Razor.xml
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\System.Web.WebPages.xml
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\Newtonsoft.Json.xml
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\Antlr3.Runtime.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\obj\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\InputManagement\obj\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\csc.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\csc.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\csc.rsp
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\csi.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\csi.rsp
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\System.AppContext.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\vbc.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\vbc.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\vbc.rsp
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\Antlr3.Runtime.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\Newtonsoft.Json.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\System.Web.Helpers.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\System.Web.Optimization.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\System.Web.Razor.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\WebGrease.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\System.Web.Helpers.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\System.Web.Mvc.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\System.Web.Optimization.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\System.Web.Razor.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\System.Web.WebPages.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\Newtonsoft.Json.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\Antlr3.Runtime.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\obj\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\InputManagement\obj\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\csc.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\csc.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\csc.rsp
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\csi.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\csi.rsp
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\System.AppContext.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\vbc.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\vbc.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\vbc.rsp
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\Antlr3.Runtime.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\Newtonsoft.Json.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\System.Web.Helpers.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\System.Web.Optimization.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\System.Web.Razor.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\WebGrease.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\System.Web.Helpers.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\System.Web.Mvc.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\System.Web.Optimization.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\System.Web.Razor.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\System.Web.WebPages.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\Newtonsoft.Json.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\Antlr3.Runtime.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\obj\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\InputManagement\obj\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\csc.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\csc.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\csc.rsp
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\csi.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\csi.rsp
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\System.AppContext.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\vbc.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\vbc.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\vbc.rsp
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\Antlr3.Runtime.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\Newtonsoft.Json.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\System.Web.Helpers.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\System.Web.Optimization.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\System.Web.Razor.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\WebGrease.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\System.Web.Helpers.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\System.Web.Mvc.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\System.Web.Optimization.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\System.Web.Razor.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\System.Web.WebPages.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\Newtonsoft.Json.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\Antlr3.Runtime.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\obj\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\InputManagement\obj\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\csc.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\csc.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\csc.rsp
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\csi.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\csi.rsp
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\System.AppContext.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\vbc.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\vbc.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\vbc.rsp
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\Antlr3.Runtime.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\Newtonsoft.Json.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\System.Web.Helpers.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\System.Web.Optimization.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\System.Web.Razor.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\WebGrease.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\System.Web.Helpers.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\System.Web.Mvc.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\System.Web.Optimization.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\System.Web.Razor.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\System.Web.WebPages.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\Newtonsoft.Json.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\Antlr3.Runtime.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\obj\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\InputManagement\obj\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\csc.exe
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\csc.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\csc.rsp
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\csi.exe
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\csi.rsp
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\System.AppContext.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\vbc.exe
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\vbc.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\vbc.rsp
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\Antlr3.Runtime.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\Newtonsoft.Json.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\System.Web.Helpers.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\System.Web.Optimization.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\System.Web.Razor.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\WebGrease.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\System.Web.Helpers.xml
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\System.Web.Mvc.xml
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\System.Web.Optimization.xml
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\System.Web.Razor.xml
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\System.Web.WebPages.xml
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\Newtonsoft.Json.xml
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\Antlr3.Runtime.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\obj\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\InputManagement\obj\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\InputManagement.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\csc.exe
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\csc.exe.config
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\csc.rsp
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\csi.exe
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\csi.rsp
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\System.AppContext.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\vbc.exe
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\vbc.exe.config
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\vbc.rsp
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\Antlr3.Runtime.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\Login.exe
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\Newtonsoft.Json.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\System.Web.Helpers.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\System.Web.Optimization.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\System.Web.Razor.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\WebGrease.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\Login.pdb
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\Login.exe.config
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\System.Web.Helpers.xml
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\System.Web.Mvc.xml
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\System.Web.Optimization.xml
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\System.Web.Razor.xml
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\System.Web.WebPages.xml
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\Newtonsoft.Json.xml
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\Antlr3.Runtime.pdb
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\obj\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\InputManagement\obj\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\csc.exe
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\csc.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\csc.rsp
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\csi.exe
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\csi.rsp
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\System.AppContext.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\vbc.exe
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\vbc.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\vbc.rsp
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\Antlr3.Runtime.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\Newtonsoft.Json.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\System.Web.Helpers.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\System.Web.Optimization.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\System.Web.Razor.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\WebGrease.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\System.Web.Helpers.xml
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\System.Web.Mvc.xml
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\System.Web.Optimization.xml
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\System.Web.Razor.xml
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\System.Web.WebPages.xml
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\Newtonsoft.Json.xml
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\Antlr3.Runtime.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\obj\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\InputManagement\obj\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\csc.exe
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\csc.exe.config
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\csc.rsp
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\csi.exe
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\csi.rsp
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\System.AppContext.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\vbc.exe
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\vbc.exe.config
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\vbc.rsp
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\Antlr3.Runtime.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\Login.exe
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\Newtonsoft.Json.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\System.Web.Helpers.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\System.Web.Optimization.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\System.Web.Razor.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\WebGrease.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\Login.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\Login.exe.config
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\System.Web.Helpers.xml
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\System.Web.Mvc.xml
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\System.Web.Optimization.xml
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\System.Web.Razor.xml
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\System.Web.WebPages.xml
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\Newtonsoft.Json.xml
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\Antlr3.Runtime.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\obj\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\InputManagement\obj\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\csc.exe
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\csc.exe.config
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\csc.rsp
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\csi.exe
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\csi.rsp
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\System.AppContext.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\vbc.exe
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\vbc.exe.config
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\vbc.rsp
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\Antlr3.Runtime.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\Login.exe
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\Newtonsoft.Json.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\System.Web.Helpers.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\System.Web.Optimization.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\System.Web.Razor.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\WebGrease.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\Login.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\Login.exe.config
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\System.Web.Helpers.xml
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\System.Web.Mvc.xml
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\System.Web.Optimization.xml
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\System.Web.Razor.xml
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\System.Web.WebPages.xml
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\Newtonsoft.Json.xml
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\Antlr3.Runtime.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\obj\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\InputManagement\obj\Debug\InputManagement.pdb
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\InputManagement.dll.config
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\InputManagement.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\InputManagement.pdb
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\csc.exe
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\csc.exe.config
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\csc.rsp
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\csi.exe
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\csi.rsp
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\System.AppContext.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\vbc.exe
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\vbc.exe.config
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\vbc.rsp
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\Antlr3.Runtime.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\BusinessData.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\Login.exe
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\Newtonsoft.Json.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.Helpers.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.Mvc.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.Optimization.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.Razor.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.WebPages.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\WebGrease.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\MySql.Data.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\BusinessData.pdb
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\Login.pdb
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\Login.exe.config
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.Helpers.xml
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.Mvc.xml
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.Optimization.xml
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.Razor.xml
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.WebPages.xml
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\Newtonsoft.Json.xml
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\Antlr3.Runtime.pdb
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\obj\Debug\InputManagement.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\InputManagement\obj\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\csc.exe
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\csc.exe.config
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\csc.rsp
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\csi.exe
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\csi.rsp
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\System.AppContext.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\vbc.exe
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\vbc.exe.config
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\vbc.rsp
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\Antlr3.Runtime.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\Login.exe
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\Newtonsoft.Json.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.Helpers.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.Optimization.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.Razor.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\WebGrease.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\Login.pdb
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.Helpers.xml
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.Mvc.xml
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.Optimization.xml
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.Razor.xml
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.WebPages.xml
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\Newtonsoft.Json.xml
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\Antlr3.Runtime.pdb
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\obj\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\InputManagement\obj\Debug\InputManagement.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\InputManagement.dll.config
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\InputManagement.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\InputManagement.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\csc.exe
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\csc.exe.config
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\csc.rsp
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\csi.exe
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\csi.rsp
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\System.AppContext.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\vbc.exe
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\vbc.exe.config
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\vbc.rsp
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\Antlr3.Runtime.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\BusinessData.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\Login.exe
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\Newtonsoft.Json.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\System.Web.Helpers.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\System.Web.Mvc.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\System.Web.Optimization.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\System.Web.Razor.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\System.Web.WebPages.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\WebGrease.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\MySql.Data.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\BusinessData.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\Login.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\Login.exe.config
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\System.Web.Helpers.xml
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\System.Web.Mvc.xml
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\System.Web.Optimization.xml
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\System.Web.Razor.xml
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\System.Web.WebPages.xml
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\Newtonsoft.Json.xml
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\Antlr3.Runtime.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\obj\Debug\InputManagement.csprojAssemblyReference.cache
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\obj\Debug\InputManagement.csproj.CoreCompileInputs.cache
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\obj\Debug\InputManagement.csproj.CopyComplete
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\obj\Debug\InputManagement.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\InputManagement\obj\Debug\InputManagement.pdb

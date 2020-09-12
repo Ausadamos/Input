@@ -1,0 +1,171 @@
+C:\Users\41284701\Desktop\UTL.RepTimeStamp\BusinessData\bin\BusinessData.dll
+C:\Users\41284701\Desktop\UTL.RepTimeStamp\BusinessData\bin\BusinessData.pdb
+C:\Users\41284701\Desktop\UTL.RepTimeStamp\BusinessData\bin\MySql.Data.dll
+C:\Users\41284701\Desktop\UTL.RepTimeStamp\BusinessData\obj\Debug\BusinessData.csprojResolveAssemblyReference.cache
+C:\Users\41284701\Desktop\UTL.RepTimeStamp\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\41284701\Desktop\UTL.RepTimeStamp\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\41284701\Desktop\FiTel.Security\BusinessData\bin\BusinessData.dll
+C:\Users\41284701\Desktop\FiTel.Security\BusinessData\bin\BusinessData.pdb
+C:\Users\41284701\Desktop\FiTel.Security\BusinessData\bin\MySql.Data.dll
+C:\Users\41284701\Desktop\FiTel.Security\BusinessData\obj\Debug\BusinessData.csprojResolveAssemblyReference.cache
+C:\Users\41284701\Desktop\FiTel.Security\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\41284701\Desktop\FiTel.Security\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\41284701\Desktop\FiTel Train\FiTel.Security\BusinessData\bin\BusinessData.dll
+C:\Users\41284701\Desktop\FiTel Train\FiTel.Security\BusinessData\bin\BusinessData.pdb
+C:\Users\41284701\Desktop\FiTel Train\FiTel.Security\BusinessData\obj\Debug\BusinessData.csprojResolveAssemblyReference.cache
+C:\Users\41284701\Desktop\FiTel Train\FiTel.Security\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\41284701\Desktop\FiTel Train\FiTel.Security\BusinessData\obj\Debug\BusinessData.pdb
+\\192.168.0.80\09_active\Comm\06-Engineering\11 Programmer\10-Training\19_05_2018\FiTel Train\FiTel.Security\BusinessData\obj\Debug\BusinessData.csprojResolveAssemblyReference.cache
+\\192.168.0.80\09_active\Comm\06-Engineering\11 Programmer\10-Training\19_05_2018\FiTel Train\FiTel.Security\BusinessData\obj\Debug\BusinessData.dll
+\\192.168.0.80\09_active\Comm\06-Engineering\11 Programmer\10-Training\19_05_2018\FiTel Train\FiTel.Security\BusinessData\obj\Debug\BusinessData.pdb
+D:\00_Personal_Jaturong\Software project\FiTel.Security\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+D:\00_Personal_Jaturong\Software project\FiTel.Security\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+D:\00_Personal_Jaturong\Software project\FiTel.Security\BusinessData\obj\Debug\BusinessData.dll
+D:\00_Personal_Jaturong\Software project\FiTel.Security\BusinessData\obj\Debug\BusinessData.pdb
+D:\00_Personal_Jaturong\Software project\FFT_Order_Management\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+D:\00_Personal_Jaturong\Software project\FFT_Order_Management\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+D:\00_Personal_Jaturong\Software project\FFT_Order_Management\BusinessData\obj\Debug\BusinessData.dll
+D:\00_Personal_Jaturong\Software project\FFT_Order_Management\BusinessData\obj\Debug\BusinessData.pdb
+D:\00_Personal_Jaturong\Software project\FFT_Order_Management\BusinessData\bin\BusinessData.dll
+D:\00_Personal_Jaturong\Software project\FFT_Order_Management\BusinessData\bin\BusinessData.pdb
+D:\00_Personal_Jaturong\Software project\FFT_Order_Management\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+D:\Project\FFT_Order_Management\BusinessData\bin\BusinessData.dll
+D:\Project\FFT_Order_Management\BusinessData\bin\BusinessData.pdb
+D:\Project\FFT_Order_Management\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+D:\Project\FFT_Order_Management\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+D:\Project\FFT_Order_Management\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+D:\Project\FFT_Order_Management\BusinessData\obj\Debug\BusinessData.dll
+D:\Project\FFT_Order_Management\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\BusinessData\bin\BusinessData.dll
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\BusinessData\bin\BusinessData.pdb
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+C:\Users\jaturong.kie\source\repos\InputManagement\BusinessData\bin\BusinessData.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\BusinessData\bin\BusinessData.pdb
+C:\Users\jaturong.kie\source\repos\InputManagement\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+C:\Users\jaturong.kie\source\repos\InputManagement\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\jaturong.kie\source\repos\InputManagement\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+C:\Users\jaturong.kie\source\repos\InputManagement\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\kittayod.pet\Desktop\InputManagement\BusinessData\bin\BusinessData.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\BusinessData\bin\BusinessData.pdb
+C:\Users\kittayod.pet\Desktop\InputManagement\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+C:\Users\kittayod.pet\Desktop\InputManagement\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\kittayod.pet\Desktop\InputManagement\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+C:\Users\kittayod.pet\Desktop\InputManagement\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\InputManagement\BusinessData\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\InputManagement\BusinessData\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\InputManagement\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\InputManagement\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\InputManagement\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\InputManagement\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\InputManagement\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\jaturong.kie\source\repos\Input\BusinessData\bin\BusinessData.dll
+C:\Users\jaturong.kie\source\repos\Input\BusinessData\bin\BusinessData.pdb
+C:\Users\jaturong.kie\source\repos\Input\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+C:\Users\jaturong.kie\source\repos\Input\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\jaturong.kie\source\repos\Input\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+C:\Users\jaturong.kie\source\repos\Input\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\jaturong.kie\source\repos\Input\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\kittayod.pet\Desktop\Input\BusinessData\bin\BusinessData.dll
+C:\Users\kittayod.pet\Desktop\Input\BusinessData\bin\BusinessData.pdb
+C:\Users\kittayod.pet\Desktop\Input\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+C:\Users\kittayod.pet\Desktop\Input\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\kittayod.pet\Desktop\Input\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+C:\Users\kittayod.pet\Desktop\Input\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\kittayod.pet\Desktop\Input\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\jaturong.kie\Desktop\Input\BusinessData\bin\BusinessData.dll
+C:\Users\jaturong.kie\Desktop\Input\BusinessData\bin\BusinessData.pdb
+C:\Users\jaturong.kie\Desktop\Input\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+C:\Users\jaturong.kie\Desktop\Input\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\jaturong.kie\Desktop\Input\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+C:\Users\jaturong.kie\Desktop\Input\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\jaturong.kie\Desktop\Input\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input\BusinessData\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input\BusinessData\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\BusinessData\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\BusinessData\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\BusinessData\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\BusinessData\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\BusinessData\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\BusinessData\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\BusinessData\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\BusinessData\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\BusinessData\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\BusinessData\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\BusinessData\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\BusinessData\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\BusinessData\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\BusinessData\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\BusinessData\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\BusinessData\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\BusinessData\bin\BusinessData.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\BusinessData\bin\BusinessData.pdb
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\BusinessData\bin\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\BusinessData\bin\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\BusinessData\bin\BusinessData.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\BusinessData\bin\BusinessData.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\BusinessData\obj\Debug\BusinessData.pdb

@@ -1,0 +1,478 @@
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\LoginPC\bin\Debug\Login.exe.config
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\LoginPC\bin\Debug\Login.exe
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\LoginPC\bin\Debug\Login.pdb
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\LoginPC\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\LoginPC\obj\Debug\Login.frmLogin.resources
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\LoginPC\obj\Debug\LoginPC.Properties.Resources.resources
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\LoginPC\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\LoginPC\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\LoginPC\obj\Debug\Login.exe
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\LoginPC\obj\Debug\Login.pdb
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\bin\Debug\Login.exe.config
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\bin\Debug\Login.exe
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\bin\Debug\Login.pdb
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\bin\Debug\BusinessData.dll
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\bin\Debug\System.Web.Mvc.dll
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\bin\Debug\MySql.Data.dll
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\bin\Debug\System.Web.WebPages.dll
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\bin\Debug\BusinessData.pdb
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\obj\Debug\Login.frmLogin_Main.resources
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\obj\Debug\Login.frmSuccess.resources
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\obj\Debug\Login.pageEnter_ConfirmPass.resources
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\obj\Debug\Login.pageEnter_Create.resources
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\obj\Debug\Login.pageEnter_Forgot.resources
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\obj\Debug\Login.pageEnter_Password.resources
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\obj\Debug\Login.pageEnter_User.resources
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\obj\Debug\Login.exe
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\obj\Debug\Login.pdb
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\obj\Debug\Login.frmChangePass_Main.resources
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\obj\Debug\Login.frmEnter_OTP.resources
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\obj\Debug\Login.pageBefore_ChangPassword.resources
+C:\Users\jaturong.kie\source\repos\FFT_OrderManagement\Login\obj\Debug\Login.pageEnter_ChangePassword.resources
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\bin\Debug\Login.exe.config
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\bin\Debug\Login.exe
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\bin\Debug\Login.pdb
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\bin\Debug\BusinessData.dll
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\bin\Debug\System.Web.Mvc.dll
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\bin\Debug\MySql.Data.dll
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\bin\Debug\System.Web.WebPages.dll
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\bin\Debug\BusinessData.pdb
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\obj\Debug\Login.frmChangePass_Main.resources
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\obj\Debug\Login.frmEnter_OTP.resources
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\obj\Debug\Login.frmLogin_Main.resources
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\obj\Debug\Login.frmSuccess.resources
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\obj\Debug\Login.pageBefore_ChangPassword.resources
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\obj\Debug\Login.pageEnter_ConfirmPass.resources
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\obj\Debug\Login.pageEnter_Create.resources
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\obj\Debug\Login.pageEnter_Forgot.resources
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\obj\Debug\Login.pageEnter_Password.resources
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\obj\Debug\Login.pageEnter_ChangePassword.resources
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\obj\Debug\Login.pageEnter_User.resources
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\obj\Debug\Login.exe
+C:\Users\kittayod.pet\Desktop\FFT_OrderManagement\Login\obj\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\InputManagement\Login\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\InputManagement\Login\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\InputManagement\Login\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\InputManagement\Login\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\InputManagement\Login\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\InputManagement\Login\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\InputManagement\Login\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\InputManagement\Login\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\InputManagement\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\InputManagement\Login\obj\Debug\Login.frmChangePass_Main.resources
+C:\Users\anawat.mon\Desktop\InputManagement\Login\obj\Debug\Login.frmEnter_OTP.resources
+C:\Users\anawat.mon\Desktop\InputManagement\Login\obj\Debug\Login.frmLogin_Main.resources
+C:\Users\anawat.mon\Desktop\InputManagement\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\InputManagement\Login\obj\Debug\Login.frmSuccess.resources
+C:\Users\anawat.mon\Desktop\InputManagement\Login\obj\Debug\Login.pageBefore_ChangPassword.resources
+C:\Users\anawat.mon\Desktop\InputManagement\Login\obj\Debug\Login.pageEnter_ConfirmPass.resources
+C:\Users\anawat.mon\Desktop\InputManagement\Login\obj\Debug\Login.pageEnter_Create.resources
+C:\Users\anawat.mon\Desktop\InputManagement\Login\obj\Debug\Login.pageEnter_Forgot.resources
+C:\Users\anawat.mon\Desktop\InputManagement\Login\obj\Debug\Login.pageEnter_Password.resources
+C:\Users\anawat.mon\Desktop\InputManagement\Login\obj\Debug\Login.pageEnter_ChangePassword.resources
+C:\Users\anawat.mon\Desktop\InputManagement\Login\obj\Debug\Login.pageEnter_User.resources
+C:\Users\anawat.mon\Desktop\InputManagement\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\InputManagement\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\InputManagement\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\InputManagement\Login\obj\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\InputManagement\Login\obj\Debug\Login.pdb
+C:\Users\jaturong.kie\source\repos\Input\Login\bin\Debug\Login.exe.config
+C:\Users\jaturong.kie\source\repos\Input\Login\bin\Debug\Login.exe
+C:\Users\jaturong.kie\source\repos\Input\Login\bin\Debug\Login.pdb
+C:\Users\jaturong.kie\source\repos\Input\Login\bin\Debug\BusinessData.dll
+C:\Users\jaturong.kie\source\repos\Input\Login\bin\Debug\System.Web.Mvc.dll
+C:\Users\jaturong.kie\source\repos\Input\Login\bin\Debug\MySql.Data.dll
+C:\Users\jaturong.kie\source\repos\Input\Login\bin\Debug\System.Web.WebPages.dll
+C:\Users\jaturong.kie\source\repos\Input\Login\bin\Debug\BusinessData.pdb
+C:\Users\jaturong.kie\source\repos\Input\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\jaturong.kie\source\repos\Input\Login\obj\Debug\Login.frmChangePass_Main.resources
+C:\Users\jaturong.kie\source\repos\Input\Login\obj\Debug\Login.frmEnter_OTP.resources
+C:\Users\jaturong.kie\source\repos\Input\Login\obj\Debug\Login.frmLogin_Main.resources
+C:\Users\jaturong.kie\source\repos\Input\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\jaturong.kie\source\repos\Input\Login\obj\Debug\Login.frmSuccess.resources
+C:\Users\jaturong.kie\source\repos\Input\Login\obj\Debug\Login.pageBefore_ChangPassword.resources
+C:\Users\jaturong.kie\source\repos\Input\Login\obj\Debug\Login.pageEnter_ConfirmPass.resources
+C:\Users\jaturong.kie\source\repos\Input\Login\obj\Debug\Login.pageEnter_Create.resources
+C:\Users\jaturong.kie\source\repos\Input\Login\obj\Debug\Login.pageEnter_Forgot.resources
+C:\Users\jaturong.kie\source\repos\Input\Login\obj\Debug\Login.pageEnter_Password.resources
+C:\Users\jaturong.kie\source\repos\Input\Login\obj\Debug\Login.pageEnter_ChangePassword.resources
+C:\Users\jaturong.kie\source\repos\Input\Login\obj\Debug\Login.pageEnter_User.resources
+C:\Users\jaturong.kie\source\repos\Input\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\jaturong.kie\source\repos\Input\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\jaturong.kie\source\repos\Input\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\jaturong.kie\source\repos\Input\Login\obj\Debug\Login.exe
+C:\Users\jaturong.kie\source\repos\Input\Login\obj\Debug\Login.pdb
+C:\Users\kittayod.pet\Desktop\Input\Login\bin\Debug\Login.exe.config
+C:\Users\kittayod.pet\Desktop\Input\Login\bin\Debug\Login.exe
+C:\Users\kittayod.pet\Desktop\Input\Login\bin\Debug\Login.pdb
+C:\Users\kittayod.pet\Desktop\Input\Login\bin\Debug\BusinessData.dll
+C:\Users\kittayod.pet\Desktop\Input\Login\bin\Debug\System.Web.Mvc.dll
+C:\Users\kittayod.pet\Desktop\Input\Login\bin\Debug\MySql.Data.dll
+C:\Users\kittayod.pet\Desktop\Input\Login\bin\Debug\System.Web.WebPages.dll
+C:\Users\kittayod.pet\Desktop\Input\Login\bin\Debug\BusinessData.pdb
+C:\Users\kittayod.pet\Desktop\Input\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\kittayod.pet\Desktop\Input\Login\obj\Debug\Login.frmChangePass_Main.resources
+C:\Users\kittayod.pet\Desktop\Input\Login\obj\Debug\Login.frmEnter_OTP.resources
+C:\Users\kittayod.pet\Desktop\Input\Login\obj\Debug\Login.frmLogin_Main.resources
+C:\Users\kittayod.pet\Desktop\Input\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\kittayod.pet\Desktop\Input\Login\obj\Debug\Login.frmSuccess.resources
+C:\Users\kittayod.pet\Desktop\Input\Login\obj\Debug\Login.pageBefore_ChangPassword.resources
+C:\Users\kittayod.pet\Desktop\Input\Login\obj\Debug\Login.pageEnter_ConfirmPass.resources
+C:\Users\kittayod.pet\Desktop\Input\Login\obj\Debug\Login.pageEnter_Create.resources
+C:\Users\kittayod.pet\Desktop\Input\Login\obj\Debug\Login.pageEnter_Forgot.resources
+C:\Users\kittayod.pet\Desktop\Input\Login\obj\Debug\Login.pageEnter_Password.resources
+C:\Users\kittayod.pet\Desktop\Input\Login\obj\Debug\Login.pageEnter_ChangePassword.resources
+C:\Users\kittayod.pet\Desktop\Input\Login\obj\Debug\Login.pageEnter_User.resources
+C:\Users\kittayod.pet\Desktop\Input\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\kittayod.pet\Desktop\Input\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\kittayod.pet\Desktop\Input\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\kittayod.pet\Desktop\Input\Login\obj\Debug\Login.exe
+C:\Users\kittayod.pet\Desktop\Input\Login\obj\Debug\Login.pdb
+C:\Users\jaturong.kie\Desktop\Input\Login\bin\Debug\Login.exe.config
+C:\Users\jaturong.kie\Desktop\Input\Login\bin\Debug\Login.exe
+C:\Users\jaturong.kie\Desktop\Input\Login\bin\Debug\Login.pdb
+C:\Users\jaturong.kie\Desktop\Input\Login\bin\Debug\BusinessData.dll
+C:\Users\jaturong.kie\Desktop\Input\Login\bin\Debug\System.Web.Mvc.dll
+C:\Users\jaturong.kie\Desktop\Input\Login\bin\Debug\MySql.Data.dll
+C:\Users\jaturong.kie\Desktop\Input\Login\bin\Debug\System.Web.WebPages.dll
+C:\Users\jaturong.kie\Desktop\Input\Login\bin\Debug\BusinessData.pdb
+C:\Users\jaturong.kie\Desktop\Input\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\jaturong.kie\Desktop\Input\Login\obj\Debug\Login.frmChangePass_Main.resources
+C:\Users\jaturong.kie\Desktop\Input\Login\obj\Debug\Login.frmEnter_OTP.resources
+C:\Users\jaturong.kie\Desktop\Input\Login\obj\Debug\Login.frmLogin_Main.resources
+C:\Users\jaturong.kie\Desktop\Input\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\jaturong.kie\Desktop\Input\Login\obj\Debug\Login.frmSuccess.resources
+C:\Users\jaturong.kie\Desktop\Input\Login\obj\Debug\Login.pageBefore_ChangPassword.resources
+C:\Users\jaturong.kie\Desktop\Input\Login\obj\Debug\Login.pageEnter_ConfirmPass.resources
+C:\Users\jaturong.kie\Desktop\Input\Login\obj\Debug\Login.pageEnter_Create.resources
+C:\Users\jaturong.kie\Desktop\Input\Login\obj\Debug\Login.pageEnter_Forgot.resources
+C:\Users\jaturong.kie\Desktop\Input\Login\obj\Debug\Login.pageEnter_Password.resources
+C:\Users\jaturong.kie\Desktop\Input\Login\obj\Debug\Login.pageEnter_ChangePassword.resources
+C:\Users\jaturong.kie\Desktop\Input\Login\obj\Debug\Login.pageEnter_User.resources
+C:\Users\jaturong.kie\Desktop\Input\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\jaturong.kie\Desktop\Input\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\jaturong.kie\Desktop\Input\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\jaturong.kie\Desktop\Input\Login\obj\Debug\Login.exe
+C:\Users\jaturong.kie\Desktop\Input\Login\obj\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input\Login\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input\Login\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input\Login\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input\Login\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input\Login\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input\Login\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input\Login\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input\Login\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input\Login\obj\Debug\Login.frmChangePass_Main.resources
+C:\Users\anawat.mon\Desktop\Input\Login\obj\Debug\Login.frmEnter_OTP.resources
+C:\Users\anawat.mon\Desktop\Input\Login\obj\Debug\Login.frmLogin_Main.resources
+C:\Users\anawat.mon\Desktop\Input\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Input\Login\obj\Debug\Login.frmSuccess.resources
+C:\Users\anawat.mon\Desktop\Input\Login\obj\Debug\Login.pageBefore_ChangPassword.resources
+C:\Users\anawat.mon\Desktop\Input\Login\obj\Debug\Login.pageEnter_ConfirmPass.resources
+C:\Users\anawat.mon\Desktop\Input\Login\obj\Debug\Login.pageEnter_Create.resources
+C:\Users\anawat.mon\Desktop\Input\Login\obj\Debug\Login.pageEnter_Forgot.resources
+C:\Users\anawat.mon\Desktop\Input\Login\obj\Debug\Login.pageEnter_Password.resources
+C:\Users\anawat.mon\Desktop\Input\Login\obj\Debug\Login.pageEnter_ChangePassword.resources
+C:\Users\anawat.mon\Desktop\Input\Login\obj\Debug\Login.pageEnter_User.resources
+C:\Users\anawat.mon\Desktop\Input\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Input\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input\Login\obj\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input\Login\obj\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\obj\Debug\Login.frmChangePass_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\obj\Debug\Login.frmEnter_OTP.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\obj\Debug\Login.frmLogin_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\obj\Debug\Login.frmSuccess.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\obj\Debug\Login.pageBefore_ChangPassword.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\obj\Debug\Login.pageEnter_ConfirmPass.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\obj\Debug\Login.pageEnter_Create.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\obj\Debug\Login.pageEnter_Forgot.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\obj\Debug\Login.pageEnter_Password.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\obj\Debug\Login.pageEnter_ChangePassword.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\obj\Debug\Login.pageEnter_User.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\obj\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Login\obj\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\obj\Debug\Login.frmChangePass_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\obj\Debug\Login.frmEnter_OTP.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\obj\Debug\Login.frmLogin_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\obj\Debug\Login.frmSuccess.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\obj\Debug\Login.pageBefore_ChangPassword.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\obj\Debug\Login.pageEnter_ConfirmPass.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\obj\Debug\Login.pageEnter_Create.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\obj\Debug\Login.pageEnter_Forgot.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\obj\Debug\Login.pageEnter_Password.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\obj\Debug\Login.pageEnter_ChangePassword.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\obj\Debug\Login.pageEnter_User.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\obj\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Login\obj\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\obj\Debug\Login.frmChangePass_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\obj\Debug\Login.frmEnter_OTP.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\obj\Debug\Login.frmLogin_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\obj\Debug\Login.frmSuccess.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\obj\Debug\Login.pageBefore_ChangPassword.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\obj\Debug\Login.pageEnter_ConfirmPass.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\obj\Debug\Login.pageEnter_Create.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\obj\Debug\Login.pageEnter_Forgot.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\obj\Debug\Login.pageEnter_Password.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\obj\Debug\Login.pageEnter_ChangePassword.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\obj\Debug\Login.pageEnter_User.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\obj\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Login\obj\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\obj\Debug\Login.frmChangePass_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\obj\Debug\Login.frmEnter_OTP.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\obj\Debug\Login.frmLogin_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\obj\Debug\Login.frmSuccess.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\obj\Debug\Login.pageBefore_ChangPassword.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\obj\Debug\Login.pageEnter_ConfirmPass.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\obj\Debug\Login.pageEnter_Create.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\obj\Debug\Login.pageEnter_Forgot.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\obj\Debug\Login.pageEnter_Password.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\obj\Debug\Login.pageEnter_ChangePassword.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\obj\Debug\Login.pageEnter_User.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\obj\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Login\obj\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\obj\Debug\Login.frmChangePass_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\obj\Debug\Login.frmEnter_OTP.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\obj\Debug\Login.frmLogin_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\obj\Debug\Login.frmSuccess.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\obj\Debug\Login.pageBefore_ChangPassword.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\obj\Debug\Login.pageEnter_ConfirmPass.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\obj\Debug\Login.pageEnter_Create.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\obj\Debug\Login.pageEnter_Forgot.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\obj\Debug\Login.pageEnter_Password.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\obj\Debug\Login.pageEnter_ChangePassword.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\obj\Debug\Login.pageEnter_User.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\obj\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Login\obj\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\obj\Debug\Login.frmChangePass_Main.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\obj\Debug\Login.frmEnter_OTP.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\obj\Debug\Login.frmLogin_Main.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\obj\Debug\Login.frmSuccess.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\obj\Debug\Login.pageBefore_ChangPassword.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\obj\Debug\Login.pageEnter_ConfirmPass.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\obj\Debug\Login.pageEnter_Create.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\obj\Debug\Login.pageEnter_Forgot.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\obj\Debug\Login.pageEnter_Password.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\obj\Debug\Login.pageEnter_ChangePassword.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\obj\Debug\Login.pageEnter_User.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\obj\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Login\obj\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\obj\Debug\Login.frmChangePass_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\obj\Debug\Login.frmEnter_OTP.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\obj\Debug\Login.frmLogin_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\obj\Debug\Login.frmSuccess.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\obj\Debug\Login.pageBefore_ChangPassword.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\obj\Debug\Login.pageEnter_ConfirmPass.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\obj\Debug\Login.pageEnter_Create.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\obj\Debug\Login.pageEnter_Forgot.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\obj\Debug\Login.pageEnter_Password.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\obj\Debug\Login.pageEnter_ChangePassword.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\obj\Debug\Login.pageEnter_User.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\obj\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Login\obj\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\obj\Debug\Login.frmChangePass_Main.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\obj\Debug\Login.frmEnter_OTP.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\obj\Debug\Login.frmLogin_Main.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\obj\Debug\Login.frmSuccess.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\obj\Debug\Login.pageBefore_ChangPassword.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\obj\Debug\Login.pageEnter_ConfirmPass.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\obj\Debug\Login.pageEnter_Create.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\obj\Debug\Login.pageEnter_Forgot.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\obj\Debug\Login.pageEnter_Password.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\obj\Debug\Login.pageEnter_ChangePassword.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\obj\Debug\Login.pageEnter_User.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\obj\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Login\obj\Debug\Login.pdb
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\bin\Debug\Login.exe.config
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\bin\Debug\Login.exe
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\bin\Debug\Login.pdb
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\bin\Debug\BusinessData.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\bin\Debug\System.Web.Mvc.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\bin\Debug\MySql.Data.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\bin\Debug\System.Web.WebPages.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\bin\Debug\BusinessData.pdb
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.frmChangePass_Main.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.frmEnter_OTP.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.frmLogin_Main.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.frmSuccess.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.pageBefore_ChangPassword.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.pageEnter_ConfirmPass.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.pageEnter_Create.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.pageEnter_Forgot.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.pageEnter_Password.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.pageEnter_ChangePassword.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.pageEnter_User.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.exe
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.frmChangePass_Main.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.frmEnter_OTP.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.frmLogin_Main.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.frmSuccess.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.pageBefore_ChangPassword.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.pageEnter_ConfirmPass.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.pageEnter_Create.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.pageEnter_Forgot.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.pageEnter_Password.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.pageEnter_ChangePassword.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.pageEnter_User.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Login\obj\Debug\Login.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\bin\Debug\Login.exe.config
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\bin\Debug\Login.exe
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\bin\Debug\Login.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\bin\Debug\BusinessData.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\bin\Debug\System.Web.Mvc.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\bin\Debug\MySql.Data.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\bin\Debug\System.Web.WebPages.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\bin\Debug\BusinessData.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\obj\Debug\Login.frmChangePass_Main.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\obj\Debug\Login.frmEnter_OTP.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\obj\Debug\Login.frmLogin_Main.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\obj\Debug\Login.frmSuccess.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\obj\Debug\Login.pageBefore_ChangPassword.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\obj\Debug\Login.pageEnter_ConfirmPass.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\obj\Debug\Login.pageEnter_Create.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\obj\Debug\Login.pageEnter_Forgot.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\obj\Debug\Login.pageEnter_Password.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\obj\Debug\Login.pageEnter_ChangePassword.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\obj\Debug\Login.pageEnter_User.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\obj\Debug\Login.exe
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\obj\Debug\Login.pdb

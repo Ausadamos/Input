@@ -1,0 +1,1169 @@
+C:\Users\jaturong.kie\source\repos\InputManagement\Input\Input\bin\Debug\Input.exe.config
+C:\Users\jaturong.kie\source\repos\InputManagement\Input\Input\bin\Debug\Input.exe
+C:\Users\jaturong.kie\source\repos\InputManagement\Input\Input\bin\Debug\Input.pdb
+C:\Users\jaturong.kie\source\repos\InputManagement\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\jaturong.kie\source\repos\InputManagement\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\jaturong.kie\source\repos\InputManagement\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\jaturong.kie\source\repos\InputManagement\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\jaturong.kie\source\repos\InputManagement\Input\Input\obj\Debug\Input.exe
+C:\Users\jaturong.kie\source\repos\InputManagement\Input\Input\obj\Debug\Input.pdb
+C:\Users\jaturong.kie\source\repos\InputManagement\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\jaturong.kie\source\repos\InputManagement\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\jaturong.kie\source\repos\InputManagement\Input\Input\obj\Debug\Input.Views.Rework.pageRework_Main.resources
+C:\Users\jaturong.kie\source\repos\InputManagement\Input\Input\obj\Debug\Input.Views.RMA.pageRMA_Main.resources
+C:\Users\jaturong.kie\source\repos\InputManagement\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\jaturong.kie\source\repos\InputManagement\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\jaturong.kie\source\repos\InputManagement\Input\Input\obj\Debug\Input.Views.Input.pageInput_SelectOrder.resources
+C:\Users\jaturong.kie\source\repos\InputManagement\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\bin\Debug\Input.exe.config
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\bin\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\bin\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\obj\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\obj\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\bin\Debug\Input.exe.config
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\bin\Debug\Input.exe
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\bin\Debug\Input.pdb
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\obj\Debug\Input.Views.Rework.pageRework_Main.resources
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\obj\Debug\Input.Views.RMA.pageRMA_Main.resources
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\obj\Debug\Input.exe
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\obj\Debug\Input.pdb
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\kittayod.pet\Desktop\InputManagement\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\anawat.mon\Desktop\InputManagement\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\bin\Debug\Input.exe.config
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\bin\Debug\Input.exe
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\bin\Debug\Input.pdb
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\bin\Debug\Login.exe
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\bin\Debug\Login.pdb
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\bin\Debug\Login.exe.config
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\obj\Debug\Input.exe
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\obj\Debug\Input.pdb
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\obj\Debug\Input.pageSetFlow_1.resources
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\jaturong.kie\source\repos\Input\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\bin\Debug\Input.exe.config
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\bin\Debug\Input.exe
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\bin\Debug\Input.pdb
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\bin\Debug\Login.exe
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\bin\Debug\Login.pdb
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\bin\Debug\Login.exe.config
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.exe
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.pdb
+D:\Project\Input\Input\Input\bin\Debug\Input.exe.config
+D:\Project\Input\Input\Input\bin\Debug\Input.exe
+D:\Project\Input\Input\Input\bin\Debug\Input.pdb
+D:\Project\Input\Input\Input\bin\Debug\AdvancedDataGridView.dll
+D:\Project\Input\Input\Input\bin\Debug\BusinessData.dll
+D:\Project\Input\Input\Input\bin\Debug\InputManagement.dll
+D:\Project\Input\Input\Input\bin\Debug\Login.exe
+D:\Project\Input\Input\Input\bin\Debug\System.Web.Mvc.dll
+D:\Project\Input\Input\Input\bin\Debug\MySql.Data.dll
+D:\Project\Input\Input\Input\bin\Debug\System.Web.WebPages.dll
+D:\Project\Input\Input\Input\bin\Debug\BusinessData.pdb
+D:\Project\Input\Input\Input\bin\Debug\InputManagement.pdb
+D:\Project\Input\Input\Input\bin\Debug\InputManagement.dll.config
+D:\Project\Input\Input\Input\bin\Debug\Login.pdb
+D:\Project\Input\Input\Input\bin\Debug\Login.exe.config
+D:\Project\Input\Input\Input\bin\Debug\AdvancedDataGridView.xml
+D:\Project\Input\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\Project\Input\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+D:\Project\Input\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+D:\Project\Input\Input\Input\obj\Debug\Input.Properties.Resources.resources
+D:\Project\Input\Input\Input\obj\Debug\Input.frmMain.resources
+D:\Project\Input\Input\Input\obj\Debug\Input.frmInput_History.resources
+D:\Project\Input\Input\Input\obj\Debug\Input.pageInput_Main.resources
+D:\Project\Input\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+D:\Project\Input\Input\Input\obj\Debug\Input.pageRework_Main.resources
+D:\Project\Input\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+D:\Project\Input\Input\Input\obj\Debug\Input.pageRMARework.resources
+D:\Project\Input\Input\Input\obj\Debug\Input.pageSearch.resources
+D:\Project\Input\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+D:\Project\Input\Input\Input\obj\Debug\Input.pageSetFlow_1.resources
+D:\Project\Input\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+D:\Project\Input\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+D:\Project\Input\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+D:\Project\Input\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+D:\Project\Input\Input\Input\obj\Debug\Input.csproj.CopyComplete
+D:\Project\Input\Input\Input\obj\Debug\Input.exe
+D:\Project\Input\Input\Input\obj\Debug\Input.pdb
+D:\Project\Input\Input\Input\obj\Debug\Input.Views.Input.pageInput_Confirm.resources
+D:\Project\Input\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+D:\Project\Input\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\bin\Debug\Input.exe.config
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\bin\Debug\Input.exe
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\bin\Debug\Input.pdb
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\bin\Debug\Login.exe
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\bin\Debug\Login.pdb
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\bin\Debug\Login.exe.config
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.pageSetFlow_1.resources
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.exe
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.pdb
+C:\Users\kittayod.pet\Desktop\Input\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.pageRMA.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.pageUpdate_Order.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.frmSearch_SerialInput.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.frmSearch_SerialProgress.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\bin\Debug\Input.exe.config
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\bin\Debug\Input.exe
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\bin\Debug\Input.pdb
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\bin\Debug\Login.exe
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\bin\Debug\Login.pdb
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\bin\Debug\Login.exe.config
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.pageRMA.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.pageInputTest.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.frmSearch_SerialProgress.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.frmSearch_SerialInput.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.pageSetFlow_1.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.pageUpdate_Order.resources
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.exe
+C:\Users\jaturong.kie\Desktop\Input - Copy\Input\Input\obj\Debug\Input.pdb
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.pageUpdateProcessCard.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.pageSetFlow.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.pageTest.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.pageTestInitial.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.pageTestManufacturing.resources
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.pageTest_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pageCreate_ProductType.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pageRMA.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pageTest_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pageTest.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pageTestInitial.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pageTestManufacturing.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.frmSearch_SerialProgress.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.frmSearch_SerialInput.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pageSetFlow.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pageUpdateProcessCard.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pageUpdate_Order.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input\Input\Input\bin\Debug\Input.exe.config
+C:\Users\anawat.mon\Desktop\Input\Input\Input\bin\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input\Input\Input\bin\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\anawat.mon\Desktop\Input\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input\Input\Input\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input\Input\Input\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input\Input\Input\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\anawat.mon\Desktop\Input\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pdb
+C:\Users\jaturong.kie\Desktop\Input\Input\Input\obj\Debug\Input.pageCreate_ProductType.resources
+C:\Users\anawat.mon\Desktop\Input\Input\Input\obj\Debug\Input.pageInsertPO.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\bin\Debug\Input.exe.config
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\bin\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\bin\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pageCreate_ProductType.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pageRMA.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pageTest_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pageTest.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pageTestInitial.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pageTestManufacturing.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pageInsertPO.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.frmSearch_SerialProgress.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.frmSearch_SerialInput.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pageSetFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pageUpdateProcessCard.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pageUpdate_Order.resources
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input 2019-11-29\Input\Input\obj\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\bin\Debug\Input.exe.config
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\bin\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\bin\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pageCreate_ProductType.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pageRMA.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pageTest_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pageTest.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pageTestInitial.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pageTestManufacturing.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pageInsertPO.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.frmSearch_SerialProgress.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.frmSearch_SerialInput.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pageSetFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pageUpdateProcessCard.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pageUpdate_Order.resources
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input 2019-12-01\Input\Input\obj\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\bin\Debug\Input.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\bin\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\bin\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pageCreate_ProductType.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pageRMA.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pageTest_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pageTest.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pageTestInitial.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pageTestManufacturing.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pageInsertPO.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.frmSearch_SerialProgress.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.frmSearch_SerialInput.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pageSetFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pageUpdateProcessCard.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pageUpdate_Order.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-15\Input\Input\obj\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\bin\Debug\Input.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\bin\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\bin\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pageCreate_ProductType.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pageRMA.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pageTest_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pageTest.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pageTestInitial.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pageTestManufacturing.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pageInsertPO.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.frmSearch_SerialProgress.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.frmSearch_SerialInput.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pageSetFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pageUpdateProcessCard.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pageUpdate_Order.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-22\Input\Input\obj\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\bin\Debug\Input.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\bin\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\bin\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pageCreate_ProductType.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pageRMA.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pageTest_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pageTest.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pageTestInitial.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pageTestManufacturing.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pageInsertPO.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.frmSearch_SerialProgress.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.frmSearch_SerialInput.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pageSetFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pageUpdateProcessCard.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pageUpdate_Order.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-23\Input\Input\obj\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\bin\Debug\Input.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\bin\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\bin\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pageCreate_ProductType.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pageRMA.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pageTest_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pageTest.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pageTestInitial.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pageTestManufacturing.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pageInsertPO.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.frmSearch_SerialProgress.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.frmSearch_SerialInput.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pageSetFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pageUpdateProcessCard.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pageUpdate_Order.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-24(fix Create Process Flow)\Input\Input\obj\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\bin\Debug\Input.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\bin\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\bin\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pageCreate_ProductType.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pageRMA.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pageTest_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pageTest.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pageTestInitial.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pageTestManufacturing.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pageInsertPO.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.frmSearch_SerialProgress.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.frmSearch_SerialInput.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pageSetFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pageUpdateProcessCard.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pageUpdate_Order.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-24\Input\Input\obj\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\bin\Debug\Input.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\bin\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\bin\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pageCreate_ProductType.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pageRMA.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pageTest_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pageTest.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pageTestInitial.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pageTestManufacturing.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pageInsertPO.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.frmSearch_SerialProgress.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.frmSearch_SerialInput.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pageSetFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pageUpdateProcessCard.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pageUpdate_Order.resources
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input 2020-01-27\Input\Input\obj\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\bin\Debug\Input.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\bin\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\bin\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pageCreate_ProductType.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pageRMA.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pageTest_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pageTest.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pageTestInitial.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pageTestManufacturing.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pageInsertPO.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.frmSearch_SerialProgress.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.frmSearch_SerialInput.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pageSetFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pageUpdateProcessCard.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pageUpdate_Order.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input 2020-02-07\Input\Input\obj\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\bin\Debug\Input.exe.config
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\bin\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\bin\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pageCreate_ProductType.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pageRMA.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pageTest_Confirm.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pageTest.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pageTestInitial.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pageTestManufacturing.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pageInsertPO.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.frmSearch_SerialProgress.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.frmSearch_SerialInput.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pageSetFlow.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pageUpdateProcessCard.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pageUpdate_Order.resources
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\PROJECT\Input 2020-02-14\Input\Input\obj\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\bin\Debug\Input.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\bin\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\bin\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pageCreate_ProductType.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pageRMA.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pageTest_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pageTest.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pageTestInitial.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pageTestManufacturing.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pageInsertPO.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.frmSearch_SerialProgress.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.frmSearch_SerialInput.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pageSetFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pageUpdateProcessCard.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pageUpdate_Order.resources
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input 2020-02-14\Input\Input\obj\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\bin\Debug\Input.exe.config
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\bin\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\bin\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pageCreate_ProductType.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pageRMA.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pageTest_Confirm.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pageTest.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pageTestInitial.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pageTestManufacturing.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pageInsertPO.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.frmSearch_SerialProgress.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.frmSearch_SerialInput.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pageSetFlow.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pageUpdateProcessCard.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pageUpdate_Order.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-10\Input\Input\obj\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\bin\Debug\Input.exe.config
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\bin\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\bin\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pageCreate_ProductType.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pageRMA.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pageTest_Confirm.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pageTest.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pageTestInitial.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pageTestManufacturing.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pageInsertPO.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.frmSearch_SerialProgress.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.frmSearch_SerialInput.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pageSetFlow.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pageUpdateProcessCard.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pageUpdate_Order.resources
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Project\Input 2020-03-13\Input\Input\obj\Debug\Input.pdb
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\Input.exe.config
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\Input.exe
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\Input.pdb
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\Login.exe
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\Login.pdb
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\Login.exe.config
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageCreate_ProductType.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageRMA.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageTest_Confirm.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageTest.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageTestInitial.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageTestManufacturing.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageInsertPO.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.frmSearch_SerialProgress.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.frmSearch_SerialInput.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageSetFlow.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageUpdateProcessCard.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageUpdate_Order.resources
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.exe
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\Input.exe.config
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\Input.pdb
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\Login.exe
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\Login.pdb
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\Login.exe.config
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageCreate_ProductType.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageRMA.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageTest_Confirm.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageTest.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageTestInitial.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageTestManufacturing.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageInsertPO.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.frmSearch_SerialProgress.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.frmSearch_SerialInput.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageSetFlow.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageUpdateProcessCard.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageUpdate_Order.resources
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.exe
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\obj\Debug\Input.pdb
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jaturong.kie\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anawat.mon\Desktop\Input(Beta)\Code\Input\Input\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\Input.exe.config
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\Input.exe
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\Input.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\Login.exe
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\Login.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\Login.exe.config
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageCreate_ProductType.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageRMA.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageTest_Confirm.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageTest.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageTestInitial.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageTestManufacturing.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageInsertPO.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.frmSearch_SerialProgress.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.frmSearch_SerialInput.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageSetFlow.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageUpdateProcessCard.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageUpdate_Order.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.exe
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\obj\Debug\Input.pageInsertSubProcecss.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\CommonClassLibrary.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\CommonClassLibrary.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\CommonClassLibrary.dll.config

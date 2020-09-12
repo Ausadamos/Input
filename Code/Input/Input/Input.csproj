@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CCE11712-9181-4DA7-B608-17BF9732C467}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Input</RootNamespace>
+    <AssemblyName>Input</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AdvancedDataGridView, Version=0.1.0.10, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\ADGV.0.1.0.10\lib\net40\AdvancedDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controllers\Cls_DataTableHelper.cs" />
+    <Compile Include="Controllers\FlowController.cs" />
+    <Compile Include="Controllers\GenerateSerialControllers.cs" />
+    <Compile Include="Controllers\ProcessControllers.cs" />
+    <Compile Include="Controllers\ProcessSubControllers.cs" />
+    <Compile Include="Controllers\ProductSubController.cs" />
+    <Compile Include="Controllers\ProductTypeController.cs" />
+    <Compile Include="Controllers\PurchaseController.cs" />
+    <Compile Include="Controllers\InputOrderControllers.cs" />
+    <Compile Include="Controllers\SearchControllers.cs" />
+    <Compile Include="Controllers\SerialProductTypeController.cs" />
+    <Compile Include="Controllers\SerialTypeController.cs" />
+    <Compile Include="Controllers\ShipmentControllers.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\Add New Product Type\pageCreate_ProductType.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Add New Product Type\pageCreate_ProductType.Designer.cs">
+      <DependentUpon>pageCreate_ProductType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Input Production\frmInput_History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Input Production\frmInput_History.Designer.cs">
+      <DependentUpon>frmInput_History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Input Production\Input\pageInput.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Input Production\Input\pageInput.Designer.cs">
+      <DependentUpon>pageInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Input Production\Input\pageInput_Confirm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Input Production\Input\pageInput_Confirm.Designer.cs">
+      <DependentUpon>pageInput_Confirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Input Production\pageInput_SelectOrder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Input Production\pageInput_SelectOrder.Designer.cs">
+      <DependentUpon>pageInput_SelectOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Input Production\Rework\pageRework_Main.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Input Production\Rework\pageRework_Main.Designer.cs">
+      <DependentUpon>pageRework_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Input Production\RMA\pageRMA.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Input Production\RMA\pageRMA.Designer.cs">
+      <DependentUpon>pageRMA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Input Production\RMA\pageRMAInvestigate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Input Production\RMA\pageRMAInvestigate.Designer.cs">
+      <DependentUpon>pageRMAInvestigate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Input Production\RMA\pageRMARework.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Input Production\RMA\pageRMARework.Designer.cs">
+      <DependentUpon>pageRMARework.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Input Production\Test\pageTest_Confirm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Input Production\Test\pageTest_Confirm.Designer.cs">
+      <DependentUpon>pageTest_Confirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Input Production\Test\pageTest.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Input Production\Test\pageTest.Designer.cs">
+      <DependentUpon>pageTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Input Production\Test\pageTestInitial.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Input Production\Test\pageTestInitial.Designer.cs">
+      <DependentUpon>pageTestInitial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Input Production\Test\pageTestManufacturing.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Input Production\Test\pageTestManufacturing.Designer.cs">
+      <DependentUpon>pageTestManufacturing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PO\pageInsertPO.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\PO\pageInsertPO.Designer.cs">
+      <DependentUpon>pageInsertPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Search\frmSearch_SerialProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Search\frmSearch_SerialProgress.Designer.cs">
+      <DependentUpon>frmSearch_SerialProgress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Search\frmSearch_SerialInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Search\frmSearch_SerialInput.Designer.cs">
+      <DependentUpon>frmSearch_SerialInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Search\pageSearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Search\pageSearch.Designer.cs">
+      <DependentUpon>pageSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Setting Flow\pageCreateFlow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Setting Flow\pageCreateFlow.Designer.cs">
+      <DependentUpon>pageCreateFlow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Setting Flow\pageSetFlow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Setting Flow\pageSetFlow.Designer.cs">
+      <DependentUpon>pageSetFlow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Setting Flow\pageUpdateFlow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Setting Flow\pageUpdateFlow.Designer.cs">
+      <DependentUpon>pageUpdateFlow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Setting Process\pageInsertProcecss.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Setting Process\pageInsertProcecss.Designer.cs">
+      <DependentUpon>pageInsertProcecss.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Setting Process sub\pageInsertProcecssSub.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Setting Process sub\pageInsertProcecssSub.Designer.cs">
+      <DependentUpon>pageInsertProcecssSub.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Setting Purchase\frmPurc_Create.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Setting Purchase\frmPurc_Create.Designer.cs">
+      <DependentUpon>frmPurc_Create.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Setting Purchase\pageSetPurchase_Main.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Setting Purchase\pageSetPurchase_Main.Designer.cs">
+      <DependentUpon>pageSetPurchase_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Setting Purchase\pageUpdatePurchase.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Setting Purchase\pageUpdatePurchase.Designer.cs">
+      <DependentUpon>pageUpdatePurchase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Update Input\pageUpdate_Order.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Update Input\pageUpdate_Order.Designer.cs">
+      <DependentUpon>pageUpdate_Order.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Views\Add New Product Type\pageCreate_ProductType.resx">
+      <DependentUpon>pageCreate_ProductType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Input Production\frmInput_History.resx">
+      <DependentUpon>frmInput_History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Input Production\Input\pageInput.resx">
+      <DependentUpon>pageInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Input Production\Input\pageInput_Confirm.resx">
+      <DependentUpon>pageInput_Confirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Input Production\pageInput_SelectOrder.resx">
+      <DependentUpon>pageInput_SelectOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Input Production\Rework\pageRework_Main.resx">
+      <DependentUpon>pageRework_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Input Production\RMA\pageRMA.resx">
+      <DependentUpon>pageRMA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Input Production\RMA\pageRMAInvestigate.resx">
+      <DependentUpon>pageRMAInvestigate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Input Production\RMA\pageRMARework.resx">
+      <DependentUpon>pageRMARework.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Input Production\Test\pageTest_Confirm.resx">
+      <DependentUpon>pageTest_Confirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Input Production\Test\pageTest.resx">
+      <DependentUpon>pageTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Input Production\Test\pageTestInitial.resx">
+      <DependentUpon>pageTestInitial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Input Production\Test\pageTestManufacturing.resx">
+      <DependentUpon>pageTestManufacturing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\PO\pageInsertPO.resx">
+      <DependentUpon>pageInsertPO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Search\frmSearch_SerialProgress.resx">
+      <DependentUpon>frmSearch_SerialProgress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Search\frmSearch_SerialInput.resx">
+      <DependentUpon>frmSearch_SerialInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Search\pageSearch.resx">
+      <DependentUpon>pageSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Setting Flow\pageCreateFlow.resx">
+      <DependentUpon>pageCreateFlow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Setting Flow\pageSetFlow.resx">
+      <DependentUpon>pageSetFlow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Setting Flow\pageUpdateFlow.resx">
+      <DependentUpon>pageUpdateFlow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Setting Process\pageInsertProcecss.resx">
+      <DependentUpon>pageInsertProcecss.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Setting Process sub\pageInsertProcecssSub.resx">
+      <DependentUpon>pageInsertProcecssSub.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Setting Purchase\frmPurc_Create.resx">
+      <DependentUpon>frmPurc_Create.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Setting Purchase\pageSetPurchase_Main.resx">
+      <DependentUpon>pageSetPurchase_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Setting Purchase\pageUpdatePurchase.resx">
+      <DependentUpon>pageUpdatePurchase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Update Input\pageUpdate_Order.resx">
+      <DependentUpon>pageUpdate_Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3914205-free-production-icon-72555-download-production-icon-72555-manufacturing-process-png-512_512_preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\CommonClassLibrary\CommonClassLibrary\CommonClassLibrary.csproj">
+      <Project>{cf191309-162c-4e7e-a4b7-9c1e040ab4a3}</Project>
+      <Name>CommonClassLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\BusinessData\BusinessData.csproj">
+      <Project>{a3287075-ec66-460f-970d-9da89e98fbb9}</Project>
+      <Name>BusinessData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\InputManagement\InputManagement.csproj">
+      <Project>{efa9c6b9-12d4-458e-a5a8-89a28a33cec0}</Project>
+      <Name>InputManagement</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Login\Login.csproj">
+      <Project>{4a583f69-45bd-4727-b219-01373a5aaf6a}</Project>
+      <Name>Login</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\588a64f5d06f6719692a2d13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\up-chevron.png" />
+    <None Include="Resources\up.png" />
+    <None Include="Resources\setting-line.png" />
+    <None Include="Resources\icons8-key-100.ico" />
+    <None Include="Resources\Artboard_2-3-512.png" />
+    <None Include="Resources\next.png" />
+    <None Include="Resources\previous.png" />
+    <None Include="Resources\down.png" />
+    <None Include="Resources\next24px.png" />
+    <None Include="Resources\back24px.png" />
+    <None Include="Resources\right-chevron.png" />
+    <None Include="Resources\left-chevron.png" />
+    <None Include="Resources\down-chevron.png" />
+    <None Include="Resources\Header_SerialInput.png" />
+    <Content Include="icon.ico" />
+    <Content Include="Resources\sailing_boat_dTi_icon.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
