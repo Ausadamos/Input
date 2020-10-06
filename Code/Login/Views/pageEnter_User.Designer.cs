@@ -206,7 +206,6 @@
             this.txtEmpID.Name = "txtEmpID";
             this.txtEmpID.Size = new System.Drawing.Size(330, 35);
             this.txtEmpID.TabIndex = 1;
-            this.txtEmpID.Text = "S524";
             this.txtEmpID.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtEmpID.TextChanged += new System.EventHandler(this.txtEmpID_TextChanged);
             // 

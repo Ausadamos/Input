@@ -1,10 +1,5 @@
 ﻿using Login.Property;
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
 namespace InputManagement.Property
 {
     public class PurchaseProperty
@@ -20,8 +15,23 @@ namespace InputManagement.Property
         public EmpProperty EMP { get; set; }
         public string PATH_PROCESS_CARD { get; set; }
         public ProductTypeProperty PRODUCT_TYPE { get; set; } //by BOAT 03/11/2019
+
+        //public PurchaseProperty DeepCopy()
+        //{
+        //    PurchaseProperty other = (PurchaseProperty)this.MemberwiseClone();
+        //    other.ID = ID != null ? string.Copy(ID) : null;
+        //    other.PURCHASE_NO = string.Copy(PURCHASE_NO);
+        //    other.FLOW = new FlowProperty();
+        //    other.FFT_CODE = string.Copy(FFT_CODE);
+        //    other.PART_NO = string.Copy(PART_NO);
+        //    other.PRODUCT_PURCHASE = string.Copy(PRODUCT_PURCHASE);
+        //    other.MODEL = string.Copy(MODEL);
+        //    other.DATE = string.Copy(DATE);
+        //    other.EMP = new EmpProperty();
+        //    other.PATH_PROCESS_CARD = string.Copy(DATE);
+        //    other.PRODUCT_TYPE = new ProductTypeProperty();
+        //    return other;
+        //}
+
     }
-
-
-
 }

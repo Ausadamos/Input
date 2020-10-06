@@ -29,6 +29,16 @@ namespace InputManagement.Services
             resultData = base.SearchBySql(sql);
             return resultData;
         }
+
+
+
+        public OutputOnDbProperty SearchPurchasesByProduct(PurchaseProperty dataItem)
+        {
+            sql = _sqlFactoryPurchase.SearchPurchasesByProduct(dataItem);
+            resultData = base.SearchBySql(sql);
+            return resultData;
+        }
+
         public OutputOnDbProperty LastPurchase(ShipmentProperty dataItem)
         {
             sql = _sqlFactoryPurchase.LastPurchase(dataItem);
@@ -104,7 +114,7 @@ namespace InputManagement.Services
         }
 
 
-        public OutputOnDbProperty UpdateProcessCardPurchase(PurchaseProperty dataItem)
+        public OutputOnDbProperty UpdateProcessCardPurchase(PurchaseProperty dataItem, PurchaseProperty updatePurchase)
         {
             OutputOnDbProperty resultData_InSide = new OutputOnDbProperty();
             List<string> _listSQL = new List<string>();
@@ -125,18 +135,18 @@ namespace InputManagement.Services
                 _listSQL.Add(_sqlFactoryPurchase.UpdateFlowProcessALL(dataItem));
 
                 //Check Flow Process 
-                resultData_InSide = this.CheckFlowProcess(dataItem);
+                resultData_InSide = this.CheckFlowProcess(updatePurchase);
                 if (resultData_InSide.StatusOnDb == true)
                 {
                     if (resultData_InSide.ResultOnDb.Rows.Count <= 0)
                     {
                         //Insert Flow Process
-                        _listSQL.Add(_sqlFactoryPurchase.InsertNewFlowProcess(dataItem));
+                        _listSQL.Add(_sqlFactoryPurchase.InsertNewFlowProcess(updatePurchase));
                     }
                     else
                     {
                         //Updata INUSE 0 => 1
-                        _listSQL.Add(_sqlFactoryPurchase.UpdateFlowProcess(dataItem));
+                        _listSQL.Add(_sqlFactoryPurchase.UpdateFlowProcess(updatePurchase));
 
                     }
                 }
@@ -303,7 +313,7 @@ namespace InputManagement.Services
                 if (resultData_InSide.ResultOnDb.Rows.Count <= 0)
                 {
                     //Get Qry Insert Serial Format to sqlList.
-                    _listSQL.Add(_sqlFactorySerialType.InsertSerialFormat(dataItem.serialTypeProperty));
+                    _listSQL.Add(_sqlFactorySerialType.InsertSerialFormat(dataItem.SERIAL_TYPE));
                 }
             }
             else
@@ -319,7 +329,7 @@ namespace InputManagement.Services
                 if (resultData_InSide.ResultOnDb.Rows.Count <= 0)
                 {
                     //Get Qry Insert ProductTitle to sqlList.
-                    _listSQL.Add(_sqlFactoryProductType.InsertProductTitle(dataItem.productTypeProperty));
+                    _listSQL.Add(_sqlFactoryProductType.InsertProductTitle(dataItem.PRODUCT_TYPE));
                 }
             }
             else
@@ -357,7 +367,7 @@ namespace InputManagement.Services
         // by BOAT 01/11/2019
         public OutputOnDbProperty SearchSerialFormat(SerialProductTypeProperty dataItem)
         {
-            sql = _sqlFactorySerialType.SearchSerialFormat(dataItem.serialTypeProperty);
+            sql = _sqlFactorySerialType.SearchSerialFormat(dataItem.SERIAL_TYPE);
             resultData = base.SearchBySql(sql);
             return resultData;
         }
@@ -366,13 +376,13 @@ namespace InputManagement.Services
         public OutputOnDbProperty SearchProductTitle(SerialProductTypeProperty dataItem)
         {
 
-            sql = _sqlFactoryProductType.SearchProductTitle(dataItem.productTypeProperty);
+            sql = _sqlFactoryProductType.SearchProductTitle(dataItem.PRODUCT_TYPE);
             resultData = base.SearchBySql(sql);
             return resultData;
         }
         public OutputOnDbProperty SearchExistProductType(SerialProductTypeProperty dataItem)
         {
-            sql = _sqlFactoryProductType.SearchExistProductType(dataItem.productTypeProperty);
+            sql = _sqlFactoryProductType.SearchExistProductType(dataItem.PRODUCT_TYPE);
             resultData = base.SearchBySql(sql);
             return resultData;
         }
@@ -414,7 +424,7 @@ namespace InputManagement.Services
                 if (resultData_InSide.ResultOnDb.Rows.Count <= 0)
                 {
                     //insert serial format 
-                    _listSQL.Add(_sqlFactorySerialType.InsertSerialFormat(dataItem.serialTypeProperty));
+                    _listSQL.Add(_sqlFactorySerialType.InsertSerialFormat(dataItem.SERIAL_TYPE));
 
                 }
             }
@@ -436,7 +446,7 @@ namespace InputManagement.Services
             //    {
             //        _sqlFactorySerialType.SearchSerialFormat(new SerialTypeProperty
             //        {
-            //            SERIAL_FORMAT = dataItem.serialTypeProperty.SERIAL_FORMAT
+            //            SERIAL_FORMAT = dataItem.SERIAL_TYPE.SERIAL_FORMAT
             //        });
 
             //        // insert SerialproductType 
@@ -451,7 +461,7 @@ namespace InputManagement.Services
 
             _sqlFactorySerialType.SearchSerialFormat(new SerialTypeProperty
             {
-                SERIAL_FORMAT = dataItem.serialTypeProperty.SERIAL_FORMAT
+                SERIAL_FORMAT = dataItem.SERIAL_TYPE.SERIAL_FORMAT
             });
 
             // insert SerialproductType 
@@ -460,6 +470,16 @@ namespace InputManagement.Services
             resultData = base.InsertBySqlList(_listSQL);
             return resultData;
         }
+
+        public OutputOnDbProperty SearchDetailPurchaseByPurchase(PurchaseProperty dataItem)
+        {
+            sql = _sqlFactoryPurchase.SearchDetailPurchaseByPurchase(dataItem);
+            resultData = base.SearchBySql(sql);
+            return resultData;
+
+        }
+
+
         public override OutputOnDbProperty Delete(PurchaseProperty dataItem)
         {
             throw new NotImplementedException();

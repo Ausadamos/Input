@@ -1,12 +1,6 @@
 ﻿using BusinessData.Property;
-
-using InputManagement.Services;
 using InputManagement.Property;
-
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+using InputManagement.Services;
 
 namespace InputManagement.Models
 {
@@ -20,6 +14,13 @@ namespace InputManagement.Models
             _resultData = _services.LoadPurchaseAll();
             return _resultData;
         }
+
+        public OutputOnDbProperty SearchPurchasesByProduct(PurchaseProperty dataItem)
+        {
+            _resultData = _services.SearchPurchasesByProduct(dataItem);
+            return _resultData;
+        }
+
         public OutputOnDbProperty LastPurchase(ShipmentProperty dataItem)
         {
             _resultData = _services.LastPurchase(dataItem);
@@ -36,16 +37,16 @@ namespace InputManagement.Models
             _resultData = _services.SearchPurchasesOrder(dataItem);
             return _resultData;
         }
-       
+
         public OutputOnDbProperty InsertNewPurchase(PurchaseProperty dataItem)
         {
             _resultData = _services.InsertNewPurchase(dataItem);
             return _resultData;
         }
-        
-        public OutputOnDbProperty UpdateProcessCardPurchase(PurchaseProperty dataItem)
+
+        public OutputOnDbProperty UpdateProcessCardPurchase(PurchaseProperty dataItem, PurchaseProperty updatePurchase)
         {
-            _resultData = _services.UpdateProcessCardPurchase(dataItem);
+            _resultData = _services.UpdateProcessCardPurchase(dataItem, updatePurchase);
             return _resultData;
         }
         public OutputOnDbProperty SearchAllProductType()
@@ -63,5 +64,14 @@ namespace InputManagement.Models
             _resultData = _services.UpdateSerialFormat(dataItem);
             return _resultData;
         }
+
+
+
+        public OutputOnDbProperty SearchDetailPurchaseByPurchase(PurchaseProperty dataItem)
+        {
+            _resultData = _services.SearchDetailPurchaseByPurchase(dataItem);
+            return _resultData;
+        }
+
     }
 }

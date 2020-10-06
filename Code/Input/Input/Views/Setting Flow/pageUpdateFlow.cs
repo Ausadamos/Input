@@ -1,14 +1,8 @@
-﻿using Input.Controllers;
+﻿using InputManagement.Controllers;
 using InputManagement.Property;
 
 using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Drawing;
-using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Input
@@ -82,8 +76,8 @@ namespace Input
         }
         private void btnUpdate_Click(object sender, EventArgs e)
         {
-            
-            if(this.lblFlowName.Text == _defaultFlowName)
+
+            if (this.lblFlowName.Text == _defaultFlowName)
             {
                 MessageBox.Show("Please Select Flow", "Stop", MessageBoxButtons.OK, MessageBoxIcon.Stop);
                 return;
@@ -94,7 +88,7 @@ namespace Input
                 MessageBox.Show("Please Select Status Flow", "Stop", MessageBoxButtons.OK, MessageBoxIcon.Stop);
                 return;
             }
-            
+
             if (this.cmbStatus.Text != _flow.STATUS)
             {
                 if (_flow.FLOW_NAME != "" || _flow.FLOW_NAME != null
@@ -132,6 +126,6 @@ namespace Input
             this.bindingSourceFlow.Sort = this.dgvFlow.SortString;
         }
 
-       
+
     }
 }

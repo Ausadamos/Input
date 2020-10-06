@@ -9,7 +9,7 @@ namespace InputManagement.SQLFactory
         {
             sql = @"SELECT * FROM `serial_product_type`
                     WHERE PRODUCT_TYPE_ID = 'dataItem.PRODUCT_TYPE_ID.ID'";
-            sql = sql.Replace("dataItem.PRODUCT_TYPE_ID.ID", dataItem.productTypeProperty.ID);
+            sql = sql.Replace("dataItem.PRODUCT_TYPE_ID.ID", dataItem.PRODUCT_TYPE.ID);
             return sql;
         }
 
@@ -25,8 +25,8 @@ namespace InputManagement.SQLFactory
                                 )                               
                                 (
                                    SELECT 1 + coalesce((SELECT max(Id) FROM serial_product_type), 0) 
-                                , (SELECT id FROM product_type WHERE PRODUCT_TITLE = 'dataItem.serialTypeProperty.PRODUCT_TITLE' AND PRODUCT_SUB_CODE = 'dataItem.serialTypeProperty.PRODUCT_SUB_CODE')
-                                ,  (SELECT id FROM serial_type WHERE SERIAL_FORMAT = 'dataItem.serialTypeProperty.SERIAL_FORMAT')
+                                , (SELECT id FROM product_type WHERE PRODUCT_TITLE = 'dataItem.SERIAL_TYPE.PRODUCT_TITLE' AND PRODUCT_SUB_CODE = 'dataItem.SERIAL_TYPE.PRODUCT_SUB_CODE')
+                                ,  (SELECT id FROM serial_type WHERE SERIAL_FORMAT = 'dataItem.SERIAL_TYPE.SERIAL_FORMAT')
                                 ,  1
                                 , 'dataItem.DESCRIPTION'
                                 , 'dataItem.CREATE_USER'
@@ -34,10 +34,10 @@ namespace InputManagement.SQLFactory
 
             sql = sql.Replace("dataItem.ID", dataItem.ID);
 
-            sql = sql.Replace("dataItem.serialTypeProperty.PRODUCT_TITLE", dataItem.productTypeProperty.PRODUCT_TITLE);
-            sql = sql.Replace("dataItem.serialTypeProperty.PRODUCT_SUB_CODE", dataItem.productTypeProperty.PRODUCT_SUB_CODE);
+            sql = sql.Replace("dataItem.SERIAL_TYPE.PRODUCT_TITLE", dataItem.PRODUCT_TYPE.PRODUCT_TITLE);
+            sql = sql.Replace("dataItem.SERIAL_TYPE.PRODUCT_SUB_CODE", dataItem.PRODUCT_TYPE.PRODUCT_SUB_CODE);
 
-            sql = sql.Replace("dataItem.serialTypeProperty.SERIAL_FORMAT", dataItem.serialTypeProperty.SERIAL_FORMAT);
+            sql = sql.Replace("dataItem.SERIAL_TYPE.SERIAL_FORMAT", dataItem.SERIAL_TYPE.SERIAL_FORMAT);
 
             sql = sql.Replace("dataItem.INUSE", dataItem.INUSE);
             sql = sql.Replace("dataItem.DESCRIPTION", dataItem.DESCRIPTION);
@@ -68,8 +68,8 @@ namespace InputManagement.SQLFactory
                                 AND INUSE = 1;
                                 ";
 
-            sql = sql.Replace("dataItem.PRODUCT_TYPE_ID", dataItem.productTypeProperty.ID);
-            sql = sql.Replace("dataItem.SERIAL_TYPE_ID", dataItem.serialTypeProperty.ID);
+            sql = sql.Replace("dataItem.PRODUCT_TYPE_ID", dataItem.PRODUCT_TYPE.ID);
+            sql = sql.Replace("dataItem.SERIAL_TYPE_ID", dataItem.SERIAL_TYPE.ID);
 
             return sql;
         }
@@ -81,7 +81,7 @@ namespace InputManagement.SQLFactory
                     WHERE INUSE = '1'
                     AND PRODUCT_TYPE_ID = 'dataItem.PRODUCT_TYPE_ID'
                     ";
-            sql = sql.Replace("dataItem.PRODUCT_TYPE_ID", dataItem.productTypeProperty.ID);
+            sql = sql.Replace("dataItem.PRODUCT_TYPE_ID", dataItem.PRODUCT_TYPE.ID);
 
             return sql;
         }

@@ -1,10 +1,5 @@
 ﻿using InputManagement.Property;
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
 namespace InputManagement.SQLFactory
 {
     public class SearchSQLFactory
@@ -13,16 +8,17 @@ namespace InputManagement.SQLFactory
         public string SearchSerialInput(SearchSerialInputProperty dataItem)
         {
             string select = @"SELECT  `tb_2`.`SERIAL` AS `SERIAL`
-                        ,IF(`tb_1`.INUSE = '1','Use','Cancel') AS `STATUS`
-                        ,`tb_1`.`DATE` AS `INPUT_DATE`
-                        ,`tb_1`.`FFT_ORDER_ID` AS `FFT_ORDER_ID`
-                        ,`tb_1`.`GROUP` AS `GROUP`
-                        ,`tb_10`.`INPUT_TYPE` AS `INPUT_TYPE`
-                        ,`tb_3`.`PURCHASE_NO` AS `PURCHASE_NO`
-                        ,`tb_4`.`FLOW_NAME` AS `FLOW_NAME`
-                        ,`tb_1`.`EMP_ID` AS `EMP_ID`
-                        ,`tb_7`.`PROCESS_NAME` AS `CURRENT_PROCESS`
-                        ,`tb_8`.`RESULT` AS `STATUS_IN_PROCESS`
+                            ,IF(`tb_1`.INUSE = '1','Use','Cancel') AS `STATUS`
+                            ,`tb_1`.`DATE` AS `INPUT_DATE`
+                            ,`tb_1`.`FFT_ORDER_ID` AS `FFT_ORDER_ID`
+                            ,`tb_1`.`GROUP` AS `GROUP`
+                            ,`tb_10`.`INPUT_TYPE` AS `INPUT_TYPE`
+                            ,`tb_3`.`PURCHASE_NO` AS `PURCHASE_NO`
+                            ,`tb_4`.`FLOW_NAME` AS `FLOW_NAME`
+                            ,`tb_1`.`EMP_ID` AS `EMP_ID`
+                            , tb11.PRODUCT_SUB_NAME AS SUB_PRODUCT
+                            ,`tb_7`.`PROCESS_NAME` AS `CURRENT_PROCESS`
+                            ,`tb_8`.`RESULT` AS `STATUS_IN_PROCESS`
 
                         FROM `input_serial` AS `tb_1`
 
@@ -36,14 +32,14 @@ namespace InputManagement.SQLFactory
                         ON (`tb_4`.`ID` = `tb_1`.`FLOW_ID`)
 
                         LEFT JOIN (SELECT `SERIAL_ID`
-								                    ,`FFT_ORDER_ID`
-								                    ,`GROUP`
-								                    ,`FLOW_ID`
-								                    ,MAX(`NO`) AS `MAX_NO`
-								                    ,`PROCESS_ID`
+								          ,`FFT_ORDER_ID`
+								          ,`GROUP`
+								          ,`FLOW_ID`
+								          ,MAX(`NO`) AS `MAX_NO`
+								          ,`PROCESS_ID`
 
-					                            FROM `progress` 
-					                            GROUP BY `SERIAL_ID`,`FFT_ORDER_ID`,`GROUP`)  AS `tb_5` 
+					                FROM `progress` 
+					                GROUP BY `SERIAL_ID`,`FFT_ORDER_ID`,`GROUP`)  AS `tb_5` 
 
                         ON (`tb_5`.`SERIAL_ID` = `tb_1`.`SERIAL_ID`
                         AND `tb_5`.`FFT_ORDER_ID` = `tb_1`.`FFT_ORDER_ID`
@@ -64,7 +60,11 @@ namespace InputManagement.SQLFactory
                         ON(`tb_9`.`FFT_ORDER_ID` = `tb_1`.`FFT_ORDER_ID` AND `tb_9`.`GROUP` = `tb_1`.`GROUP`) 
 
                         INNER JOIN `input_type` AS `tb_10`
-                        ON(`tb_10`.`ID` = `tb_9`.`INPUT_TYPE_ID`) ";
+                        ON(`tb_10`.`ID` = `tb_9`.`INPUT_TYPE_ID`) 
+                        
+                        INNER JOIN `product_sub` AS tb11
+                        ON(tb11.PRODUCT_SUB_CODE = tb_9.PRODUCT_SUB_CODE)
+                        ";
 
 
             string where = "";
@@ -74,8 +74,8 @@ namespace InputManagement.SQLFactory
             {
                 if (_serial.Trim() != "")
                 {
-                    if (whereSerial == "") { whereSerial = "'" + _serial + "'";}
-                    else{ whereSerial += ",'" + _serial + "'";}
+                    if (whereSerial == "") { whereSerial = "'" + _serial + "'"; }
+                    else { whereSerial += ",'" + _serial + "'"; }
                 }
             }
 
@@ -126,6 +126,23 @@ namespace InputManagement.SQLFactory
                         AND `tb_1`.`GROUP` = '" + dataItem.GROUP + "' ";
                 }
             }
+            ////## WHERE SUB_PRODUCT
+            //if (dataItem.PRODUCT_SUB_NAME != "")
+            //{
+            //    string whereSubProduct = "";
+            //    if (where != "")
+            //    {
+            //        whereSubProduct = @"
+            //            AND `tb11`.`SUB_PRODUCT` = '" + dataItem.PRODUCT_SUB_NAME + @"' ";
+
+            //        where += whereSubProduct;
+            //    }
+            //    else
+            //    {
+            //        whereSubProduct = @"`tb11`.`SUB_PRODUCT` = '" + dataItem.PRODUCT_SUB_NAME + @"' ";
+            //        where = whereSubProduct;
+            //    }
+            //}
 
             //## WHERE INUSE.
             if (dataItem.INUSE != "")
@@ -188,7 +205,7 @@ namespace InputManagement.SQLFactory
             {
                 sql = select + @" 
 
-                        WHERE SUBSTR(`tb_1`.`DATE`,1,7) = SUBSTR(NOW(),1,7)
+                        WHERE SUBSTR(`tb_1`.`DATE`,1,4) = SUBSTR(NOW(),1,4)
 
                         ORDER BY 
                         `tb_2`.`SERIAL`
@@ -206,10 +223,9 @@ namespace InputManagement.SQLFactory
                         ,`tb_1`.`DATE`
                         ,`tb_1`.`GROUP`;";
             }
-  
+
             return sql;
         }
-
         public string SearchProgressAllProcess(SearchSerialProgressProperty dataItem)
         {
             string select = @"SELECT `tb_2`.`SERIAL` AS `SERIAL`
@@ -217,6 +233,7 @@ namespace InputManagement.SQLFactory
                         ,`tb_1`.`FFT_ORDER_ID` AS `FFT_ORDER_ID`
                         ,`tb_1`.`GROUP` AS `GROUP`
                         ,`tb_8`.INPUT_TYPE AS `INPUT_TYPE`
+                        ,tb9.PRODUCT_SUB_NAME AS SUB_PRODUCT
                         ,`tb_3`.`FLOW_NAME` AS `FLOW_NAME`
                         ,IF(`tb_6`.`NO` IS NULL OR `tb_6`.`NO` = '','N/A',`tb_6`.`NO`)  AS `PROCESS_NO`
                         ,`tb_4`.`PROCESS_NAME` AS `PROCESS_NAME`
@@ -245,7 +262,11 @@ namespace InputManagement.SQLFactory
                         ON (`tb_7`.`FFT_ORDER_ID` = `tb_1`.FFT_ORDER_ID AND `tb_7`.`GROUP` = `tb_1`.`GROUP`)
 
                         INNER JOIN `input_type` AS `tb_8`
-                        ON (`tb_8`.`ID` = `tb_7`.`INPUT_TYPE_ID`) ";
+                        ON (`tb_8`.`ID` = `tb_7`.`INPUT_TYPE_ID`) 
+                        
+                        INNER JOIN `product_sub` AS tb9
+                        ON (tb9.PRODUCT_SUB_CODE = tb_7.PRODUCT_SUB_CODE)
+                        ";
 
 
             string where = "";
@@ -284,6 +305,25 @@ namespace InputManagement.SQLFactory
                     where = whereProcess;
                 }
             }
+
+            ////## WHERE SUB_PRODUCT.
+            //if (dataItem.PRODUCT_SUB_NAME != "")
+            //{
+            //    string whereSubProduct = "";
+            //    if (where != "")
+            //    {
+            //        whereSubProduct = @"
+            //            AND `tb9`.`SUB_PRODUCT` = '" + dataItem.PRODUCT_SUB_NAME + @"' ";
+
+            //        where += whereSubProduct;
+            //    }
+            //    else
+            //    {
+            //        whereSubProduct = @"`tb9`.`SUB_PRODUCT` = '" + dataItem.PRODUCT_SUB_NAME + @"' ";
+            //        where = whereSubProduct;
+            //    }
+            //}
+
 
             //## WHERE Status(Result).
             if (dataItem.STATUS.RESULT != "")
@@ -367,15 +407,15 @@ namespace InputManagement.SQLFactory
             }
 
 
-            sql = where == "" ? 
+            sql = where == "" ?
                     select + @" 
 
                         WHERE SUBSTR(`tb_1`.`ID`,1,4) = DATE_FORMAT(NOW(), '%y%m')
 
                        ORDER BY 
                        `tb_1`.`SERIAL_ID` DESC
-                       ,`tb_1`.`NO`;" : 
-                    
+                       ,`tb_1`.`NO`;" :
+
                     select + @"
                          
                         WHERE " + where + @"
@@ -386,7 +426,6 @@ namespace InputManagement.SQLFactory
 
             return sql;
         }
-
         public string SearchCurrentProgress(SearchSerialProgressProperty dataItem)
         {
             string select = @"SELECT `tb_3`.`SERIAL` AS `SERIAL`
@@ -397,6 +436,7 @@ namespace InputManagement.SQLFactory
                         ,`tb_4`.`FLOW_NAME` AS `FLOW_NAME`
                         ,IF(`tb_7`.`NO` IS NULL OR `tb_7`.`NO` = '','N/A',`tb_7`.`NO`)  AS `PROCESS_NO`
                         ,`tb_5`.`PROCESS_NAME` AS `PROCESS_NAME`
+                        ,tb10.PRODUCT_SUB_NAME AS `SUB_PRODUCT`
                         ,`tb_6`.`RESULT` AS `RESULT`
                         ,`tb_1`.`ID` AS `PROGRESS_ID`
                         ,`tb_1`.`LAST_UPDATE` AS `LAST_UPDATE`
@@ -425,7 +465,10 @@ namespace InputManagement.SQLFactory
                         ON (`tb_8`.`FFT_ORDER_ID` = `tb_1`.FFT_ORDER_ID AND `tb_8`.`GROUP` = `tb_1`.`GROUP`)
 
                         INNER JOIN `input_type` AS `tb_9`
-                        ON (`tb_9`.`ID` = `tb_8`.`INPUT_TYPE_ID`) ";
+                        ON (`tb_9`.`ID` = `tb_8`.`INPUT_TYPE_ID`)
+
+                        INNER JOIN `product_sub` AS tb10
+                        ON (tb10.PRODUCT_SUB_CODE = tb_8.PRODUCT_SUB_CODE)";
 
 
             string where = "";
@@ -464,6 +507,24 @@ namespace InputManagement.SQLFactory
                     where = whereProcess;
                 }
             }
+
+            ////## WHERE SUB_PRODUCT.
+            //if (dataItem.PRODUCT_SUB_NAME != "")
+            //{
+            //    string whereSubProduct = "";
+            //    if (where != "")
+            //    {
+            //        whereSubProduct = @"
+            //            AND `tb10`.`SUB_PRODUCT` = '" + dataItem.PRODUCT_SUB_NAME + @"' ";
+
+            //        where += whereSubProduct;
+            //    }
+            //    else
+            //    {
+            //        whereSubProduct = @"`tb10`.`SUB_PRODUCT` = '" + dataItem.PRODUCT_SUB_NAME + @"' ";
+            //        where = whereSubProduct;
+            //    }
+            //}
 
             //## WHERE Status(Result).
             if (dataItem.STATUS.RESULT != "")
@@ -569,6 +630,233 @@ namespace InputManagement.SQLFactory
                         ORDER BY 
                         `tb_1`.`SERIAL_ID` DESC
                        ,`tb_1`.`NO`;";
+
+            return sql;
+        }
+        public string SearchOrderDetail(SearchOrderDetailProperty dataItem)
+        {
+            sql = @"SELECT tb2.INPUT_TYPE
+			               ,tb7.PRODUCT_SUB_NAME
+			               ,tb1.FFT_ORDER_ID
+			               ,tb1.`GROUP`
+			               ,tb4.CUSTOMER_NAME
+			               ,tb5.WORK_ORDER
+			               ,tb6.PART_NO
+			               ,tb1.EMP_ID
+                           ,DATE_FORMAT(tb1.INPUT_DATE, '%Y-%m-%d') AS `INPUT_DATE`
+                    FROM `input` AS tb1
+                    INNER JOIN input_type AS tb2
+                    ON (tb2.ID = tb1.INPUT_TYPE_ID)
+                    INNER JOIN `condition` AS tb3
+                    ON (tb3.ID = tb1.CONDITION_ID)
+                    INNER JOIN `customer` AS tb4
+                    ON (tb4.ID = tb3.CUSTOMER_ID)
+                    INNER JOIN work_order AS tb5
+                    ON (tb5.ID = tb3.WORK_ORDER_ID)
+                    INNER JOIN part_no AS	 tb6
+                    ON (tb6.ID = tb3.PART_NO_ID)
+                    INNER JOIN product_sub AS tb7
+                    ON (tb7.PRODUCT_SUB_CODE = tb1.PRODUCT_SUB_CODE) 
+                    ";
+
+            string where = "";
+            string whereOrder = "";
+            foreach (string order in dataItem.FFT_ORDER_ID)
+            {
+                if (order.Trim() != "")
+                {
+                    if (whereOrder == "") { whereOrder = "'" + order + "'"; }
+                    else { whereOrder += ",'" + order + "'"; }
+                }
+            }
+            if (whereOrder != "")
+            {
+                where = "WHERE tb1.FFT_ORDER_ID IN (" + whereOrder + ")";
+            }
+
+            if (dataItem.PRODUCT_SUB_NAME != "")
+            {
+                if (where == "")
+                {
+                    where = "WHERE tb7.PRODUCT_SUB_NAME = 'dataItem.PRODUCT_SUB_NAME'".Replace("dataItem.PRODUCT_SUB_NAME", dataItem.PRODUCT_SUB_NAME);
+                }
+                else
+                {
+                    where += " AND tb7.PRODUCT_SUB_NAME = 'dataItem.PRODUCT_SUB_NAME'".Replace("dataItem.PRODUCT_SUB_NAME", dataItem.PRODUCT_SUB_NAME);
+                }
+            }
+            if (dataItem.CUSTOMER_NAME != "")
+            {
+                if (where == "")
+                {
+                    where = "WHERE tb4.CUSTOMER_NAME = 'dataItem.CUSTOMER_NAME'".Replace("dataItem.CUSTOMER_NAME", dataItem.CUSTOMER_NAME);
+                }
+                else
+                {
+                    where += " AND tb4.CUSTOMER_NAME = 'dataItem.CUSTOMER_NAME'".Replace(" dataItem.CUSTOMER_NAME", dataItem.CUSTOMER_NAME);
+                }
+            }
+            //## WHERE DATE/TO
+            if (dataItem.INPUT_DATE != "" && dataItem.INPUT_DATE_TO != "")
+            {
+                string whereInputDate = "";
+                if (where != "")
+                {
+                    whereInputDate = @"AND tb1.INPUT_DATE >=  '" + dataItem.INPUT_DATE + @"' 
+                    AND  tb1.INPUT_DATE <= '" + dataItem.INPUT_DATE_TO + "%" + "' ";
+
+                    where += whereInputDate;
+                }
+                else
+                {
+                    whereInputDate = @" WHERE tb1.INPUT_DATE >= '" + dataItem.INPUT_DATE + @"'  
+                    AND  tb1.INPUT_DATE <= '" + dataItem.INPUT_DATE_TO + "%" + "'";
+
+                    where = whereInputDate;
+                }
+            }
+            //## WHERE DATE
+            else if (dataItem.INPUT_DATE != "" && dataItem.INPUT_DATE_TO == "")
+            {
+                if (where != "")
+                {
+                    where += @" AND tb1.INPUT_DATE LIKE '" + dataItem.INPUT_DATE + "%" + @"' ";
+                }
+                else
+                {
+                    where = @" WHERE tb1.INPUT_DATE LIKE '" + dataItem.INPUT_DATE + "%" + @"' ";
+                }
+            }
+            if (dataItem.THIS_YEAR)
+            {
+                if (where == "")
+                {
+                    where += @"WHERE YEAR(tb1.INPUT_DATE) = YEAR(NOW())";
+                }
+                else
+                {
+                    where += @" AND YEAR(tb1.INPUT_DATE) = YEAR(NOW())";
+                }
+            }
+            sql += where;
+            return sql;
+        }
+        public string SearchPurchase(SearchPurchaseProperty dataItem)
+        {
+            sql = @"SELECT  `tb_1`.`PURCHASE_NO` AS `DOCUMENT_NO`
+                            ,IF(`tb_6`.`FFT_CODE` IS NULL OR `tb_6`.`FFT_CODE` = '', 'N/A',`tb_6`.`FFT_CODE`) AS `FFT_CODE`
+                            ,`tb_2`.`PART_NO` AS `PART_NO`
+                            ,`tb_3`.`PRODUCT_NAME` AS `PRODUCT_NAME`
+                            ,`tb_4`.`MODEL_NO` AS `MODEL_NO`
+                            ,DATE_FORMAT(`tb_1`.`DATE`, '%Y-%m-%d') AS `CREATE_DATE`
+                            ,`tb_1`.`EMP_ID` AS `EMP_CODE`
+                            ,IF(`tb_9`.`PATH_PROCESS_CARD` IS NULL OR `tb_9`.`PATH_PROCESS_CARD` = '', 'N/A',`tb_9`.`PATH_PROCESS_CARD`) AS `PATH_PROCESS_CARD`
+                    FROM `purchase` AS `tb_1` 
+                    INNER JOIN `part_no` AS `tb_2` 
+                    ON(`tb_2`.`ID` = `tb_1`.`PART_NO_ID`)
+                    INNER JOIN `product_purchase` AS `tb_3`
+                    ON(`tb_3`.`ID` = `tb_1`.`PURCHASE_PRODUCT_ID`)
+                    INNER JOIN `model` AS `tb_4` 
+                    ON(`tb_4`.`ID` = `tb_1`.`MODEL_ID`)
+                    LEFT JOIN `purchase_fft_code` AS `tb_5` 
+                    ON(`tb_5`.`PURCHASE_ID` = `tb_1`.`ID`)
+                    LEFT JOIN `fft_code` AS `tb_6` 
+                    ON(`tb_6`.`ID` = `tb_5`.`FFT_CODE_ID`)
+                    LEFT JOIN `flow_process` AS `tb_7` 
+                    ON (`tb_7`.PURCHASE_ID = `tb_1`.ID AND `tb_7`.INUSE = 1)
+                    LEFT JOIN `flow` AS `tb_8` 
+                    ON (`tb_8`.ID = `tb_7`.FLOW_ID)
+                    LEFT JOIN `path_processcard` AS `tb_9` 
+                    ON (`tb_9`.`PURCHASE_ID` = `tb_1`.`ID`)
+                    ";
+
+            string where = "";
+            string whereDocument = "";
+            foreach (string doc in dataItem.Document)
+            {
+                if (doc.Trim() != "")
+                {
+                    if (whereDocument == "") { whereDocument = "'" + doc + "'"; }
+                    else { whereDocument += ",'" + doc + "'"; }
+                }
+            }
+            if (whereDocument != "")
+            {
+                where = "WHERE tb_1.PURCHASE_NO IN (" + whereDocument + ")";
+            }
+
+            //FFT_CODE
+            if (dataItem.FFT_CODE != "")
+            {
+                if (where == "")
+                {
+                    where = "WHERE tb_6.FFT_CODE = 'dataItem.FFT_CODE'".Replace("dataItem.FFT_CODE", dataItem.FFT_CODE);
+                }
+                else
+                {
+                    where += " AND tb_6.FFT_CODE = 'dataItem.FFT_CODE'".Replace("dataItem.FFT_CODE", dataItem.FFT_CODE);
+                }
+            }
+            if (dataItem.PART_NO != "")
+            {
+                if (where == "")
+                {
+                    where = "WHERE tb_2.PART_NO = 'dataItem.PART_NO'".Replace("dataItem.PART_NO", dataItem.PART_NO);
+                }
+                else
+                {
+                    where += " AND tb_2.PART_NO = 'dataItem.PART_NO'".Replace(" dataItem.PART_NO", dataItem.PART_NO);
+                }
+            }
+            //## WHERE DATE/TO
+            if (dataItem.INPUT_DATE != "" && dataItem.INPUT_DATE_TO != "")
+            {
+                string whereInputDate = "";
+                if (where != "")
+                {
+                    whereInputDate = @"AND tb_1.DATE >=  '" + dataItem.INPUT_DATE + @"' 
+                    AND  tb_1.DATE <= '" + dataItem.INPUT_DATE_TO + "%" + "' ";
+
+                    where += whereInputDate;
+                }
+                else
+                {
+                    whereInputDate = @" WHERE tb_1.DATE >= '" + dataItem.INPUT_DATE + @"'  
+                    AND  tb_1.DATE <= '" + dataItem.INPUT_DATE_TO + "%" + "'";
+
+                    where = whereInputDate;
+                }
+            }
+            //## WHERE DATE
+            else if (dataItem.INPUT_DATE != "" && dataItem.INPUT_DATE_TO == "")
+            {
+                if (where != "")
+                {
+                    where += @" AND tb_1.DATE LIKE '" + dataItem.INPUT_DATE + "%" + @"' ";
+                }
+                else
+                {
+                    where = @" WHERE tb_1.DATE LIKE '" + dataItem.INPUT_DATE + "%" + @"' ";
+                }
+            }
+            if (dataItem.THIS_YEAR)
+            {
+                if (where == "")
+                {
+                    where += @"WHERE YEAR(tb_1.DATE) = YEAR(NOW())";
+                }
+                else
+                {
+                    where += @" AND YEAR(tb_1.DATE) = YEAR(NOW())";
+                }
+            }
+            sql += where;
+            return sql;
+        }
+
+        public string SearchFlow()
+        {
+            sql = @"Call SearchFlow";
 
             return sql;
         }

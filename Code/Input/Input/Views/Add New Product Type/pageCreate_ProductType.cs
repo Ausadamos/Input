@@ -1,5 +1,5 @@
 ﻿using CommonClassLibrary.Components;
-using Input.Controllers;
+using InputManagement.Controllers;
 using InputManagement.Property;
 using System;
 using System.Collections.Generic;
@@ -16,7 +16,7 @@ namespace Input
 
         List<SerialTypeProperty> listSerialTypeProperty;
 
-        ProductSubController _productSubController = new ProductSubController();
+        SubProductController _productSubController = new SubProductController();
         ProductTypeController _productTypeController = new ProductTypeController();
         SerialProductTypeController _serialProductTypeController = new SerialProductTypeController();
         SerialTypeController _serialTypeController = new SerialTypeController();
@@ -58,12 +58,12 @@ namespace Input
             this.lstProductType.DataSource = null;
             lstProductType.Items.Clear();
 
-            ProductTypeProperty productTypeProperty = new ProductTypeProperty()
+            ProductTypeProperty PRODUCT_TYPE = new ProductTypeProperty()
             {
                 PRODUCT_SUB_CODE = (cmbProduct.SelectedItem as ComboboxItem).Value.ToString()
             };
 
-            List<ProductTypeProperty> listProductTypeProperty = _productTypeController.SearchByProductSubCode(productTypeProperty);
+            List<ProductTypeProperty> listProductTypeProperty = _productTypeController.SearchByProductSubCode(PRODUCT_TYPE);
             foreach (ProductTypeProperty data in listProductTypeProperty)
             {
 
@@ -80,8 +80,8 @@ namespace Input
         private void LoadProduct()
         {
             cmbProduct.Items.Clear();
-            List<ProductSubProperty> listProductSubProperty = _productSubController.Search();
-            foreach (ProductSubProperty data in listProductSubProperty)
+            List<SubProductProperty> listProductSubProperty = _productSubController.Search();
+            foreach (SubProductProperty data in listProductSubProperty)
             {
                 ComboboxItem item = new ComboboxItem();
                 item.Text = data.PRODUCT_SUB_NAME;
@@ -107,26 +107,26 @@ namespace Input
         {
 
             SerialProductTypeProperty _insertProductType = new SerialProductTypeProperty();
-            _insertProductType.productTypeProperty = new ProductTypeProperty();
-            _insertProductType.serialTypeProperty = new SerialTypeProperty();
+            _insertProductType.PRODUCT_TYPE = new ProductTypeProperty();
+            _insertProductType.SERIAL_TYPE = new SerialTypeProperty();
 
             //********** GET DATA **********//
-            _insertProductType.productTypeProperty.PRODUCT_TITLE = this.txtProductTitle.Text.ToString().Trim();
-            _insertProductType.productTypeProperty.PRODUCT_SUB_CODE = (cmbProduct.SelectedItem as ComboboxItem).Value.ToString();
-            _insertProductType.serialTypeProperty.SERIAL_FORMAT = this.txtProductFormat.Text.ToString().Trim();
-            _insertProductType.serialTypeProperty.DETAIL = this.lblShowExFormatSerial.Text.ToString().Trim();
+            _insertProductType.PRODUCT_TYPE.PRODUCT_TITLE = this.txtProductTitle.Text.ToString().Trim();
+            _insertProductType.PRODUCT_TYPE.PRODUCT_SUB_CODE = (cmbProduct.SelectedItem as ComboboxItem).Value.ToString();
+            _insertProductType.SERIAL_TYPE.SERIAL_FORMAT = this.txtProductFormat.Text.ToString().Trim();
+            _insertProductType.SERIAL_TYPE.DETAIL = this.lblShowExFormatSerial.Text.ToString().Trim();
 
 
             //********** Check PRODUCT TITLE **********//
-            if (_insertProductType.productTypeProperty.PRODUCT_TITLE == null || _insertProductType.productTypeProperty.PRODUCT_TITLE == "")
+            if (_insertProductType.PRODUCT_TYPE.PRODUCT_TITLE == null || _insertProductType.PRODUCT_TYPE.PRODUCT_TITLE == "")
             { MessageBox.Show("Not Found PRODUCT_TITLE" + "\n\n" + "Please Check TITLE BOX ", "Stop", MessageBoxButtons.OK, MessageBoxIcon.Stop); return; }
 
             //********* Check SERIAL FORMAT **********//
-            if (_insertProductType.serialTypeProperty.SERIAL_FORMAT == null || _insertProductType.serialTypeProperty.SERIAL_FORMAT == "")
+            if (_insertProductType.SERIAL_TYPE.SERIAL_FORMAT == null || _insertProductType.SERIAL_TYPE.SERIAL_FORMAT == "")
             { MessageBox.Show("Not Found SERIAL_FORMAT" + "\n\n" + "Please Check FORMAT BOX ", "Stop", MessageBoxButtons.OK, MessageBoxIcon.Stop); return; }
 
             //********* Check SERIAL DETIAL **********//
-            if (_insertProductType.serialTypeProperty.DETAIL == null || _insertProductType.serialTypeProperty.DETAIL == "")
+            if (_insertProductType.SERIAL_TYPE.DETAIL == null || _insertProductType.SERIAL_TYPE.DETAIL == "")
             { MessageBox.Show("Not Found SERIAL_DETIAL" + "\n\n" + "Please Check FORMAT BOX ", "Stop", MessageBoxButtons.OK, MessageBoxIcon.Stop); return; }
 
             //Insert Product Type//
@@ -149,7 +149,7 @@ namespace Input
 
                 SerialProductTypeProperty SerialProductTypeProperty = new SerialProductTypeProperty()
                 {
-                    productTypeProperty = new ProductTypeProperty()
+                    PRODUCT_TYPE = new ProductTypeProperty()
                     {
                         ID = (lstProductType.SelectedItem as ListBoxItem).Value.ToString()
                     }
@@ -163,14 +163,14 @@ namespace Input
 
 
                 string title = (lstProductType.SelectedItem as ListBoxItem).Text.ToString();
-                //int indexInList = listInuseFormat.FindIndex(a => a.productTypeProperty.ID.Contains(title));
+                //int indexInList = listInuseFormat.FindIndex(a => a.PRODUCT_TYPE.ID.Contains(title));
 
                 this.txtProductTitle.Text = (lstProductType.SelectedItem as ListBoxItem).Text.ToString();
 
                 //กรณีเพิ่ม Product type ใหม่
                 if (listInuseFormat.Count > 0)
                 {
-                    this.txtProductFormat.Text = listSerialTypeProperty.Find(x => x.ID == listInuseFormat[0].serialTypeProperty.ID).SERIAL_FORMAT;
+                    this.txtProductFormat.Text = listSerialTypeProperty.Find(x => x.ID == listInuseFormat[0].SERIAL_TYPE.ID).SERIAL_FORMAT;
 
                 }
                 else
@@ -183,7 +183,7 @@ namespace Input
 
                 foreach (SerialProductTypeProperty item in listHistoryFormat)
                 {
-                    lstHis.Items.Add(listSerialTypeProperty.Find(x => x.ID == item.serialTypeProperty.ID).SERIAL_FORMAT);
+                    lstHis.Items.Add(listSerialTypeProperty.Find(x => x.ID == item.SERIAL_TYPE.ID).SERIAL_FORMAT);
                 }
                 this.lstHis.Enabled = this.lstHis.Items.Count == 0 ? false : true;
 
@@ -228,11 +228,11 @@ namespace Input
 
             SerialProductTypeProperty setFormat = new SerialProductTypeProperty
             {
-                productTypeProperty = new ProductTypeProperty { PRODUCT_TITLE = this.txtProductTitle.Text.Trim(), ID = (lstProductType.SelectedItem as ListBoxItem).Value.ToString(), PRODUCT_SUB_CODE = (cmbProduct.SelectedItem as ComboboxItem).Value.ToString() }
+                PRODUCT_TYPE = new ProductTypeProperty { PRODUCT_TITLE = this.txtProductTitle.Text.Trim(), ID = (lstProductType.SelectedItem as ListBoxItem).Value.ToString(), PRODUCT_SUB_CODE = (cmbProduct.SelectedItem as ComboboxItem).Value.ToString() }
                 ,
-                serialTypeProperty = new SerialTypeProperty
+                SERIAL_TYPE = new SerialTypeProperty
                 {
-                    ID = listInuseFormat[0].serialTypeProperty.ID,
+                    ID = listInuseFormat[0].SERIAL_TYPE.ID,
 
                     SERIAL_FORMAT = this.txtProductFormat.Text.Trim()
                     ,

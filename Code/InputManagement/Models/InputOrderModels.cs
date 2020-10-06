@@ -1,12 +1,7 @@
 ﻿using BusinessData.Property;
-
-using InputManagement.Services;
-
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using InputManagement.Property;
+using InputManagement.Services;
+using System.Collections.Generic;
 
 namespace InputManagement.Models
 {
@@ -15,21 +10,21 @@ namespace InputManagement.Models
         OutputOnDbProperty _resultData = new OutputOnDbProperty();
         InputOrderServicecs _services = new InputOrderServicecs();
 
-        
+
         public OutputOnDbProperty GetOrderActualInput()
         {
             _resultData = _services.GetOrderActualInput();
             return _resultData;
         }
 
-        public OutputOnDbProperty SearchOrderInThisYear()
+        public OutputOnDbProperty SearchOrderInThisYear(OrderProperty dataItem)
         {
-            _resultData = _services.SearchOrderInThisYear();
+            _resultData = _services.SearchOrderInThisYear(dataItem);
             return _resultData;
         }
-        public OutputOnDbProperty SearchOrderAll()
+        public OutputOnDbProperty SearchOrderAll(OrderProperty dataItem)
         {
-            _resultData = _services.SearchOrderAll();
+            _resultData = _services.SearchOrderAll(dataItem);
             return _resultData;
         }
         public OutputOnDbProperty SearchOrderInput(OrderProperty dataItem)
@@ -45,7 +40,7 @@ namespace InputManagement.Models
 
 
 
-        
+
         public OutputOnDbProperty SearchOrderHistory(OrderProperty dataItem)
         {
             _resultData = _services.SearchOrderHistory(dataItem);

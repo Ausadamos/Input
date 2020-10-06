@@ -41,6 +41,8 @@
             this.lblTotalRow = new System.Windows.Forms.Label();
             this.bttInput = new System.Windows.Forms.Button();
             this.bindingSourceOrder = new System.Windows.Forms.BindingSource(this.components);
+            this.cmbSubProduct = new System.Windows.Forms.ComboBox();
+            this.label3 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.adgvOrder)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bindingSourceOrder)).BeginInit();
             this.SuspendLayout();
@@ -51,7 +53,7 @@
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Candara", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.DimGray;
-            this.label9.Location = new System.Drawing.Point(293, 7);
+            this.label9.Location = new System.Drawing.Point(477, 7);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(182, 39);
             this.label9.TabIndex = 9;
@@ -63,7 +65,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Candara", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Silver;
-            this.label1.Location = new System.Drawing.Point(28, 478);
+            this.label1.Location = new System.Drawing.Point(28, 539);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(126, 33);
             this.label1.TabIndex = 13;
@@ -74,10 +76,10 @@
             this.txtFFT_Order_ID.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.txtFFT_Order_ID.Font = new System.Drawing.Font("Yu Gothic UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtFFT_Order_ID.Location = new System.Drawing.Point(160, 482);
+            this.txtFFT_Order_ID.Location = new System.Drawing.Point(160, 543);
             this.txtFFT_Order_ID.Name = "txtFFT_Order_ID";
             this.txtFFT_Order_ID.ReadOnly = true;
-            this.txtFFT_Order_ID.Size = new System.Drawing.Size(398, 29);
+            this.txtFFT_Order_ID.Size = new System.Drawing.Size(766, 29);
             this.txtFFT_Order_ID.TabIndex = 1;
             this.txtFFT_Order_ID.Text = " ";
             this.txtFFT_Order_ID.TextChanged += new System.EventHandler(this.txtFFT_Order_ID_TextChanged);
@@ -112,13 +114,13 @@
             dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.adgvOrder.DefaultCellStyle = dataGridViewCellStyle2;
-            this.adgvOrder.Location = new System.Drawing.Point(12, 52);
+            this.adgvOrder.Location = new System.Drawing.Point(12, 100);
             this.adgvOrder.MultiSelect = false;
             this.adgvOrder.Name = "adgvOrder";
             this.adgvOrder.ReadOnly = true;
             this.adgvOrder.RowHeadersVisible = false;
             this.adgvOrder.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.adgvOrder.Size = new System.Drawing.Size(739, 346);
+            this.adgvOrder.Size = new System.Drawing.Size(1107, 389);
             this.adgvOrder.TabIndex = 14;
             this.adgvOrder.TimeFilter = false;
             this.adgvOrder.SortStringChanged += new System.EventHandler(this.adgvOrder_SortStringChanged);
@@ -128,8 +130,10 @@
             // ckbDataThisYear
             // 
             this.ckbDataThisYear.AutoSize = true;
+            this.ckbDataThisYear.Checked = true;
+            this.ckbDataThisYear.CheckState = System.Windows.Forms.CheckState.Checked;
             this.ckbDataThisYear.ForeColor = System.Drawing.Color.Silver;
-            this.ckbDataThisYear.Location = new System.Drawing.Point(12, 33);
+            this.ckbDataThisYear.Location = new System.Drawing.Point(1025, 76);
             this.ckbDataThisYear.Name = "ckbDataThisYear";
             this.ckbDataThisYear.Size = new System.Drawing.Size(94, 17);
             this.ckbDataThisYear.TabIndex = 98;
@@ -143,7 +147,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Candara", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.Silver;
-            this.label2.Location = new System.Drawing.Point(71, 419);
+            this.label2.Location = new System.Drawing.Point(71, 498);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(83, 33);
             this.label2.TabIndex = 99;
@@ -154,10 +158,10 @@
             this.txtType.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.txtType.Font = new System.Drawing.Font("Yu Gothic UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtType.Location = new System.Drawing.Point(160, 425);
+            this.txtType.Location = new System.Drawing.Point(160, 504);
             this.txtType.Name = "txtType";
             this.txtType.ReadOnly = true;
-            this.txtType.Size = new System.Drawing.Size(203, 29);
+            this.txtType.Size = new System.Drawing.Size(571, 29);
             this.txtType.TabIndex = 100;
             this.txtType.Text = " ";
             // 
@@ -166,7 +170,7 @@
             this.lblTotalRow.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.lblTotalRow.AutoSize = true;
             this.lblTotalRow.ForeColor = System.Drawing.Color.DimGray;
-            this.lblTotalRow.Location = new System.Drawing.Point(640, 402);
+            this.lblTotalRow.Location = new System.Drawing.Point(1004, 492);
             this.lblTotalRow.Name = "lblTotalRow";
             this.lblTotalRow.Size = new System.Drawing.Size(115, 13);
             this.lblTotalRow.TabIndex = 101;
@@ -180,7 +184,7 @@
             this.bttInput.ForeColor = System.Drawing.Color.Black;
             this.bttInput.Image = global::Input.Properties.Resources.next24px;
             this.bttInput.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.bttInput.Location = new System.Drawing.Point(605, 462);
+            this.bttInput.Location = new System.Drawing.Point(973, 528);
             this.bttInput.Name = "bttInput";
             this.bttInput.Size = new System.Drawing.Size(134, 50);
             this.bttInput.TabIndex = 2;
@@ -192,11 +196,36 @@
             // 
             this.bindingSourceOrder.CurrentChanged += new System.EventHandler(this.bindingSourceOrder_CurrentChanged);
             // 
+            // cmbSubProduct
+            // 
+            this.cmbSubProduct.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbSubProduct.Font = new System.Drawing.Font("Candara", 14F);
+            this.cmbSubProduct.FormattingEnabled = true;
+            this.cmbSubProduct.Location = new System.Drawing.Point(152, 64);
+            this.cmbSubProduct.Name = "cmbSubProduct";
+            this.cmbSubProduct.Size = new System.Drawing.Size(167, 31);
+            this.cmbSubProduct.TabIndex = 102;
+            this.cmbSubProduct.SelectedIndexChanged += new System.EventHandler(this.cmbSubProcess_SelectedIndexChanged);
+            // 
+            // label3
+            // 
+            this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Candara", 14F);
+            this.label3.ForeColor = System.Drawing.Color.DarkGray;
+            this.label3.Location = new System.Drawing.Point(8, 67);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(138, 23);
+            this.label3.TabIndex = 103;
+            this.label3.Text = "Select Product :";
+            // 
             // pageInput_SelectOrder
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.cmbSubProduct);
             this.Controls.Add(this.lblTotalRow);
             this.Controls.Add(this.txtType);
             this.Controls.Add(this.label2);
@@ -207,7 +236,7 @@
             this.Controls.Add(this.bttInput);
             this.Controls.Add(this.label9);
             this.Name = "pageInput_SelectOrder";
-            this.Size = new System.Drawing.Size(763, 535);
+            this.Size = new System.Drawing.Size(1131, 589);
             this.Load += new System.EventHandler(this.pageInput_SelectOrder_Load);
             ((System.ComponentModel.ISupportInitialize)(this.adgvOrder)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.bindingSourceOrder)).EndInit();
@@ -228,5 +257,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtType;
         private System.Windows.Forms.Label lblTotalRow;
+        private System.Windows.Forms.ComboBox cmbSubProduct;
+        private System.Windows.Forms.Label label3;
     }
 }

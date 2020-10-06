@@ -3,7 +3,7 @@
     public class ProcessProperty
     {
         public string ID { get; set; }
-        public string PRODUCT_TYPE_ID { get; set; }
+        public string PRODUCT_SUB_CODE { get; set; }
         public string PROCESS_NAME { get; set; }
         public string INUSE { get; set; }
         public string DESCRIPTION { get; set; }

@@ -1,4 +1,4 @@
-﻿using Input.Controllers;
+﻿using InputManagement.Controllers;
 
 using InputManagement.Property;
 
@@ -18,7 +18,7 @@ namespace Input
     {
         SearchControllers _controllers = new SearchControllers();
         InputOrderControllers _inputControllers = new InputOrderControllers();
-        ProcessControllers _processControllers = new ProcessControllers();
+        ProcessController _processControllers = new ProcessController();
 
         List<ProcessProperty> _listProcess;
         List<ResultProperty> _listResult;

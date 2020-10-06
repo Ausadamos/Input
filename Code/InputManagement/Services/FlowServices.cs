@@ -1,15 +1,11 @@
 ﻿using BusinessData.Interface;
 using BusinessData.Property;
-using BusinessData.Models;
 
 using InputManagement.Property;
 using InputManagement.SQLFactory;
 
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Configuration;
 
 namespace InputManagement.Services
 {
@@ -32,7 +28,7 @@ namespace InputManagement.Services
             resultData = base.SearchBySql(sql);
             return resultData;
         }
-        
+
 
         public OutputOnDbProperty GetMaxFlowName()
         {
@@ -43,7 +39,7 @@ namespace InputManagement.Services
 
         public OutputOnDbProperty InsertFlow(FlowProcessProperty dataItem)
         {
-            List<string>_listSQL = _sqlFactory.InsertFlow(dataItem);
+            List<string> _listSQL = _sqlFactory.InsertFlow(dataItem);
             resultData = base.InsertBySqlList(_listSQL);
             return resultData;
         }
@@ -67,13 +63,37 @@ namespace InputManagement.Services
             resultData = base.SearchBySql(sql);
             return resultData;
         }
+
+        public OutputOnDbProperty SearchFlowByFlowName(FlowProperty dataItem)
+        {
+            sql = _sqlFactory.SearchFlowByFlowName(dataItem);
+            resultData = base.SearchBySql(sql);
+            return resultData;
+        }
+
+
+        public OutputOnDbProperty SearchFlowByProduct(FlowProperty dataItem)
+        {
+            sql = _sqlFactory.SearchFlowByProduct(dataItem);
+            resultData = base.SearchBySql(sql);
+            return resultData;
+        }
+
+        public OutputOnDbProperty SearchProcessSubByFlowName(FlowProperty dataItem)
+        {
+            sql = _sqlFactory.SearchProcessSubByFlowName(dataItem);
+            resultData = base.SearchBySql(sql);
+            return resultData;
+        }
+
+
         public OutputOnDbProperty CheckDuplicateFlowProcess(string dataItem)
         {
             sql = _sqlFactory.CheckDuplicateFlowProcess(dataItem);
             resultData = base.SearchBySql(sql);
             return resultData;
         }
-        public OutputOnDbProperty CallFlowRMA( )
+        public OutputOnDbProperty CallFlowRMA()
         {
             sql = _sqlFactory.CallFlowRMA();
             resultData = base.SearchBySql(sql);

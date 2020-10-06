@@ -10,7 +10,7 @@ namespace InputManagement.SQLFactory
 
             sql = @"INSERT INTO `process` (
 						  ID
-                        , PRODUCT_TYPE_ID
+                        , PRODUCT_SUB_CODE
                         , PROCESS_NAME
                         , INUSE
                         , DESCRIPTION
@@ -18,7 +18,7 @@ namespace InputManagement.SQLFactory
                         )
                         (
                           SELECT 1 + coalesce((SELECT max(Id) FROM process), 0) 
-                        , 'dataItem.PRODUCT_TYPE_ID'
+                        , 'dataItem.PRODUCT_SUB_CODE'
                         , 'dataItem.PROCESS_NAME'
                         , 1
                         , 'dataItem.DESCRIPTION'
@@ -26,7 +26,7 @@ namespace InputManagement.SQLFactory
                     );";
 
 
-            sql = sql.Replace("dataItem.PRODUCT_TYPE_ID", dataItem.PRODUCT_TYPE_ID);
+            sql = sql.Replace("dataItem.PRODUCT_SUB_CODE", dataItem.PRODUCT_SUB_CODE);
             sql = sql.Replace("dataItem.PROCESS_NAME", dataItem.PROCESS_NAME);
             sql = sql.Replace("dataItem.INUSE", dataItem.INUSE);
             sql = sql.Replace("dataItem.DESCRIPTION", dataItem.DESCRIPTION);
@@ -41,18 +41,17 @@ namespace InputManagement.SQLFactory
         public string UpdateProccessStatus(ProcessProperty dataItem)
         {
             sql = @"UPDATE `process` 
-                    SET INUSE = '" + dataItem.INUSE + @"'
+                    SET INUSE = '" + dataItem.INUSE + @"' , LAST_USER = '" + dataItem.LAST_USER + @"' , LAST_DATE = NOW()
                     WHERE PROCESS_NAME = '" + dataItem.PROCESS_NAME + @"' 
-                    AND PRODUCT_TYPE_ID  = '" + dataItem.PRODUCT_TYPE_ID + @"' 
-                    AND INUSE = 1 ";
+                    AND PRODUCT_SUB_CODE  = '" + dataItem.PRODUCT_SUB_CODE + @"'";
 
             return sql;
         }
 
-        public string SearchProcessByProductTypeId(ProcessProperty dataItem)
+        public string SearchProcessByProductSubCode(ProcessProperty dataItem)
         {
             sql = @"SELECT * FROM  `process` 
-                    WHERE PRODUCT_TYPE_ID = '" + dataItem.PRODUCT_TYPE_ID + "'";
+                    WHERE PRODUCT_SUB_CODE = '" + dataItem.PRODUCT_SUB_CODE + "'";
 
             return sql;
         }

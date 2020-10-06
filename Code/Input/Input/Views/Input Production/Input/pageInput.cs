@@ -1,14 +1,7 @@
-﻿using InputManagement.Property;
-using Input.Controllers;
-
+﻿using InputManagement.Controllers;
+using InputManagement.Property;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Drawing;
-using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Input
@@ -53,7 +46,7 @@ namespace Input
 
             this.dtpInputDate_Start.MinDate = _dataTimeNow;
             this.dtpInputDate_To.MinDate = _dataTimeNow.AddDays(1);
-            
+
             this.SetClearSelectMoreOneDay();
             this.SetClearSelectOneDay();
             this.LoadPuchaseOrder();
@@ -298,7 +291,7 @@ namespace Input
         private void cmbSelectPurchaseNo_SelectedIndexChanged(object sender, EventArgs e)
         {
             //******Check Work Order. *******************************
-            
+
             string _PurchaseNo = this.cmbSelect_PurchaseNo.Text;
             int _indexPurchaseNo = this.cmbSelect_PurchaseNo.FindString(_PurchaseNo);
             if (_indexPurchaseNo >= 1)
@@ -364,28 +357,34 @@ namespace Input
                     MessageBox.Show("Please input Actual_Quantity.", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return;
                 }
-
-
                 //Check Over ORDER_QUANTITY.
                 int orderQty = Convert.ToInt32(this.txtQtyOrder.Text);
                 int orderTotal = Convert.ToInt32(this.txtTotalQty.Text);
                 if (orderTotal > orderQty)
                 {
                     DialogResult result = MessageBox.Show("Total input more than Order quantity." + "\n" + "You want to input Over YES | NO ?", "Confirmation", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-                    if (result == DialogResult.No){return;}
+                    if (result == DialogResult.No) { return; }
                 }
 
                 DateTime orderDate = this.dtpInputDate.Value.Date;
                 _orderInput = new OrderProperty
                 {
                     EMP = _frmMain._empLogin
-                    , CONDITION = _frmMain._order.CONDITION
-                    , FFT_ORDER_ID = _frmMain._order.FFT_ORDER_ID.ToString()
-                    , ORDER_TYPE_NAME = _frmMain._order.ORDER_TYPE_NAME
-                    , ORDER_DATE = String.Format("{0:yyyy-MM-dd}", orderDate)    
-                    , ORDER_QUANTITY = txtQtyActual.Text.ToString()
-                    , PURCHASR = new PurchaseProperty { PURCHASE_NO = this.cmbSelect_PurchaseNo.Text.Trim() }
+                    ,
+                    CONDITION = _frmMain._order.CONDITION
+                    ,
+                    FFT_ORDER_ID = _frmMain._order.FFT_ORDER_ID.ToString()
+                    ,
+                    ORDER_TYPE_NAME = _frmMain._order.ORDER_TYPE_NAME
+                    ,
+                    ORDER_DATE = String.Format("{0:yyyy-MM-dd}", orderDate)
+                    ,
+                    ORDER_QUANTITY = txtQtyActual.Text.ToString()
+                    ,
+                    PURCHASR = new PurchaseProperty { PURCHASE_NO = this.cmbSelect_PurchaseNo.Text.Trim() }
 
+                    ,
+                    Sub_Product = _frmMain._order.Sub_Product
                 };
 
                 _listOrderInput.Add(_orderInput);
@@ -419,12 +418,21 @@ namespace Input
                     OrderProperty _order = new OrderProperty
                     {
                         EMP = _frmMain._empLogin
-                        ,CONDITION = _frmMain._order.CONDITION
-                        ,FFT_ORDER_ID = _frmMain._order.FFT_ORDER_ID.ToString()
-                        ,ORDER_TYPE_NAME = _frmMain._order.ORDER_TYPE_NAME
-                        ,ORDER_DATE = String.Format("{0:yyyy-MM-dd}", dateStart)
-                        ,ORDER_QUANTITY = txtQtyPerDay.Text.ToString()
-                        ,PURCHASR = new PurchaseProperty { PURCHASE_NO = this.cmbSelect_PurchaseNo.Text.Trim() }
+                        ,
+                        CONDITION = _frmMain._order.CONDITION
+                        ,
+                        FFT_ORDER_ID = _frmMain._order.FFT_ORDER_ID.ToString()
+                        ,
+                        ORDER_TYPE_NAME = _frmMain._order.ORDER_TYPE_NAME
+                        ,
+                        ORDER_DATE = String.Format("{0:yyyy-MM-dd}", dateStart)
+                        ,
+                        ORDER_QUANTITY = txtQtyPerDay.Text.ToString()
+                        ,
+                        PURCHASR = new PurchaseProperty { PURCHASE_NO = this.cmbSelect_PurchaseNo.Text.Trim() }
+
+                        ,
+                        Sub_Product = _frmMain._order.Sub_Product
                     };
                     _listOrderInput.Add(_order);
                     dateStart = dateStart.AddDays(1);
@@ -433,8 +441,8 @@ namespace Input
             }
             else
             {
-                MessageBox.Show("Please Select Input Date type `1 day` | `More than 1 day` ", "Warning",MessageBoxButtons.OK,MessageBoxIcon.Warning);
-                return ; 
+                MessageBox.Show("Please Select Input Date type `1 day` | `More than 1 day` ", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
             }
 
             //Check Purchasr
@@ -450,7 +458,7 @@ namespace Input
         public void Load_PageInputConfirm()
         {
             //default page//set HeadLine
-            _frmMain.Set_HeadLine(_frmMain.lblHeader.Text +" > Confirm Order");
+            _frmMain.Set_HeadLine(_frmMain.lblHeader.Text + " > Confirm Order");
 
             //Clear Panel Body
             _frmMain.panBody.Controls.Clear();

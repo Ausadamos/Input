@@ -30,9 +30,9 @@ namespace InputManagement.Services
             return resultData;
         }
 
-        public OutputOnDbProperty SearchProcessByProductTypeId(ProcessProperty dataItem)
+        public OutputOnDbProperty SearchProcessByProductSubCode(ProcessProperty dataItem)
         {
-            sql = _sqlFactory.SearchProcessByProductTypeId(dataItem);
+            sql = _sqlFactory.SearchProcessByProductSubCode(dataItem);
             resultData = base.SearchBySql(sql);
             return resultData;
         }

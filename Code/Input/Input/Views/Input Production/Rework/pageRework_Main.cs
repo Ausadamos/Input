@@ -1,18 +1,13 @@
-﻿using InputManagement.Property;
-using Input.Controllers;
-
+﻿using InputManagement.Controllers;
+using InputManagement.Property;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Drawing;
 using System.Data;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Input
-{ 
+{
     public partial class pageRework_Main : UserControl
     {
         InputOrderControllers _controllers = new InputOrderControllers();
@@ -113,15 +108,15 @@ namespace Input
 
                     _input.SERIAL_NO = txtSerial.Text.ToString();
 
-                        foreach (InputProperty _checkInput in _listInputRMARework)
+                    foreach (InputProperty _checkInput in _listInputRMARework)
+                    {
+                        if (_checkInput.SERIAL_NO == _input.SERIAL_NO)
                         {
-                            if (_checkInput.SERIAL_NO == _input.SERIAL_NO)
-                            {
-                                MessageBox.Show("Have Serial_NO : " + _checkInput.SERIAL_NO + " Duplicate", "Stop", MessageBoxButtons.OK, MessageBoxIcon.Stop);
-                                this.txtSerial.Clear();
-                                return;
-                            }
+                            MessageBox.Show("Have Serial_NO : " + _checkInput.SERIAL_NO + " Duplicate", "Stop", MessageBoxButtons.OK, MessageBoxIcon.Stop);
+                            this.txtSerial.Clear();
+                            return;
                         }
+                    }
 
                     this.Get_purchaseBySerial();
                 }

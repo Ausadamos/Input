@@ -1,16 +1,10 @@
 ﻿using Login.Property;
 
-
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
 namespace InputManagement.Property
 {
     public class OrderProperty
     {
-        public string FFT_ORDER_ID {get; set;}
+        public string FFT_ORDER_ID { get; set; }
         public string GROUP { get; set; }
         public ConditionProperty CONDITION { get; set; }
         public string ORDER_QUANTITY { get; set; }
@@ -19,6 +13,7 @@ namespace InputManagement.Property
         public string ORDER_DATE { get; set; }
         public PurchaseProperty PURCHASR { get; set; }
         public EmpProperty EMP { get; set; }
+        public SubProductProperty Sub_Product { get; set; }
     }
 
     public class InputProperty

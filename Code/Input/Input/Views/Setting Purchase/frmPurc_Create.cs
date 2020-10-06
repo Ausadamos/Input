@@ -1,4 +1,5 @@
-﻿using Input.Controllers;
+﻿using CommonClassLibrary.Components;
+using InputManagement.Controllers;
 using InputManagement.Property;
 using System;
 using System.Collections.Generic;
@@ -14,10 +15,20 @@ namespace Input
         GenerateSerialControllers _generateSerialControllers = new GenerateSerialControllers();
         FlowProcessProperty _flowProcess = new FlowProcessProperty();
 
-        List<SerialProductTypeProperty> _serialProductType;
+
+
+
+        List<SerialProductTypeProperty> _listSerialProductTypeProperty;
+        List<ProductTypeProperty> _listProductTypeProperty;
+        List<SerialTypeProperty> listSerialTypeProperty;
+
         PurchaseProperty _purchase;
         FlowProperty _flow;
 
+        SubProductController _productSubController = new SubProductController();
+        ProductTypeController _productTypeController = new ProductTypeController();
+        SerialProductTypeController _serialProductTypeController = new SerialProductTypeController();
+        SerialTypeController _serialTypeController = new SerialTypeController();
 
         frmMain _frmMain;
 
@@ -46,18 +57,56 @@ namespace Input
             this.rdoCopyFlow.Checked = true;
             this.rdoSelectFlow.Checked = false;
             this.cmbFlow.Enabled = false;
-            this.Load_ProductType();
-
+            //this.Load_ProductType();
+            LoadProduct();
+            listSerialTypeProperty = _serialTypeController.Search();
         }
+
+        private void LoadProduct()
+        {
+            cmbProduct.Items.Clear();
+            List<SubProductProperty> listProductSubProperty = _productSubController.Search();
+            foreach (SubProductProperty data in listProductSubProperty)
+            {
+                ComboboxItem item = new ComboboxItem();
+                item.Text = data.PRODUCT_SUB_NAME;
+                item.Value = data.PRODUCT_SUB_CODE;
+                cmbProduct.Items.Add(item);
+            }
+            cmbProduct.SelectedIndex = -1;
+        }
+
+        private void cmbProduct_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (!string.IsNullOrWhiteSpace(cmbProduct.Text))
+            {
+                Load_ProductType();
+                this.lblExSerialFormat.Text = "";
+                rdoCopyFlow.PerformClick();
+            }
+        }
+
         private void Load_ProductType()
         {
-            this.cmbProductType.Items.Add("- SELECT PRODUCT TYPE -");
-            this.cmbProductType.SelectedIndex = 0;
-            _serialProductType = _generateSerialControllers.SearchSerialProductType();
-            foreach (SerialProductTypeProperty _serialProType in _serialProductType)
+            cmbProductType.Items.Clear();
+
+            this.cmbProductType.SelectedIndex = -1;
+
+            ProductTypeProperty _productTypeProperty = new ProductTypeProperty()
             {
-                this.cmbProductType.Items.Add(_serialProType.productTypeProperty.PRODUCT_TITLE.ToString());
+                PRODUCT_SUB_CODE = (cmbProduct.SelectedItem as ComboboxItem).Value.ToString()
+            };
+
+            _listProductTypeProperty = _productTypeController.SearchByProductSubCode(_productTypeProperty);
+
+            foreach (ProductTypeProperty data in _listProductTypeProperty)
+            {
+                ComboboxItem item = new ComboboxItem();
+                item.Text = data.PRODUCT_TITLE;
+                item.Value = data.ID;
+                cmbProductType.Items.Add(item);
             }
+
         }
 
         private void rdoCopyFlow_CheckedChanged(object sender, EventArgs e)
@@ -72,15 +121,21 @@ namespace Input
                 this.cmbFlow.Enabled = false;
                 this.cmbPurchase.Items.Clear();
                 this.cmbFlow.Items.Clear();
-                this.lstProcess.Items.Clear();
+                this.treeViewSetProcess.Nodes.Clear();
                 this.cmbPurchase.Text = "";
 
-                List<PurchaseProperty> _listPurchase = new List<PurchaseProperty>();
-                _listPurchase = _controllers.ListPurchasesAll();
-                foreach (PurchaseProperty _Purchase in _listPurchase)
+                if (cmbProduct.Text != "")
                 {
-                    cmbPurchase.Items.Add(_Purchase.PURCHASE_NO);
+                    List<PurchaseProperty> _listPurchase = new List<PurchaseProperty>();
+
+                    _listPurchase = _controllers.SearchPurchasesByProduct(new PurchaseProperty { PRODUCT_TYPE = new ProductTypeProperty { PRODUCT_SUB_CODE = (cmbProduct.SelectedItem as ComboboxItem).Value.ToString() } });
+                    foreach (PurchaseProperty _Purchase in _listPurchase)
+                    {
+                        cmbPurchase.Items.Add(_Purchase.PURCHASE_NO);
+                    }
                 }
+                createTree();
+
             }
             else if (this.rdoSelectFlow.Checked)
             {
@@ -93,16 +148,32 @@ namespace Input
                 this.cmbPurchase.Enabled = false;
                 this.cmbPurchase.Items.Clear();
                 this.cmbFlow.Items.Clear();
-                this.lstProcess.Items.Clear();
+                this.treeViewSetProcess.Nodes.Clear();
                 this.cmbPurchase.Text = "";
                 this.cmbFlow.Text = "";
 
-                List<FlowProperty> _listflow = new List<FlowProperty>();
-                _listflow = _flowControllers.LoadFlow();
-                foreach (FlowProperty _flow in _listflow)
+                //List<FlowProperty> _listflow = new List<FlowProperty>();
+                //_listflow = _flowControllers.LoadFlow();
+                //foreach (FlowProperty _flow in _listflow)
+                //{
+                //    cmbFlow.Items.Add(_flow.FLOW_NAME);
+                //}
+
+                if (cmbProduct.Text != "")
                 {
-                    cmbFlow.Items.Add(_flow.FLOW_NAME);
+                    List<FlowProperty> _listFlow = new List<FlowProperty>();
+
+                    _listFlow = _flowControllers.SearchFlowByProduct(new FlowProperty { PRODUCT_SUB_CODE = (cmbProduct.SelectedItem as ComboboxItem).Value.ToString() });
+
+
+
+                    foreach (FlowProperty _Flow in _listFlow)
+                    {
+                        cmbFlow.Items.Add(_Flow.FLOW_NAME);
+                    }
                 }
+
+
             }
         }
 
@@ -114,7 +185,7 @@ namespace Input
             //Load Flow name in cmb Flow & set cmb.text = Flow (1.2)
             this.cmbFlow.Text = "";
             this.cmbFlow.Items.Clear();
-            this.lstProcess.Items.Clear();
+            this.treeViewSetProcess.Nodes.Clear();
 
             if (this.cmbPurchase.Text != "")
             {
@@ -132,49 +203,65 @@ namespace Input
                 cmbFlow.Items.Add(_flowProcess.FLOW.FLOW_NAME);
                 cmbFlow.Text = _flowProcess.FLOW.FLOW_NAME;
             }
+
+            createTree();
         }
 
         private void cmbFlow_SelectedIndexChanged(object sender, EventArgs e)
         {
-            this.lstProcess.Items.Clear();
+            createTree();
+        }
+
+        private void createTree()
+        {
+            this.treeViewSetProcess.Nodes.Clear();
 
             // if cmb purchase & cmb flow != "" 
             // Load process in list process (1.3)
             int no = 1;
-            if (this.cmbPurchase.Text != "" && this.cmbFlow.Text != "")
+            int noSub = 1;
+
+            List<ProcessProperty> _listProcess = new List<ProcessProperty>();
+            List<ProcessSubProperty> _listProcessSub = new List<ProcessSubProperty>();
+            _flow = new FlowProperty
             {
-                foreach (ProcessProperty _process in _flowProcess.PROCESS)
+                FLOW_NAME = this.cmbFlow.Text.ToString()
+            };
+            _listProcess = _flowControllers.SearchProcessByFlowName(_flow);
+            _listProcessSub = _flowControllers.SearchProcessSubByFlowName(_flow);
+
+            foreach (ProcessProperty _process in _listProcess)
+            {
+                noSub = 1;
+                treeViewSetProcess.Nodes.Add(no + "_" + _process.PROCESS_NAME);
+                foreach (ProcessSubProperty _processSub in _listProcessSub.FindAll(x => x.PROCESS_ID == _process.ID))
                 {
-                    lstProcess.Items.Add(no + "_" + _process.PROCESS_NAME);
-                    no += 1;
+                    treeViewSetProcess.Nodes[treeViewSetProcess.Nodes.Count - 1].Nodes.Add(noSub + "_" + _processSub.SUB_PROCESS_NAME);
+                    noSub += 1;
                 }
+
+                no += 1;
             }
 
-            // if cmb purchase == "" & cmb flow != ""
-            // Query by Flow name  , get process
-            // Load process in list process (2.2)
-            else if (this.cmbPurchase.Text == "" && this.cmbFlow.Text != "")
-            {
-                List<ProcessProperty> _listProcess = new List<ProcessProperty>();
-                _flow = new FlowProperty
-                {
-                    FLOW_NAME = this.cmbFlow.Text.ToString()
-                };
-                _listProcess = _flowControllers.SearchProcessByFlowName(_flow);
-
-                foreach (ProcessProperty _process in _listProcess)
-                {
-                    lstProcess.Items.Add(no + "_" + _process.PROCESS_NAME);
-                    no += 1;
-                }
-            }
+            //by Boat 03/11/2019
         }
-        //by Boat 03/11/2019
+
         private void cmbProductType_SelectedIndexChanged(object sender, EventArgs e)
         {
-            this.lblExSerialFormat.Text = (this.cmbProductType.SelectedIndex != 0)
-                ? _serialProductType[this.cmbProductType.SelectedIndex - 1].serialTypeProperty.DETAIL.ToString() : _defaultExSertila;
+
+
+            _listSerialProductTypeProperty = _serialProductTypeController.SearchByProductTypeId(new SerialProductTypeProperty { PRODUCT_TYPE = new ProductTypeProperty { ID = (cmbProductType.SelectedItem as ComboboxItem).Value.ToString() } });
+            _listSerialProductTypeProperty = _listSerialProductTypeProperty.FindAll(x => x.INUSE == "True");
+
+
+            this.lblExSerialFormat.Text = _listSerialProductTypeProperty.Count == 0 ? _defaultExSertila : listSerialTypeProperty.Find(x => x.ID == _listSerialProductTypeProperty[0].SERIAL_TYPE.ID).SERIAL_FORMAT;
+
+            //this.lblExSerialFormat.Text = (this.cmbProductType.SelectedIndex != 0)
+            //    ? _listProductTypeProperty[this.cmbProductType.SelectedIndex - 1].SERIAL_TYPE.DETAIL.ToString() : _defaultExSertila;
         }
+
+
+
         private void btnCreate_Click(object sender, EventArgs e)
         {
             PurchaseProperty _addPurchase = new PurchaseProperty
@@ -242,6 +329,7 @@ namespace Input
             if (_controllers.InsertNewPurchase(_addPurchase))
             {
                 this.frmPurc_Create_Load(this.Tag, null);
+                this.Close();
             }
 
         }
@@ -264,6 +352,14 @@ namespace Input
             }
         }
 
+        private void groupBox5_Enter(object sender, EventArgs e)
+        {
 
+        }
+
+        private void rdoSelectFlow_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

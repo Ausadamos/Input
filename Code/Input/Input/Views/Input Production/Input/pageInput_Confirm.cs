@@ -1,16 +1,8 @@
 ﻿
+using InputManagement.Controllers;
 using InputManagement.Property;
-
-using Input.Controllers;
-
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Drawing;
 using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Input

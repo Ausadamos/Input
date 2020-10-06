@@ -1,15 +1,10 @@
 ﻿using BusinessData.Interface;
 using BusinessData.Property;
-using BusinessData.Models;
 
 using InputManagement.Property;
 using InputManagement.SQLFactory;
 
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Configuration;
 
 namespace InputManagement.Services
 {
@@ -39,10 +34,24 @@ namespace InputManagement.Services
             resultData = base.SearchBySql(sql);
             return resultData;
         }
-
-
-        
-
+        public OutputOnDbProperty SearchOrderDetail(SearchOrderDetailProperty dataItem)
+        {
+            sql = _sqlFactory.SearchOrderDetail(dataItem);
+            resultData = base.SearchBySql(sql);
+            return resultData;
+        }
+        public OutputOnDbProperty SearchPurchase(SearchPurchaseProperty dataItem)
+        {
+            sql = _sqlFactory.SearchPurchase(dataItem);
+            resultData = base.SearchBySql(sql);
+            return resultData;
+        }
+        public OutputOnDbProperty SearchFlow()
+        {
+            sql = _sqlFactory.SearchFlow();
+            resultData = base.SearchBySql(sql);
+            return resultData;
+        }
         public override OutputOnDbProperty Delete(ConditionProperty dataItem)
         {
             throw new NotImplementedException();

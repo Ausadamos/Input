@@ -166,4 +166,85 @@
   <data name="Header_SerialInput" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Header_SerialInput.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="3914205-free-production-icon-72555-download-production-icon-72555-manufacturing-process-png-512_512_preview1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3914205-free-production-icon-72555-download-production-icon-72555-manufacturing-process-png-512_512_preview1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="588a64f5d06f6719692a2d131" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\588a64f5d06f6719692a2d131.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Artboard_2-3-5121" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Artboard_2-3-5121.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="back24px1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\back24px1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="down-chevron1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\down-chevron1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="down1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\down1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Header_BurIn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Header_BurIn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Header_Curing" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Header_Curing.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Header_FiberOnPlate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Header_FiberOnPlate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Header_FinalAssembling" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Header_FinalAssembling.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Header_Packing" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Header_Packing.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Header_PDThermistor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Header_PDThermistor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Header_ResonatorAssembling" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Header_ResonatorAssembling.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Header_ResonatorAssembling1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Header_ResonatorAssembling1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Header_ResonatorTest" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Header_ResonatorTest.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Header_SerialInput1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Header_SerialInput1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Header_TFBAssembling" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Header_TFBAssembling.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Header_ThermalScreening" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Header_ThermalScreening.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-key-1001" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-key-1001.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="left-chevron1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\left-chevron1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="next1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\next1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="next24px1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\next24px1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="previous1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\previous1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="right-chevron1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\right-chevron1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="setting-line1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\setting-line1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="up-chevron1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\up-chevron1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="up1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\up1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

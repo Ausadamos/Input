@@ -1,6 +1,6 @@
 ﻿using BusinessData.Property;
 using CommonClassLibrary.Components;
-using Input.Controllers;
+using InputManagement.Controllers;
 using InputManagement.Property;
 using System;
 using System.Collections.Generic;
@@ -13,8 +13,8 @@ namespace Input
         List<ProcessProperty> _listProcess = new List<ProcessProperty>();
         FlowControllers _controllersFlow = new FlowControllers();
 
-        ProcessControllers _controllers = new ProcessControllers();
-        ProductSubController _productSubController = new ProductSubController();
+        ProcessController _controllers = new ProcessController();
+        SubProductController _productSubController = new SubProductController();
         ProductTypeController _productTypeController = new ProductTypeController();
 
         List<ProcessProperty> _loadProcess;
@@ -36,14 +36,14 @@ namespace Input
         {
             // Insert Process 
             this.rdoInsert.Checked = false;
-            this.grpAddprocess.Enabled = false;
+            this.pnlAddprocess.Enabled = false;
             this.txtInsertProcess.Clear();
             this.txtInsertProcess.Enabled = false;
             this.btnAdd.Enabled = false;
 
             //Update Process
             this.rdoUpdate.Checked = false;
-            this.grpUpdate.Enabled = false;
+            this.pnlUpdate.Enabled = false;
             this.txtUpdate.Clear();
             this.txtUpdate.Enabled = false;
             this.cmbStatus.Items.Clear();
@@ -56,43 +56,42 @@ namespace Input
         private void LoadProduct()
         {
             cmbProduct.Items.Clear();
-            List<ProductSubProperty> listProductSubProperty = _productSubController.Search();
-            foreach (ProductSubProperty data in listProductSubProperty)
+            List<SubProductProperty> listProductSubProperty = _productSubController.Search();
+            foreach (SubProductProperty data in listProductSubProperty)
             {
                 ComboboxItem item = new ComboboxItem();
                 item.Text = data.PRODUCT_SUB_NAME;
                 item.Value = data.PRODUCT_SUB_CODE;
                 cmbProduct.Items.Add(item);
             }
-
-
-
         }
 
-        private void LoadProductType()
-        {
-            cmbProductType.Items.Clear();
-            ProductTypeProperty productTypeProperty = new ProductTypeProperty()
-            {
-                PRODUCT_SUB_CODE = (cmbProduct.SelectedItem as ComboboxItem).Value.ToString()
-            };
-            List<ProductTypeProperty> listProductTypeProperty = _productTypeController.SearchByProductSubCode(productTypeProperty);
-            foreach (ProductTypeProperty data in listProductTypeProperty)
-            {
+        //private void LoadProductType()
+        //{
+        //    cmbProductType.Items.Clear();
+        //    ProductTypeProperty PRODUCT_TYPE = new ProductTypeProperty()
+        //    {
+        //        PRODUCT_SUB_CODE = (cmbProduct.SelectedItem as ComboboxItem).Value.ToString()
+        //    };
+        //    List<ProductTypeProperty> listProductTypeProperty = _productTypeController.SearchByProductSubCode(PRODUCT_TYPE);
+        //    foreach (ProductTypeProperty data in listProductTypeProperty)
+        //    {
 
-                ComboboxItem item = new ComboboxItem();
-                item.Text = data.PRODUCT_TITLE;
-                item.Value = data.ID;
-                cmbProductType.Items.Add(item);
+        //        ComboboxItem item = new ComboboxItem();
+        //        item.Text = data.PRODUCT_TITLE;
+        //        item.Value = data.ID;
+        //        cmbProductType.Items.Add(item);
 
-            }
+        //    }
 
-        }
+        //}
 
 
         private void LoadProcess()
         {
-            _listProcess = _controllers.SearchProcessByProductTypeId(new ProcessProperty { PRODUCT_TYPE_ID = (cmbProductType.SelectedItem as ComboboxItem).Value.ToString() });
+            _listProcess = _controllers.SearchProcessByProductSubCode(new ProcessProperty { PRODUCT_SUB_CODE = (cmbProduct.SelectedItem as ComboboxItem).Value.ToString() });
+            SearchProcess();
+
         }
 
         private void rdoInsert_CheckedChanged(object sender, EventArgs e)
@@ -102,7 +101,7 @@ namespace Input
                 this.lstProcess.SelectionMode = SelectionMode.None;
                 this.CheckedInsertProcess();
                 this.rdoUpdate.Checked = false;
-                this.groupBoxProcess.Enabled = true;
+                this.pnlProcess.Enabled = true;
             }
         }
 
@@ -113,20 +112,20 @@ namespace Input
                 this.lstProcess.SelectionMode = SelectionMode.One;
                 this.CheckedUpdateStatusProcess();
                 this.rdoInsert.Checked = false;
-                this.groupBoxProcess.Enabled = true;
+                this.pnlProcess.Enabled = true;
             }
         }
 
         private void CheckedInsertProcess()
         {
             // Insert Process 
-            this.grpAddprocess.Enabled = true;
+            this.pnlAddprocess.Enabled = true;
             this.txtInsertProcess.Clear();
             this.txtInsertProcess.Enabled = true;
             this.btnAdd.Enabled = true;
 
             //Update Process
-            this.grpUpdate.Enabled = false;
+            this.pnlUpdate.Enabled = false;
             this.txtUpdate.Clear();
             this.txtUpdate.Enabled = false;
             this.cmbStatus.Items.Clear();
@@ -140,7 +139,7 @@ namespace Input
         private void CheckedUpdateStatusProcess()
         {
             //Update Process
-            this.grpUpdate.Enabled = true;
+            this.pnlUpdate.Enabled = true;
             this.txtUpdate.Clear();
             this.txtUpdate.Enabled = true;
             this.cmbStatus.Items.Clear();
@@ -150,7 +149,7 @@ namespace Input
             this.btnUpdate.Enabled = true;
 
             // Insert Process 
-            this.grpAddprocess.Enabled = false;
+            this.pnlAddprocess.Enabled = false;
             this.txtInsertProcess.Clear();
             this.txtInsertProcess.Enabled = false;
             this.btnAdd.Enabled = false;
@@ -272,7 +271,7 @@ namespace Input
 
             if (status == true)
             {
-                ProcessProperty _addProcess = new ProcessProperty { PROCESS_NAME = processName, PRODUCT_TYPE_ID = (cmbProductType.SelectedItem as ComboboxItem).Value.ToString() };
+                ProcessProperty _addProcess = new ProcessProperty { PROCESS_NAME = processName, PRODUCT_SUB_CODE = (cmbProduct.SelectedItem as ComboboxItem).Value.ToString(), CREATE_USER = _frmMain._empLogin.code };
 
                 //Insert Process.
                 if (_controllers.InsertProcess(_addProcess))
@@ -281,7 +280,7 @@ namespace Input
                     //this.ResetInsertProcess();
                     this.LoadProcess();
                     this.SearchProcess();
-                    this.groupBoxProcess.Enabled = false;
+                    this.pnlProcess.Enabled = false;
                 }
             }
             else
@@ -332,7 +331,8 @@ namespace Input
             if (_indexStatus >= 0)
             {
                 _processUpdateStatus.INUSE = this.cmbStatus.Text == "Use" ? "1" : "0";
-                _processUpdateStatus.PRODUCT_TYPE_ID = (cmbProductType.SelectedItem as ComboboxItem).Value.ToString();
+                _processUpdateStatus.PRODUCT_SUB_CODE = (cmbProduct.SelectedItem as ComboboxItem).Value.ToString();
+                _processUpdateStatus.LAST_USER = _frmMain._empLogin.code;
                 // _currentCondition.EMP = frmMain._empLogin;
                 if (_controllers.UpdateProccessStatus(_processUpdateStatus))
                 {
@@ -341,7 +341,7 @@ namespace Input
                     this.LoadProcess();
                     this.SearchProcess();
 
-                    this.groupBoxProcess.Enabled = false;
+                    this.pnlProcess.Enabled = false;
                 }
             }
             else
@@ -354,7 +354,7 @@ namespace Input
 
         }
 
-        private void groupBoxProcess_Enter(object sender, EventArgs e)
+        private void pnlProcess_Enter(object sender, EventArgs e)
         {
 
         }
@@ -363,12 +363,7 @@ namespace Input
         {
             if (!string.IsNullOrWhiteSpace(cmbProduct.Text))
             {
-                LoadProductType();
-
-                lstProcess.DataSource = null;
-                cmbProductType.Enabled = true;
-                groupBoxProcess.Enabled = false;
-                cmbProductType.Focus();
+                LoadProcess();
             }
         }
 
@@ -379,10 +374,15 @@ namespace Input
             this.lstProcess.Enabled = false;
             this.LoadProcess();
             this.SearchProcess();
-            groupBoxProcess.Enabled = true;
+            pnlProcess.Enabled = true;
         }
 
         private void groupBox5_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }

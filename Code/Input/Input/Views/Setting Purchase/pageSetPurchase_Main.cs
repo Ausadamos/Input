@@ -1,14 +1,7 @@
-﻿using Input.Controllers;
+﻿using InputManagement.Controllers;
 using InputManagement.Property;
 
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Drawing;
-using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Input
@@ -84,7 +77,7 @@ namespace Input
         {
             if (purchaseData.FFT_CODE == null || purchaseData.PURCHASE_NO == null || purchaseData.FLOW.FLOW_NAME == null || purchaseData.PART_NO == null || purchaseData.PRODUCT_PURCHASE == null || purchaseData.MODEL == null)
             {
-                MessageBox.Show("Please select order for update order","Warning",MessageBoxButtons.OK,MessageBoxIcon.Warning);
+                MessageBox.Show("Please select order for update order", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
             this.Load_PageUpdateProcessCard();
@@ -110,7 +103,7 @@ namespace Input
             {
                 if (e.RowIndex >= 0 && e.ColumnIndex >= 0)
                 {
-                    if (this.advgListPurchase.Rows[e.RowIndex].Cells[e.ColumnIndex].Value != null) 
+                    if (this.advgListPurchase.Rows[e.RowIndex].Cells[e.ColumnIndex].Value != null)
                     {
                         purchaseData = new PurchaseProperty
                         {
@@ -118,7 +111,7 @@ namespace Input
                             ,
                             FFT_CODE = this.advgListPurchase.Rows[e.RowIndex].Cells["FFT_CODE"].FormattedValue.ToString()
                             ,
-                            FLOW = new FlowProperty {  FLOW_NAME = this.advgListPurchase.Rows[e.RowIndex].Cells["FLOW_NAME"].FormattedValue.ToString() }
+                            FLOW = new FlowProperty { FLOW_NAME = this.advgListPurchase.Rows[e.RowIndex].Cells["FLOW_NAME"].FormattedValue.ToString() }
                             ,
                             PART_NO = this.advgListPurchase.Rows[e.RowIndex].Cells["PART_NO"].FormattedValue.ToString()
                             ,

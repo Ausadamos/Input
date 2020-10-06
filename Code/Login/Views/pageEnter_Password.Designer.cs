@@ -257,7 +257,6 @@
             this.txtPass.PasswordChar = '*';
             this.txtPass.Size = new System.Drawing.Size(330, 29);
             this.txtPass.TabIndex = 1;
-            this.txtPass.Text = "AusadaMos13571";
             this.txtPass.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtPass.TextChanged += new System.EventHandler(this.txtPass_TextChanged);
             // 

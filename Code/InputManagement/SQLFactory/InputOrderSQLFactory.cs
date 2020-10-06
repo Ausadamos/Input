@@ -1,10 +1,5 @@
 ﻿using InputManagement.Property;
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
 namespace InputManagement.SQLFactory
 {
     public class InputOrderSQLFactory
@@ -107,14 +102,17 @@ namespace InputManagement.SQLFactory
 
                         INNER JOIN `item_order_type` AS `tb_5` 
                         ON(`tb_5`.`ORDER_TYPE_ID` = `tb_1`.`ORDER_TYPE_ID`)
-
-                        WHERE `tb_1`.`PRODUCT_ID` = '11'
-                        AND `tb_5`.`ORDER_TYPE_NAME` = '" + dataItem.ORDER_TYPE_NAME + @"'
+                        
+                        INNER JOIN `item_product` AS `tb6`
+                        ON (tb6.PRODUCT_ID = tb_1.PRODUCT_ID)
+                        
+                        WHERE `tb6`.`PRODUCT_NAME` = 'dataItem.SUB_PRODUCT.PRODUCT_SUB_NAME'
+                        AND `tb_5`.`ORDER_TYPE_NAME` LIKE '" + dataItem.ORDER_TYPE_NAME + @"%'
                         AND YEAR(`tb_1`.`ORDER_DATE`) = YEAR(NOW())
 
-                        ORDER BY `tb_1`.`ORDER_DATE` DESC,`tb_1`.`FFT_ORDER_ID` DESC;
+                        ORDER BY `tb_1`.`ORDER_DATE` DESC,`tb_1`.`FFT_ORDER_ID` DESC;";
 
-";
+            sql = sql.Replace("dataItem.SUB_PRODUCT.PRODUCT_SUB_NAME", dataItem.Sub_Product.PRODUCT_SUB_NAME);
 
             return sql;
         }
@@ -196,13 +194,16 @@ namespace InputManagement.SQLFactory
                         INNER JOIN `item_order_type` AS `tb_5` 
                         ON(`tb_5`.`ORDER_TYPE_ID` = `tb_1`.`ORDER_TYPE_ID`)
 
-                        WHERE `tb_1`.`PRODUCT_ID` = '11'
-                        AND `tb_5`.`ORDER_TYPE_NAME` = '" + dataItem.ORDER_TYPE_NAME + @"'
+                        INNER JOIN `item_product` AS `tb6`
+                        ON (tb6.PRODUCT_ID = tb_1.PRODUCT_ID)
 
-                        ORDER BY `tb_1`.`ORDER_DATE` DESC,`tb_1`.`FFT_ORDER_ID` DESC;
+                        WHERE `tb6`.`PRODUCT_NAME` = 'dataItem.SUB_PRODUCT.PRODUCT_SUB_NAME'
 
-";
+                        AND `tb_5`.`ORDER_TYPE_NAME` LIKE '" + dataItem.ORDER_TYPE_NAME + @"%'
 
+                        ORDER BY `tb_1`.`ORDER_DATE` DESC,`tb_1`.`FFT_ORDER_ID` DESC;";
+
+            sql = sql.Replace("dataItem.SUB_PRODUCT.PRODUCT_SUB_NAME", dataItem.Sub_Product.PRODUCT_SUB_NAME);
             return sql;
         }
 
@@ -214,7 +215,7 @@ namespace InputManagement.SQLFactory
                         ,tb_1.FFT_ORDER_ID
                         ,tb_1.`GROUP`
                         ,tb_1.QUANTITY
-                        ,tb_7.PRODUCT_NAME
+                        ,tb_7.PRODUCT_SUB_NAME
                         ,tb_6.CUSTOMER_NAME
                         ,tb_5.WORK_ORDER
                         ,tb_4.PART_NO
@@ -238,8 +239,8 @@ namespace InputManagement.SQLFactory
                     INNER JOIN `customer` As tb_6 
                     ON(tb_6.ID = tb_3.CUSTOMER_ID)
 
-                    INNER JOIN `product` As tb_7
-                    ON(tb_7.ID = tb_3.PRODUCT_ID)
+                    INNER JOIN `product_sub` As tb_7
+                    ON(tb_7.PRODUCT_SUB_CODE = tb_3.PRODUCT_SUB_CODE)
 
                     WHERE tb_1.FFT_ORDER_ID = '" + dataItem.FFT_ORDER_ID + @"'
                     ORDER BY `GROUP`;";
@@ -304,17 +305,18 @@ namespace InputManagement.SQLFactory
                             ,`QUANTITY`
                             ,`INPUT_DATE`
                             ,`EMP_ID`
+                            ,`PRODUCT_SUB_CODE`
                     )
                     (
-                             SELECT '" + dataItem.FFT_ORDER_ID + @"' AS `FFT_ORDER_ID` 
+                                 SELECT '" + dataItem.FFT_ORDER_ID + @"' AS `FFT_ORDER_ID` 
                                 ,(SELECT CASE WHEN COUNT(`GROUP`) = 0 THEN 1 ELSE MAX(`GROUP`)+1 END FROM `input` WHERE FFT_ORDER_ID = '" + dataItem.FFT_ORDER_ID + @"') AS `MAX_GROUP` 
                                 ,(SELECT ID FROM `input_type` WHERE INPUT_TYPE = '" + dataItem.ORDER_TYPE_NAME + @"') AS `INPUT_TYPE_ID`
                                 ,(SELECT tb_1.`ID` AS `ID`
                            
 	                                FROM `condition` AS tb_1
 
-	                                INNER JOIN `product` AS tb_2 
-	                                ON (tb_2.`ID` = tb_1.`PRODUCT_ID`)
+	                                INNER JOIN `product_sub` AS tb_2 
+	                                ON (tb_2.`PRODUCT_SUB_CODE` = tb_1.`PRODUCT_SUB_CODE`)
 
 	                                INNER JOIN `customer` AS tb_3	
 	                                ON (tb_3.`ID` = tb_1.`CUSTOMER_ID`)
@@ -325,7 +327,7 @@ namespace InputManagement.SQLFactory
 	                                INNER JOIN `part_no` AS tb_5 
 	                                ON (tb_5.`ID` = tb_1.`PART_NO_ID`)
 
-	                                WHERE REPLACE(tb_2.PRODUCT_NAME, ' ', '') = REPLACE('" + dataItem.CONDITION.PRODUCT_NAME + @"', ' ', '')
+	                                WHERE REPLACE(tb_2.PRODUCT_SUB_CODE, ' ', '') = REPLACE('" + dataItem.CONDITION.PRODUCT_SUB_CODE + @"', ' ', '')
 	                                AND REPLACE(tb_3.CUSTOMER_NAME, ' ', '') = REPLACE('" + dataItem.CONDITION.CUSTOMER_NAME + @"', ' ', '')
 	                                AND REPLACE(tb_4.WORK_ORDER, ' ', '') = REPLACE('" + dataItem.CONDITION.WORK_ORDER + @"', ' ', '')
 	                                AND REPLACE(tb_5.PART_NO, ' ', '') = REPLACE('" + dataItem.CONDITION.PART_NO + @"', ' ', '')
@@ -334,6 +336,7 @@ namespace InputManagement.SQLFactory
                                 , '" + dataItem.ORDER_QUANTITY + @"' AS `QUANTITY`
                                 , '" + dataItem.ORDER_DATE + @"' AS `INPUT_DATE`
                                 ,'" + dataItem.EMP.code + @"' AS `EMP_ID`
+                                ,'" + dataItem.Sub_Product.PRODUCT_SUB_CODE + @"' AS `PRODUCT_SUB_CODE`
                     );";
 
             return sql;
@@ -353,8 +356,6 @@ namespace InputManagement.SQLFactory
             return sql;
         }
 
-
-
         public string SearchInputAll()
         {
             sql = @"SELECT IF(((`tb_8`.`FFT_ORDER_ID` IS NULL OR `tb_8`.`FFT_ORDER_ID` = '') AND (`tb_8`.`GROUP` IS NULL OR `tb_8`.`GROUP` = '')),'Waiting','Already') AS `STATUS`
@@ -362,7 +363,7 @@ namespace InputManagement.SQLFactory
 		                    ,tb_1.`GROUP`
 		                    ,tb_2.INPUT_TYPE
 		                    ,tb_1.QUANTITY
-		                    ,tb_7.PRODUCT_NAME
+		                    ,tb_7.PRODUCT_SUB_NAME AS SUB_PRODUCT
 		                    ,tb_6.CUSTOMER_NAME
 		                    ,tb_5.WORK_ORDER
 		                    ,tb_4.PART_NO
@@ -386,10 +387,11 @@ namespace InputManagement.SQLFactory
                     INNER JOIN `customer` As tb_6 
                     ON (tb_6.ID = tb_3.CUSTOMER_ID)
 
-                    INNER JOIN `product` As tb_7 
-                    ON (tb_7.ID = tb_3.PRODUCT_ID)
+                    INNER JOIN `product_sub` As tb_7 
+                    ON (tb_7.PRODUCT_SUB_CODE = tb_3.PRODUCT_SUB_CODE)
 
-                    LEFT JOIN (SELECT DISTINCT FFT_ORDER_ID,`GROUP` FROM`input_serial`) AS `tb_8` ON (`tb_8`.FFT_ORDER_ID = `tb_1`.FFT_ORDER_ID AND `tb_8`.`GROUP` = `tb_1`.`GROUP`)";
+                    LEFT JOIN (SELECT DISTINCT FFT_ORDER_ID,`GROUP` FROM`input_serial`) AS `tb_8` 
+                    ON (`tb_8`.FFT_ORDER_ID = `tb_1`.FFT_ORDER_ID AND `tb_8`.`GROUP` = `tb_1`.`GROUP`)";
 
             return sql;
         }
@@ -453,7 +455,7 @@ namespace InputManagement.SQLFactory
 
         public string InsertOrderUseDatabasePC(OrderProperty dataItem)
         {
-            sql = @"INSERT INTO `pc`.`order_used` (
+            sql = @"INSERT INTO `order_used` (
                         `FFT_ORDER_ID`
                         ,`USED_DATE`
                     )
@@ -469,7 +471,7 @@ namespace InputManagement.SQLFactory
         public string SearchOrderUseDatabasePC(OrderProperty dataItem)
         {
             sql = @"SELECT `FFT_ORDER_ID`,`USED_DATE`
-                    FROM  `pc`.`order_used`
+                    FROM  `order_used`
                     WHERE `FFT_ORDER_ID` =  '" + dataItem.FFT_ORDER_ID + @"';";
 
             return sql;

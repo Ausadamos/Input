@@ -25,9 +25,9 @@ namespace InputManagement.Models
             return _resultData;
         }
 
-        public OutputOnDbProperty SearchProcessByProductTypeId(ProcessProperty dataItem)
+        public OutputOnDbProperty SearchProcessByProductSubCode(ProcessProperty dataItem)
         {
-            _resultData = _services.SearchProcessByProductTypeId(dataItem);
+            _resultData = _services.SearchProcessByProductSubCode(dataItem);
             return _resultData;
         }
 

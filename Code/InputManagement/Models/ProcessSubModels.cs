@@ -1,48 +1,26 @@
-﻿namespace InputManagement.Models
+﻿using BusinessData.Property;
+using InputManagement.Property;
+using InputManagement.Services;
+
+namespace InputManagement.Models
 {
     public class ProcessSubModels
     {
         OutputOnDbProperty _resultData = new OutputOnDbProperty();
-        ProcessService _services = new ProcessService();
-        public OutputOnDbProperty InsertProcess(ProcessProperty dataItem)
+        ProcessSubServices _services = new ProcessSubServices();
+        public OutputOnDbProperty InsertProcessSub(ProcessSubProperty dataItem)
         {
-            _resultData = _services.InsertProcess(dataItem);
+            _resultData = _services.InsertProcessSub(dataItem);
             return _resultData;
         }
-        public OutputOnDbProperty UpdateProccessStatus(ProcessProperty dataItem)
+        public OutputOnDbProperty UpdateProccessStatus(ProcessSubProperty dataItem)
         {
             _resultData = _services.UpdateProccessStatus(dataItem);
             return _resultData;
         }
-
-        public OutputOnDbProperty SearchProcessAll()
+        public OutputOnDbProperty SearchProcessSubByProcessMainId(ProcessSubProperty dataItem)
         {
-            _resultData = _services.SearchProcessAll();
-            return _resultData;
-        }
-
-        public OutputOnDbProperty SearchProcessByProductTypeId(ProcessProperty dataItem)
-        {
-            _resultData = _services.SearchProcessByProductTypeId(dataItem);
-            return _resultData;
-        }
-
-
-
-        public OutputOnDbProperty SearchResultAll()
-        {
-            _resultData = _services.SearchResultAll();
-            return _resultData;
-        }
-
-        public OutputOnDbProperty SearchProcessInUse()
-        {
-            _resultData = _services.SearchProcessInUse();
-            return _resultData;
-        }
-        public OutputOnDbProperty SearchProcessNonUse()
-        {
-            _resultData = _services.SearchProcessNonUse();
+            _resultData = _services.SearchProcessSubByProcessMainId(dataItem);
             return _resultData;
         }
     }

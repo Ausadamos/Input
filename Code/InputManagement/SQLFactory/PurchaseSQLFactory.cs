@@ -469,137 +469,151 @@ namespace InputManagement.SQLFactory
             return sql;
         }
 
-        //public string SearchSerialFormat(SerialProductTypeProperty dataItem)
-        //{
-        //    sql = @"SELECT
-        //            ID
-        //            ,SERIAL_FORMAT
-        //            ,DETAIL
+        public string SearchSerialFormat(SerialProductTypeProperty dataItem)
+        {
+            sql = @"SELECT
+                    ID
+                    ,SERIAL_FORMAT
+                    ,DETAIL
+	
+                    FROM
+	                    `serial_type`
+                    WHERE REPLACE(serial_type.SERIAL_FORMAT , ' ' , '') = REPLACE('" + dataItem.SERIAL_TYPE.SERIAL_FORMAT + "', ' ' , '');";
 
-        //            FROM
-        //             `serial_type`
-        //            WHERE REPLACE(serial_type.SERIAL_FORMAT , ' ' , '') = REPLACE('" + dataItem.SERIAL_TYPE.SERIAL_FORMAT + "', ' ' , '');";
+            return sql;
+        }
 
-        //    return sql;
-        //}
+        public string InsertSerialFormat(SerialProductTypeProperty dataItem)
+        {
+            sql = @"INSERT INTO `serial_type` (
+                        ID
+                        ,SERIAL_FORMAT
+                        ,DETAIL
+                    )
+                    (
+                        SELECT CASE WHEN COUNT(`ID`) = 0 THEN 1 ELSE MAX(`ID`)+1 END AS `ID`
+                            ,'" + dataItem.SERIAL_TYPE.SERIAL_FORMAT + @"' AS `SERIAL_FORMAT`
+                            ,'" + dataItem.SERIAL_TYPE.DETAIL + @"' AS `DETAIL`
 
-        //public string InsertSerialFormat(SerialProductTypeProperty dataItem)
-        //{
-        //    sql = @"INSERT INTO `serial_type` (
-        //                ID
-        //                ,SERIAL_FORMAT
-        //                ,DETAIL
-        //            )
-        //            (
-        //                SELECT CASE WHEN COUNT(`ID`) = 0 THEN 1 ELSE MAX(`ID`)+1 END AS `ID`
-        //                    ,'" + dataItem.SERIAL_TYPE.SERIAL_FORMAT + @"' AS `SERIAL_FORMAT`
-        //                    ,'" + dataItem.SERIAL_TYPE.DETAIL + @"' AS `DETAIL`
+                        FROM `serial_type`
+                    );";
 
-        //                FROM `serial_type`
-        //            );";
+            return sql;
+        }
 
-        //    return sql;
-        //}
+        public string SearchProductTitle(SerialProductTypeProperty dataItem)
+        {
+            sql = @"SELECT
+	                ID
+	                ,PRODUCT_TITLE
+                    FROM
+	                    `product_type`
+                    WHERE REPLACE(PRODUCT_TITLE, ' ' , '') = REPLACE('" + dataItem.PRODUCT_TYPE.PRODUCT_TITLE + "', ' ' , '');";
 
-        //public string SearchProductTitle(SerialProductTypeProperty dataItem)
-        //{
-        //    sql = @"SELECT
-        //         ID
-        //         ,PRODUCT_TITLE
-        //            FROM
-        //             `product_type`
-        //            WHERE REPLACE(PRODUCT_TITLE, ' ' , '') = REPLACE('" + dataItem.PRODUCT_TYPE.PRODUCT_TITLE + "', ' ' , '');";
+            return sql;
+        }
 
-        //    return sql;
-        //}
+        public string InsertProductTitle(SerialProductTypeProperty dataItem)
+        {
+            sql = @"INSERT INTO `product_type` (
+                        ID
+                        ,PRODUCT_TITLE
+                    )
+                    (
+                        SELECT CASE WHEN COUNT(`ID`) = 0 THEN 1 ELSE MAX(`ID`)+1 END AS `ID`
+                            ,'" + dataItem.PRODUCT_TYPE.PRODUCT_TITLE + @"' AS `PRODUCT_TITLE`
 
+                        FROM `product_type`
+                    );";
 
-        //public string InsertSerialProductType(SerialProductTypeProperty dataItem)
-        //{
-        //    sql = @"INSERT INTO `serial_product_type` (
+            return sql;
+        }
+        public string InsertSerialProductType(SerialProductTypeProperty dataItem)
+        {
+            sql = @"INSERT INTO `serial_product_type` (
+                        
+                        PRODUCT_TYPE_ID
+                        ,SERIAL_TYPE_ID
+                        ,INUSE
+                        )
+                        (SELECT  tb1.ID As PRODUCT_TYPE_ID 
+                        ,tb2.ID AS SERIAL_TYPE_ID
+                        ,'1'
 
-        //                PRODUCT_TYPE_ID
-        //                ,SERIAL_TYPE_ID
-        //                ,INUSE
-        //                )
-        //                (SELECT  tb1.ID As PRODUCT_TYPE_ID 
-        //                ,tb2.ID AS SERIAL_TYPE_ID
-        //                ,'1'
+                        FROM product_type  AS tb1
+                        ,serial_type  AS tb2
 
-        //                FROM product_type  AS tb1
-        //                ,serial_type  AS tb2
+                        WHERE REPLACE (tb2.SERIAL_FORMAT , ' ' , '') = REPLACE('" + dataItem.SERIAL_TYPE.SERIAL_FORMAT + @"',' ' , '')  
+                        AND  REPLACE (tb1.PRODUCT_TITLE , ' ' , '') = REPLACE('" + dataItem.PRODUCT_TYPE.PRODUCT_TITLE + @"' ,' ' , '')
+                        )";
 
-        //                WHERE REPLACE (tb2.SERIAL_FORMAT , ' ' , '') = REPLACE('" + dataItem.SERIAL_TYPE.SERIAL_FORMAT + @"',' ' , '')  
-        //                AND  REPLACE (tb1.PRODUCT_TITLE , ' ' , '') = REPLACE('" + dataItem.PRODUCT_TYPE.PRODUCT_TITLE + @"' ,' ' , '')
-        //                )";
+            return sql;
+        }
 
-        //    return sql;
-        //}
+        public string SearchExistProductType(SerialProductTypeProperty dataItem)
+        {
+            sql = @"SELECT  tb1.ID As PRODUCT_TYPE_ID 
+                    
+                    FROM product_type  AS tb1
 
-        //public string SearchExistProductType(SerialProductTypeProperty dataItem)
-        //{
-        //    sql = @"SELECT  tb1.ID As PRODUCT_TYPE_ID 
+                    WHERE  REPLACE (tb1.PRODUCT_TITLE , ' ' , '') = REPLACE('" + dataItem.PRODUCT_TYPE.PRODUCT_TITLE + @"' ,' ' , '')
+                    ";
 
-        //            FROM product_type  AS tb1
+            return sql;
+        }
+        public string SearchExistSerialProductType(SerialProductTypeProperty dataItem)
+        {
+            sql = @"SELECT 
+                    tb3.PRODUCT_TITLE
+                    ,tb2.SERIAL_FORMAT
+                    ,tb2.DETAIL 
+                    ,tb1.INUSE
 
-        //            WHERE  REPLACE (tb1.PRODUCT_TITLE , ' ' , '') = REPLACE('" + dataItem.PRODUCT_TYPE.PRODUCT_TITLE + @"' ,' ' , '')
-        //            ";
+                    FROM `serial_product_type` AS tb1
 
-        //    return sql;
-        //}
-        //        public string SearchExistSerialProductType(SerialProductTypeProperty dataItem)
-        //        {
-        //            sql = @"SELECT 
-        //                    tb3.PRODUCT_TITLE
-        //                    ,tb2.SERIAL_FORMAT
-        //                    ,tb2.DETAIL 
-        //                    ,tb1.INUSE
+                    INNER JOIN serial_type AS tb2
+                    ON tb2.ID = tb1.SERIAL_TYPE_ID 
 
-        //                    FROM `serial_product_type` AS tb1
+                    INNER JOIN product_type AS tb3
+                    ON tb3.ID =tb1.PRODUCT_TYPE_ID
 
-        //                    INNER JOIN serial_type AS tb2
-        //                    ON tb2.ID = tb1.SERIAL_TYPE_ID 
+                    WHERE  REPLACE (tb3.PRODUCT_TITLE , ' ' , '') = REPLACE('" + dataItem.PRODUCT_TYPE.PRODUCT_TITLE + @"' ,' ' , '')
+                    AND REPLACE (tb2.SERIAL_FORMAT , ' ' , '') = REPLACE('" + dataItem.SERIAL_TYPE.SERIAL_FORMAT + @"' ,' ' , '')
+;
+                    ";
 
-        //                    INNER JOIN product_type AS tb3
-        //                    ON tb3.ID =tb1.PRODUCT_TYPE_ID
+            return sql;
+        }
+        public string UpdateInuseSerialProductType(SerialProductTypeProperty dataItem)
+        {
+            sql = @"UPDATE `serial_product_type` AS tb1
 
-        //                    WHERE  REPLACE (tb3.PRODUCT_TITLE , ' ' , '') = REPLACE('" + dataItem.PRODUCT_TYPE.PRODUCT_TITLE + @"' ,' ' , '')
-        //                    AND REPLACE (tb2.SERIAL_FORMAT , ' ' , '') = REPLACE('" + dataItem.SERIAL_TYPE.SERIAL_FORMAT + @"' ,' ' , '')
-        //;
-        //                    ";
+                    INNER JOIN product_type AS tb2
+                    ON(tb2.ID = tb1.PRODUCT_TYPE_ID)
 
-        //            return sql;
-        //        }
-        //public string UpdateInuseSerialProductType(SerialProductTypeProperty dataItem)
-        //{
-        //    sql = @"UPDATE `serial_product_type` AS tb1
+                    SET tb1.INUSE = '0'
 
-        //            INNER JOIN product_type AS tb2
-        //            ON(tb2.ID = tb1.PRODUCT_TYPE_ID)
+                    WHERE tb2.PRODUCT_TITLE = '" + dataItem.PRODUCT_TYPE.PRODUCT_TITLE + @"'
+                    AND tb1.INUSE  = '1' 
+                    
+                    ;
 
-        //            SET tb1.INUSE = '0'
+                    UPDATE serial_product_type AS tb1
 
-        //            WHERE tb2.PRODUCT_TITLE = '" + dataItem.PRODUCT_TYPE.PRODUCT_TITLE + @"'
-        //            AND tb1.INUSE  = '1' 
+                    INNER JOIN product_type AS tb2
+                    ON (tb2.ID = tb1.PRODUCT_TYPE_ID)
+                    INNER JOIN serial_type AS tb3
+                    ON (tb3.ID = tb1.SERIAL_TYPE_ID)
 
-        //            ;
+                    SET tb1.INUSE = '1'
 
-        //            UPDATE serial_product_type AS tb1
+                    WHERE tb2.PRODUCT_TITLE = '" + dataItem.PRODUCT_TYPE.PRODUCT_TITLE + @"'
+                    AND tb3.SERIAL_FORMAT = '" + dataItem.SERIAL_TYPE.SERIAL_FORMAT + @"'
+                    AND tb1.INUSE  = '0' 
+                    ";
 
-        //            INNER JOIN product_type AS tb2
-        //            ON (tb2.ID = tb1.PRODUCT_TYPE_ID)
-        //            INNER JOIN serial_type AS tb3
-        //            ON (tb3.ID = tb1.SERIAL_TYPE_ID)
-
-        //            SET tb1.INUSE = '1'
-
-        //            WHERE tb2.PRODUCT_TITLE = '" + dataItem.PRODUCT_TYPE.PRODUCT_TITLE + @"'
-        //            AND tb3.SERIAL_FORMAT = '" + dataItem.SERIAL_TYPE.SERIAL_FORMAT + @"'
-        //            AND tb1.INUSE  = '0' 
-        //            ";
-
-        //    return sql;
-        //}
+            return sql;
+        }
         public string CheckFlowProcess(PurchaseProperty dataItem)
         {
             sql = @"SELECT tb1.PURCHASE_NO,tb2.FLOW_ID
@@ -648,7 +662,7 @@ namespace InputManagement.SQLFactory
                     FROM `flow_process` AS tb1
                     INNER JOIN purchase AS tb2
                     ON (tb2.ID = tb1.PURCHASE_ID)
-                    WHERE tb2.PURCHASE_NO = 'TEST_DOC'
+                    WHERE tb2.PURCHASE_NO = '" + dataItem.PURCHASE_NO + @"'
 
                     );
                     ";
@@ -666,14 +680,91 @@ namespace InputManagement.SQLFactory
                     ,INUSE = '1'
 
                     WHERE tb1.PURCHASE_NO = '" + dataItem.PURCHASE_NO + @"'
-
+                    AND tb2.FLOW_ID = '" + dataItem.FLOW.ID + @"'
                     ;
                     ";
 
             return sql;
         }
 
+        public string SearchPurchasesByProduct(PurchaseProperty dataItem)
+        {
+            sql = @"SELECT `tb_1`.`ID` AS `ID`
+                ,`tb_1`.`PURCHASE_NO` AS `DOCUMENT_NO`
+                ,IF(`tb_6`.`FFT_CODE` IS NULL OR `tb_6`.`FFT_CODE` = '', 'N/A',`tb_6`.`FFT_CODE`) AS `FFT_CODE`
+                ,IF(`tb_8`.`FLOW_NAME` IS NULL OR `tb_8`.`FLOW_NAME` = '','N/A',`tb_8`.`FLOW_NAME`) AS `FLOW_NAME`
+                ,`tb_2`.`PART_NO` AS `PART_NO`
+                ,`tb_3`.`PRODUCT_NAME` AS `PRODUCT_NAME`
+                ,`tb_4`.`MODEL_NO` AS `MODEL_NO`
+                ,DATE_FORMAT(`tb_1`.`DATE`, '%Y-%m-%d') AS `CREATE_DATE`
+                ,`tb_1`.`EMP_ID` AS `EMP_ID`
+                ,DATE_FORMAT(`tb_1`.`LAST_UPDATE`, '%Y-%m-%d %H:%i:%s') AS `LAST_UPDATE`
+                ,IF(`tb_9`.`PATH_PROCESS_CARD` IS NULL OR `tb_9`.`PATH_PROCESS_CARD` = '', 'N/A',`tb_9`.`PATH_PROCESS_CARD`) AS `PATH_PROCESS_CARD`
+                FROM `purchase` AS `tb_1` 
+                INNER JOIN `part_no` AS `tb_2` 
+                ON(`tb_2`.`ID` = `tb_1`.`PART_NO_ID`)
+                INNER JOIN `product_purchase` AS `tb_3`
+                ON(`tb_3`.`ID` = `tb_1`.`PURCHASE_PRODUCT_ID`)
+                INNER JOIN `model` AS `tb_4` 
+                ON(`tb_4`.`ID` = `tb_1`.`MODEL_ID`)
+                LEFT JOIN `purchase_fft_code` AS `tb_5` 
+                ON(`tb_5`.`PURCHASE_ID` = `tb_1`.`ID`)
+                LEFT JOIN `fft_code` AS `tb_6` 
+                ON(`tb_6`.`ID` = `tb_5`.`FFT_CODE_ID`)
+                LEFT JOIN `flow_process` AS `tb_7` 
+                ON (`tb_7`.PURCHASE_ID = `tb_1`.ID AND `tb_7`.INUSE = 1)
+                LEFT JOIN `flow` AS `tb_8` 
+                ON (`tb_8`.ID = `tb_7`.FLOW_ID)
+                LEFT JOIN `path_processcard` AS `tb_9` 
+                ON (`tb_9`.`PURCHASE_ID` = `tb_1`.`ID`)
+                INNER JOIN `purchase_product_type` AS `tb_10` 
+                ON(`tb_1`.`ID` = `tb_10`.PURCHASE_ID)
+                INNER JOIN `product_type` AS `tb_11` 
+                ON(`tb_11`.`ID` = `tb_10`.PRODUCT_TYPE_ID)
+                where tb_11.PRODUCT_SUB_CODE = 'dataItem.PRODUCT_TYPE.PRODUCT_SUB_CODE'
+                ORDER BY `tb_1`.`ID`";
 
+            sql = sql.Replace("dataItem.PRODUCT_TYPE.PRODUCT_SUB_CODE", dataItem.PRODUCT_TYPE.PRODUCT_SUB_CODE);
+
+            return sql;
+        }
+
+        public string SearchDetailPurchaseByPurchase(PurchaseProperty dataItem)
+        {
+            string sql = @" SELECT `tb_1`.`ID` AS `ID`
+                ,`tb_1`.`PURCHASE_NO` AS `DOCUMENT_NO`
+                ,IF(`tb_6`.`FFT_CODE` IS NULL OR `tb_6`.`FFT_CODE` = '', 'N/A',`tb_6`.`FFT_CODE`) AS `FFT_CODE`
+                ,IF(`tb_8`.`FLOW_NAME` IS NULL OR `tb_8`.`FLOW_NAME` = '','N/A',`tb_8`.`FLOW_NAME`) AS `FLOW_NAME`
+                ,`tb_2`.`PART_NO` AS `PART_NO`
+                ,`tb_3`.`PRODUCT_NAME` AS `PRODUCT_NAME`
+                ,`tb_4`.`MODEL_NO` AS `MODEL_NO`
+                ,DATE_FORMAT(`tb_1`.`DATE`, '%Y-%m-%d') AS `CREATE_DATE`
+                ,`tb_1`.`EMP_ID` AS `EMP_ID`
+                ,DATE_FORMAT(`tb_1`.`LAST_UPDATE`, '%Y-%m-%d %H:%i:%s') AS `LAST_UPDATE`
+                ,IF(`tb_9`.`PATH_PROCESS_CARD` IS NULL OR `tb_9`.`PATH_PROCESS_CARD` = '', 'N/A',`tb_9`.`PATH_PROCESS_CARD`) AS `PATH_PROCESS_CARD`
+                FROM `purchase` AS `tb_1` 
+                INNER JOIN `part_no` AS `tb_2` 
+                ON(`tb_2`.`ID` = `tb_1`.`PART_NO_ID`)
+                INNER JOIN `product_purchase` AS `tb_3`
+                ON(`tb_3`.`ID` = `tb_1`.`PURCHASE_PRODUCT_ID`)
+                INNER JOIN `model` AS `tb_4` 
+                ON(`tb_4`.`ID` = `tb_1`.`MODEL_ID`)
+                LEFT JOIN `purchase_fft_code` AS `tb_5` 
+                ON(`tb_5`.`PURCHASE_ID` = `tb_1`.`ID`)
+                LEFT JOIN `fft_code` AS `tb_6` 
+                ON(`tb_6`.`ID` = `tb_5`.`FFT_CODE_ID`)
+                LEFT JOIN `flow_process` AS `tb_7` 
+                ON(`tb_7`.PURCHASE_ID = `tb_1`.ID AND `tb_7`.INUSE = 1)
+                LEFT JOIN `flow` AS `tb_8` 
+                ON(`tb_8`.ID = `tb_7`.FLOW_ID)
+                LEFT JOIN `path_processcard` AS `tb_9` 
+                ON(`tb_9`.`PURCHASE_ID` = `tb_1`.`ID`)
+                where `tb_1`.`PURCHASE_NO` = 'itemData.PURCHASE_NO'";
+
+            sql = sql.Replace("itemData.PURCHASE_NO", dataItem.PURCHASE_NO);
+
+            return sql;
+        }
 
     }
 }

@@ -4,8 +4,8 @@
     {
         public string ID { get; set; }
 
-        public ProductTypeProperty productTypeProperty { get; set; }
-        public SerialTypeProperty serialTypeProperty { get; set; }
+        public ProductTypeProperty PRODUCT_TYPE { get; set; }
+        public SerialTypeProperty SERIAL_TYPE { get; set; }
 
         public string INUSE { get; set; }
         public string DESCRIPTION { get; set; }

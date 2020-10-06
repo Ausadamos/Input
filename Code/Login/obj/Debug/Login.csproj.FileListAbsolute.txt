@@ -476,3 +476,55 @@ C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\
 C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\obj\Debug\Login.csproj.CopyComplete
 C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\obj\Debug\Login.exe
 C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Login\obj\Debug\Login.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\bin\Debug\Login.exe.config
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\bin\Debug\Login.exe
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\bin\Debug\Login.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\bin\Debug\BusinessData.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\bin\Debug\System.Web.Mvc.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\bin\Debug\MySql.Data.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\bin\Debug\System.Web.WebPages.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\bin\Debug\BusinessData.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.frmChangePass_Main.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.frmEnter_OTP.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.frmLogin_Main.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.frmSuccess.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.pageBefore_ChangPassword.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.pageEnter_ConfirmPass.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.pageEnter_Create.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.pageEnter_Forgot.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.pageEnter_Password.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.pageEnter_ChangePassword.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.pageEnter_User.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.exe
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.pdb
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\bin\Debug\Login.exe.config
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\bin\Debug\Login.exe
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\bin\Debug\Login.pdb
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\bin\Debug\BusinessData.dll
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\bin\Debug\System.Web.Mvc.dll
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\bin\Debug\MySql.Data.dll
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\bin\Debug\System.Web.WebPages.dll
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\bin\Debug\BusinessData.pdb
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.frmChangePass_Main.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.frmEnter_OTP.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.frmLogin_Main.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.frmSuccess.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.pageBefore_ChangPassword.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.pageEnter_ConfirmPass.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.pageEnter_Create.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.pageEnter_Forgot.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.pageEnter_Password.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.pageEnter_ChangePassword.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.pageEnter_User.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.exe
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Login\obj\Debug\Login.pdb

@@ -1,16 +1,8 @@
 ﻿using InputManagement.Property;
-using InputManagement;
 using Login;
 using Login.Property;
 
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Input
@@ -19,9 +11,9 @@ namespace Input
     {
         public OrderProperty _order = new OrderProperty();
         LoginProperty _resultLogin = new LoginProperty();
-        public  EmpProperty _empLogin = new EmpProperty();
+        public EmpProperty _empLogin = new EmpProperty();
         public frmMain()
-        {   
+        {
             InitializeComponent();
         }
         private void frmMain_Load(object sender, EventArgs e)
@@ -84,6 +76,16 @@ namespace Input
             frmLogin_Main _frmLogin = new frmLogin_Main();
             _frmLogin.ShowDialog();
             _resultLogin = _frmLogin._resultLogin;
+
+            //_resultLogin = new LoginProperty
+            //{
+            //    loginStatus = true,
+            //    empDetial = new EmpProperty
+            //    {
+            //        name = "Ausada",
+            //        sername = "Sukkheesuec"
+            //    }
+            //};
 
             if (_resultLogin.loginStatus == true)
             {
@@ -201,7 +203,7 @@ namespace Input
 
         private void btnCreateProductType_Click(object sender, EventArgs e)
         {
-           this.Load_pageAddProductType();
+            this.Load_pageAddProductType();
         }
 
         public void Load_PageSearch()
@@ -232,7 +234,7 @@ namespace Input
             _pageOrder.Dock = DockStyle.Fill;
             _pageOrder.BringToFront();
         }
-     
+
         public void Load_SetFlow()
         {
             //default page//set HeadLine
@@ -294,7 +296,7 @@ namespace Input
             _pageInsertSubProcecss.BringToFront();
         }
 
-        
+
 
         private void Load_UpdateOrder()
         {
@@ -315,7 +317,7 @@ namespace Input
         {
             //default page//set HeadLine
             this.Set_HeadLine("Create Product Type");
-           
+
             //Clear Panel Body  
             this.panBody.Controls.Clear();
 

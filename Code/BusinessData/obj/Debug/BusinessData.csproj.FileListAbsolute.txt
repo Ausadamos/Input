@@ -169,3 +169,17 @@ C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\
 C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
 C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\BusinessData\obj\Debug\BusinessData.dll
 C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\BusinessData\bin\BusinessData.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\BusinessData\bin\BusinessData.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\BusinessData\bin\BusinessData.dll
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\BusinessData\bin\BusinessData.pdb
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\BusinessData\obj\Debug\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\BusinessData\obj\Debug\BusinessData.csproj.CopyComplete
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\BusinessData\obj\Debug\BusinessData.dll
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\BusinessData\obj\Debug\BusinessData.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\BusinessData\obj\Debug\BusinessData.csprojAssemblyReference.cache

@@ -34,12 +34,12 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.btnLogin = new System.Windows.Forms.Button();
             this.lblHeader = new System.Windows.Forms.Label();
             this.panShowName = new System.Windows.Forms.Panel();
             this.picChangePass = new System.Windows.Forms.PictureBox();
             this.lblLogOut = new System.Windows.Forms.Label();
             this.lblShowName = new System.Windows.Forms.Label();
-            this.btnLogin = new System.Windows.Forms.Button();
             this.panel6 = new System.Windows.Forms.Panel();
             this.panel5 = new System.Windows.Forms.Panel();
             this.label4 = new System.Windows.Forms.Label();
@@ -120,16 +120,36 @@
             // 
             // panel3
             // 
-            this.panel3.BackColor = System.Drawing.Color.White;
+            this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.panel3.Controls.Add(this.btnLogin);
             this.panel3.Controls.Add(this.lblHeader);
             this.panel3.Controls.Add(this.panShowName);
-            this.panel3.Controls.Add(this.btnLogin);
             this.panel3.Controls.Add(this.panel6);
             this.panel3.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel3.Location = new System.Drawing.Point(0, 0);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(1066, 110);
+            this.panel3.Size = new System.Drawing.Size(1311, 110);
             this.panel3.TabIndex = 3;
+            // 
+            // btnLogin
+            // 
+            this.btnLogin.BackColor = System.Drawing.Color.Transparent;
+            this.btnLogin.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnLogin.FlatAppearance.BorderSize = 0;
+            this.btnLogin.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnLogin.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnLogin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnLogin.Font = new System.Drawing.Font("Yu Gothic UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLogin.Image = global::Input.Properties.Resources.icons8_key_100;
+            this.btnLogin.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnLogin.Location = new System.Drawing.Point(1199, 9);
+            this.btnLogin.Name = "btnLogin";
+            this.btnLogin.Size = new System.Drawing.Size(100, 36);
+            this.btnLogin.TabIndex = 8;
+            this.btnLogin.Text = "     Login";
+            this.btnLogin.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnLogin.UseVisualStyleBackColor = false;
+            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
             // 
             // lblHeader
             // 
@@ -149,7 +169,7 @@
             this.panShowName.Controls.Add(this.picChangePass);
             this.panShowName.Controls.Add(this.lblLogOut);
             this.panShowName.Controls.Add(this.lblShowName);
-            this.panShowName.Location = new System.Drawing.Point(867, 9);
+            this.panShowName.Location = new System.Drawing.Point(1112, 9);
             this.panShowName.Name = "panShowName";
             this.panShowName.Size = new System.Drawing.Size(187, 55);
             this.panShowName.TabIndex = 9;
@@ -193,33 +213,13 @@
             this.lblShowName.Text = "Name : ____________________";
             this.lblShowName.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
-            // btnLogin
-            // 
-            this.btnLogin.BackColor = System.Drawing.Color.Transparent;
-            this.btnLogin.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnLogin.FlatAppearance.BorderSize = 0;
-            this.btnLogin.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.btnLogin.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.btnLogin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnLogin.Font = new System.Drawing.Font("Yu Gothic UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLogin.Image = global::Input.Properties.Resources.icons8_key_100;
-            this.btnLogin.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnLogin.Location = new System.Drawing.Point(832, 10);
-            this.btnLogin.Name = "btnLogin";
-            this.btnLogin.Size = new System.Drawing.Size(100, 36);
-            this.btnLogin.TabIndex = 8;
-            this.btnLogin.Text = "     Login";
-            this.btnLogin.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnLogin.UseVisualStyleBackColor = false;
-            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
-            // 
             // panel6
             // 
             this.panel6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(209)))), ((int)(((byte)(208)))), ((int)(((byte)(213)))));
             this.panel6.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panel6.Location = new System.Drawing.Point(0, 70);
             this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(1066, 40);
+            this.panel6.Size = new System.Drawing.Size(1311, 40);
             this.panel6.TabIndex = 5;
             // 
             // panel5
@@ -260,9 +260,9 @@
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(146)))), ((int)(((byte)(206)))));
             this.panel1.Controls.Add(this.label3);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel1.Location = new System.Drawing.Point(180, 690);
+            this.panel1.Location = new System.Drawing.Point(180, 699);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(886, 19);
+            this.panel1.Size = new System.Drawing.Size(1131, 19);
             this.panel1.TabIndex = 10;
             // 
             // label3
@@ -270,7 +270,7 @@
             this.label3.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.label3.AutoSize = true;
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(224, 3);
+            this.label3.Location = new System.Drawing.Point(346, 3);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(431, 13);
             this.label3.TabIndex = 0;
@@ -285,7 +285,7 @@
             this.panBody.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panBody.Location = new System.Drawing.Point(180, 110);
             this.panBody.Name = "panBody";
-            this.panBody.Size = new System.Drawing.Size(886, 580);
+            this.panBody.Size = new System.Drawing.Size(1131, 589);
             this.panBody.TabIndex = 12;
             // 
             // label7
@@ -293,7 +293,7 @@
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.SystemColors.ButtonShadow;
-            this.label7.Location = new System.Drawing.Point(348, 238);
+            this.label7.Location = new System.Drawing.Point(518, 247);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(89, 37);
             this.label7.TabIndex = 0;
@@ -342,12 +342,11 @@
             this.btnSetFlow.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSetFlow.Font = new System.Drawing.Font("Yu Gothic UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSetFlow.ForeColor = System.Drawing.Color.White;
-            this.btnSetFlow.Location = new System.Drawing.Point(-2, 249);
+            this.btnSetFlow.Location = new System.Drawing.Point(-2, 372);
             this.btnSetFlow.Name = "btnSetFlow";
-            this.btnSetFlow.Size = new System.Drawing.Size(185, 40);
+            this.btnSetFlow.Size = new System.Drawing.Size(183, 40);
             this.btnSetFlow.TabIndex = 4;
-            this.btnSetFlow.Text = "      Flow Setting";
-            this.btnSetFlow.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnSetFlow.Text = "Flow";
             this.btnSetFlow.UseVisualStyleBackColor = false;
             this.btnSetFlow.Visible = false;
             this.btnSetFlow.Click += new System.EventHandler(this.btnSetFlow_Click);
@@ -360,12 +359,11 @@
             this.btnSetPurchase.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSetPurchase.Font = new System.Drawing.Font("Yu Gothic UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSetPurchase.ForeColor = System.Drawing.Color.White;
-            this.btnSetPurchase.Location = new System.Drawing.Point(-2, 405);
+            this.btnSetPurchase.Location = new System.Drawing.Point(3, 488);
             this.btnSetPurchase.Name = "btnSetPurchase";
-            this.btnSetPurchase.Size = new System.Drawing.Size(185, 40);
+            this.btnSetPurchase.Size = new System.Drawing.Size(179, 40);
             this.btnSetPurchase.TabIndex = 6;
-            this.btnSetPurchase.Text = "      Purchase Setting";
-            this.btnSetPurchase.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnSetPurchase.Text = "Purchase";
             this.btnSetPurchase.UseVisualStyleBackColor = false;
             this.btnSetPurchase.Visible = false;
             this.btnSetPurchase.Click += new System.EventHandler(this.btnSetPurchase_Click);
@@ -429,12 +427,11 @@
             this.btnProcessSetting.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnProcessSetting.Font = new System.Drawing.Font("Yu Gothic UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnProcessSetting.ForeColor = System.Drawing.Color.White;
-            this.btnProcessSetting.Location = new System.Drawing.Point(-2, 296);
+            this.btnProcessSetting.Location = new System.Drawing.Point(0, 260);
             this.btnProcessSetting.Name = "btnProcessSetting";
-            this.btnProcessSetting.Size = new System.Drawing.Size(185, 40);
+            this.btnProcessSetting.Size = new System.Drawing.Size(182, 40);
             this.btnProcessSetting.TabIndex = 5;
-            this.btnProcessSetting.Text = "      Process Setting";
-            this.btnProcessSetting.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnProcessSetting.Text = "Process";
             this.btnProcessSetting.UseVisualStyleBackColor = false;
             this.btnProcessSetting.Visible = false;
             this.btnProcessSetting.Click += new System.EventHandler(this.btnProcessSetting_Click);
@@ -447,7 +444,7 @@
             this.btnCreateProductType.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCreateProductType.Font = new System.Drawing.Font("Yu Gothic UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCreateProductType.ForeColor = System.Drawing.Color.White;
-            this.btnCreateProductType.Location = new System.Drawing.Point(-2, 453);
+            this.btnCreateProductType.Location = new System.Drawing.Point(-2, 430);
             this.btnCreateProductType.Name = "btnCreateProductType";
             this.btnCreateProductType.Size = new System.Drawing.Size(185, 40);
             this.btnCreateProductType.TabIndex = 7;
@@ -472,7 +469,7 @@
             this.panBtn.Dock = System.Windows.Forms.DockStyle.Left;
             this.panBtn.Location = new System.Drawing.Point(0, 110);
             this.panBtn.Name = "panBtn";
-            this.panBtn.Size = new System.Drawing.Size(180, 599);
+            this.panBtn.Size = new System.Drawing.Size(180, 608);
             this.panBtn.TabIndex = 9;
             // 
             // btnSubProcessSetting
@@ -483,11 +480,11 @@
             this.btnSubProcessSetting.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSubProcessSetting.Font = new System.Drawing.Font("Yu Gothic UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSubProcessSetting.ForeColor = System.Drawing.Color.White;
-            this.btnSubProcessSetting.Location = new System.Drawing.Point(-2, 342);
+            this.btnSubProcessSetting.Location = new System.Drawing.Point(0, 314);
             this.btnSubProcessSetting.Name = "btnSubProcessSetting";
-            this.btnSubProcessSetting.Size = new System.Drawing.Size(185, 40);
+            this.btnSubProcessSetting.Size = new System.Drawing.Size(180, 40);
             this.btnSubProcessSetting.TabIndex = 9;
-            this.btnSubProcessSetting.Text = "Sub Process Setting";
+            this.btnSubProcessSetting.Text = "Sub Process";
             this.btnSubProcessSetting.UseVisualStyleBackColor = false;
             this.btnSubProcessSetting.Visible = false;
             this.btnSubProcessSetting.Click += new System.EventHandler(this.btnSubProcessSetting_Click);
@@ -514,7 +511,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1066, 709);
+            this.ClientSize = new System.Drawing.Size(1311, 718);
             this.Controls.Add(this.panBody);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panBtn);
@@ -524,7 +521,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Input Production";
+            this.Text = "Input Production For Test";
             this.Load += new System.EventHandler(this.frmMain_Load);
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();

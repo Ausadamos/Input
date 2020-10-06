@@ -1,14 +1,11 @@
 ﻿using BusinessData.Interface;
 using BusinessData.Property;
-using BusinessData.Models;
 
 using InputManagement.Property;
 using InputManagement.SQLFactory;
 
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Configuration;
 
 namespace InputManagement.Services
@@ -21,6 +18,8 @@ namespace InputManagement.Services
 
         ConditionServices _conditionServices = new ConditionServices();
         ConditionSQLFactory _conditionSQLFactory = new ConditionSQLFactory();
+        SubProductService subProductService = new SubProductService();
+        SubProductSQLFactory subProductSQLFactory = new SubProductSQLFactory();
 
         private string sql;
         private List<string> sqlList;
@@ -32,7 +31,7 @@ namespace InputManagement.Services
             return resultData;
         }
 
-        
+
         public OutputOnDbProperty GetOrderActualInput()
         {
             sql = _sqlFactory.GetOrderActualInput();
@@ -40,23 +39,23 @@ namespace InputManagement.Services
             return resultData;
         }
 
-        public OutputOnDbProperty SearchOrderInThisYear()
+        public OutputOnDbProperty SearchOrderInThisYear(OrderProperty dataItem)
         {
             strConnection = ConfigurationManager.ConnectionStrings["ConnectionPC"].ConnectionString;
-            sql = _sqlFactory.SearchOrderInThisYear();
+            sql = _sqlFactory.SearchOrderInThisYear(dataItem);
             resultData = base.SearchBySql(sql);
             strConnection = ConfigurationManager.ConnectionStrings["ConnectionStrMysql"].ConnectionString;
             return resultData;
         }
-        public OutputOnDbProperty SearchOrderAll()
+        public OutputOnDbProperty SearchOrderAll(OrderProperty dataItem)
         {
             strConnection = ConfigurationManager.ConnectionStrings["ConnectionPC"].ConnectionString;
-            sql = _sqlFactory.SearchOrderAll();
+            sql = _sqlFactory.SearchOrderAll(dataItem);
             resultData = base.SearchBySql(sql);
             strConnection = ConfigurationManager.ConnectionStrings["ConnectionStrMysql"].ConnectionString;
             return resultData;
         }
-        
+
 
         public OutputOnDbProperty SearchOrderUseDatabasePC(OrderProperty dataItem)
         {
@@ -79,7 +78,7 @@ namespace InputManagement.Services
             resultData = base.SearchBySql(sql);
             return resultData;
         }
-        
+
         public OutputOnDbProperty SearchOrderHistory(OrderProperty dataItem)
         {
             sql = _sqlFactory.SearchOrderHistory(dataItem);
@@ -139,7 +138,7 @@ namespace InputManagement.Services
         {
             strConnection = ConfigurationManager.ConnectionStrings["ConnectionPC"].ConnectionString;
             sql = _sqlFactory.InsertOrderUseDatabasePC(dataItem);
-            resultData = base.SearchBySql(sql);
+            resultData = base.InsertBySql(sql);
             strConnection = ConfigurationManager.ConnectionStrings["ConnectionStrMysql"].ConnectionString;
             return resultData;
         }
@@ -152,7 +151,7 @@ namespace InputManagement.Services
             IN_resultData = this.CheckPo(dataItem);
             if (IN_resultData.StatusOnDb == true)
             {
-                
+
                 if (IN_resultData.ResultOnDb.Rows.Count <= 0)
                 {
                     //Insert PO
@@ -232,22 +231,38 @@ namespace InputManagement.Services
             }
 
 
-            //## Check Produc  . ####################################################################
-            IN_resultData = _conditionServices.SearchProduct(_order.CONDITION);
+            ////## Check Produc  . ####################################################################
+            //IN_resultData = _conditionServices.SearchProduct(_order.CONDITION);
+            //if (IN_resultData.StatusOnDb == true)
+            //{
+            //    //No Product in DB.
+            //    if (IN_resultData.ResultOnDb.Rows.Count <= 0)
+            //    {
+            //        //Get Qry InsertProduct to sqlList.
+            //        sqlList.Add(_conditionSQLFactory.InsertProduct(_order.CONDITION));
+            //    }
+            //}
+            //else
+            //{
+            //    return IN_resultData;
+            //}
+
+            //## Check Product_sub  . ####################################################################
+
+            IN_resultData = subProductService.SearchSubProduct(_order.Sub_Product);
             if (IN_resultData.StatusOnDb == true)
             {
-                //No Product in DB.
+                //No Product_sub in DB.
                 if (IN_resultData.ResultOnDb.Rows.Count <= 0)
                 {
                     //Get Qry InsertProduct to sqlList.
-                    sqlList.Add(_conditionSQLFactory.InsertProduct(_order.CONDITION));
+                    sqlList.Add(subProductSQLFactory.InsertSubProduct(_order.Sub_Product));
                 }
             }
             else
             {
                 return IN_resultData;
             }
-
 
             //## Check Condition. ##################################################################
             IN_resultData = _conditionServices.SearchCondition(_order.CONDITION);
@@ -264,7 +279,6 @@ namespace InputManagement.Services
             {
                 return IN_resultData;
             }
-
 
             //## Check InputType. ####################################################################
             IN_resultData = this.SearchInputType(_order);
@@ -314,13 +328,8 @@ namespace InputManagement.Services
                 }
             }
             return resultData;
-    
+
         }
-        
-
-
-
-
 
         public override OutputOnDbProperty Delete(OrderProperty dataItem)
         {

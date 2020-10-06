@@ -1,12 +1,6 @@
 ﻿using BusinessData.Property;
-
-using InputManagement.Services;
 using InputManagement.Property;
-
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+using InputManagement.Services;
 
 namespace InputManagement.Models
 {
@@ -32,6 +26,21 @@ namespace InputManagement.Models
             _resultData = _services.SearchCurrentProgress(dataItem);
             return _resultData;
         }
-        
+        public OutputOnDbProperty SearchOrderDetail(SearchOrderDetailProperty dataItem)
+        {
+            _resultData = _services.SearchOrderDetail(dataItem);
+            return _resultData;
+        }
+        public OutputOnDbProperty SearchPurchase(SearchPurchaseProperty dataItem)
+        {
+            _resultData = _services.SearchPurchase(dataItem);
+            return _resultData;
+        }
+        public OutputOnDbProperty SearchFlow()
+        {
+            _resultData = _services.SearchFlow();
+            return _resultData;
+        }
+
     }
 }

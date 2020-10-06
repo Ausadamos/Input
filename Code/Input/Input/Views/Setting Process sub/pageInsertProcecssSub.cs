@@ -1,6 +1,5 @@
-﻿using BusinessData.Property;
-using CommonClassLibrary.Components;
-using Input.Controllers;
+﻿using CommonClassLibrary.Components;
+using InputManagement.Controllers;
 using InputManagement.Property;
 using System;
 using System.Collections.Generic;
@@ -11,15 +10,15 @@ namespace Input
     public partial class pageInsertSubProcecss : UserControl
     {
 
-        ProcessControllers _processControllers = new ProcessControllers();
-        ProductSubController _productSubController = new ProductSubController();
+        ProcessController _processControllers = new ProcessController();
+        SubProductController _productSubController = new SubProductController();
         ProductTypeController _productTypeController = new ProductTypeController();
-        ProcessControllers _processController = new ProcessControllers();
+        ProcessController _processController = new ProcessController();
+        ProcessSubController _processSubController = new ProcessSubController();
 
-
-        List<ProcessProperty> _listProcess = new List<ProcessProperty>();
-        List<ProcessProperty> _loadProcess;
-        ProcessProperty _processUpdateStatus;
+        List<ProcessSubProperty> _listProcess = new List<ProcessSubProperty>();
+        List<ProcessSubProperty> _loadProcess;
+        ProcessSubProperty _processUpdateStatus;
 
         frmMain _frmMain;
 
@@ -59,8 +58,8 @@ namespace Input
         private void LoadProduct()
         {
             cmbProduct.Items.Clear();
-            List<ProductSubProperty> listProductSubProperty = _productSubController.Search();
-            foreach (ProductSubProperty data in listProductSubProperty)
+            List<SubProductProperty> listProductSubProperty = _productSubController.Search();
+            foreach (SubProductProperty data in listProductSubProperty)
             {
                 ComboboxItem item = new ComboboxItem();
                 item.Text = data.PRODUCT_SUB_NAME;
@@ -69,33 +68,32 @@ namespace Input
             }
         }
 
-        private void LoadProductType()
-        {
-            cmbProductType.Items.Clear();
-            ProductTypeProperty productTypeProperty = new ProductTypeProperty()
-            {
-                PRODUCT_SUB_CODE = (cmbProduct.SelectedItem as ComboboxItem).Value.ToString()
-            };
-            List<ProductTypeProperty> listProductTypeProperty = _productTypeController.SearchByProductSubCode(productTypeProperty);
-            foreach (ProductTypeProperty data in listProductTypeProperty)
-            {
-                ComboboxItem item = new ComboboxItem();
-                item.Text = data.PRODUCT_TITLE;
-                item.Value = data.ID;
-                cmbProductType.Items.Add(item);
-            }
-        }
+        //private void LoadProductType()
+        //{
+        //    cmbProductType.Items.Clear();
+        //    ProductTypeProperty PRODUCT_TYPE = new ProductTypeProperty()
+        //    {
+        //        PRODUCT_SUB_CODE = (cmbProduct.SelectedItem as ComboboxItem).Value.ToString()
+        //    };
+        //    List<ProductTypeProperty> listProductTypeProperty = _productTypeController.SearchByProductSubCode(PRODUCT_TYPE);
+        //    foreach (ProductTypeProperty data in listProductTypeProperty)
+        //    {
+        //        ComboboxItem item = new ComboboxItem();
+        //        item.Text = data.PRODUCT_TITLE;
+        //        item.Value = data.ID;
+        //        cmbProductType.Items.Add(item);
+        //    }
+        //}
 
         private void cmbProduct_SelectedIndexChanged(object sender, EventArgs e)
         {
             if (!string.IsNullOrWhiteSpace(cmbProduct.Text))
             {
-                LoadProductType();
 
-                lstProcess.DataSource = null;
-                cmbProductType.Enabled = true;
+                lstProcess.Items.Clear();
                 groupBoxProcess.Enabled = false;
-                cmbProductType.Focus();
+                cmbMainProcess.Items.Clear();
+                LoadMainProcess();
             }
         }
 
@@ -104,8 +102,7 @@ namespace Input
             if (!string.IsNullOrWhiteSpace(cmbProduct.Text))
             {
                 LoadMainProcess();
-
-                lstProcess.DataSource = null;
+                lstProcess.Items.Clear();
                 cmbMainProcess.Enabled = true;
                 groupBoxProcess.Enabled = false;
                 cmbMainProcess.Focus();
@@ -115,20 +112,22 @@ namespace Input
         private void LoadMainProcess()
         {
             cmbMainProcess.Items.Clear();
-            ProcessProperty productTypeProperty = new ProcessProperty()
+            ProcessProperty PRODUCT_TYPE = new ProcessProperty()
             {
-                PRODUCT_TYPE_ID = (cmbProductType.SelectedItem as ComboboxItem).Value.ToString()
+                PRODUCT_SUB_CODE = (cmbProduct.SelectedItem as ComboboxItem).Value.ToString()
             };
 
-            List<ProcessProperty> listProcessProperty = _processController.SearchProcessByProductTypeId(productTypeProperty);
+            List<ProcessProperty> listProcessProperty = _processController.SearchProcessByProductSubCode(PRODUCT_TYPE);
 
 
-            foreach (ProcessProperty data in listProcessProperty)
+            foreach (ProcessProperty data in listProcessProperty.FindAll(x => x.INUSE == "True"))
             {
+
                 ComboboxItem item = new ComboboxItem();
                 item.Text = data.PROCESS_NAME;
                 item.Value = data.ID;
                 cmbMainProcess.Items.Add(item);
+
             }
         }
 
@@ -144,7 +143,7 @@ namespace Input
 
         private void LoadProcess()
         {
-            _listProcess = _processControllers.SearchProcessSubByProductTypeId(new ProcessProperty { PRODUCT_TYPE_ID = (cmbProductType.SelectedItem as ComboboxItem).Value.ToString() });
+            _listProcess = _processSubController.SearchProcessSubByProcessMainId(new ProcessSubProperty { PROCESS_ID = (cmbMainProcess.SelectedItem as ComboboxItem).Value.ToString() });
         }
 
         private void rdoInsert_CheckedChanged(object sender, EventArgs e)
@@ -237,7 +236,7 @@ namespace Input
         {
             this.lstProcess.SelectionMode = SelectionMode.One;
 
-            _loadProcess = new List<ProcessProperty>();
+            _loadProcess = new List<ProcessSubProperty>();
             //Get Process Fiberlaser in database(ja_test)
             if (this.rdoProcessInUse.Checked)
             {
@@ -252,24 +251,14 @@ namespace Input
                 _loadProcess = _listProcess;
             }
 
-            //ClearData
-            this.lstProcess.DataSource = null;
-
-            List<DropDownProperty> listProcess = new List<DropDownProperty>();
-
-            foreach (ProcessProperty dataProcess in _loadProcess)
+            lstProcess.Items.Clear();
+            foreach (ProcessSubProperty data in _loadProcess)
             {
-                DropDownProperty addProcess = new DropDownProperty
-                {
-                    Value = dataProcess.PROCESS_NAME
-                    ,
-                    Text = dataProcess.PROCESS_NAME + " (id:" + dataProcess.ID + ")"
-                };
-                listProcess.Add(addProcess);
+                ListBoxItem item = new ListBoxItem();
+                item.Text = data.SUB_PROCESS_NAME + " (id:" + data.PROCESS_SUB_ID + ")";
+                item.Value = data.SUB_PROCESS_NAME;
+                lstProcess.Items.Add(item);
             }
-            lstProcess.DataSource = listProcess;
-            lstProcess.DisplayMember = "Text";
-            lstProcess.ValueMember = "Value";
 
             this.lstProcess.SelectionMode = (this.rdoInsert.Checked) ? SelectionMode.None : (this.rdoUpdate.Checked) ? SelectionMode.One : SelectionMode.None;
         }
@@ -294,8 +283,8 @@ namespace Input
                     //};
 
                     string title = Convert.ToString(lstProcess.SelectedValue);
-                    int indexInList = _listProcess.FindIndex(a => a.PROCESS_NAME.Contains(title));
-                    this.txtUpdate.Text = _listProcess[indexInList].PROCESS_NAME;
+                    int indexInList = _listProcess.FindIndex(a => a.SUB_PROCESS_NAME.Contains(title));
+                    this.txtUpdate.Text = _listProcess[indexInList].SUB_PROCESS_NAME;
 
                     string status = (_listProcess[indexInList].INUSE == "True") ? "USE" : "Cancel";
                     this.cmbStatus.SelectedIndex = this.cmbStatus.FindString(status);
@@ -314,9 +303,9 @@ namespace Input
             bool status = true;
             string processName = this.txtInsertProcess.Text.Trim();
 
-            foreach (ProcessProperty _process in _listProcess)
+            foreach (ProcessSubProperty _process in _listProcess)
             {
-                if (processName == _process.PROCESS_NAME.Trim())
+                if (processName == _process.SUB_PROCESS_NAME.Trim())
                 {
                     status = false;
                 }
@@ -324,10 +313,10 @@ namespace Input
 
             if (status == true)
             {
-                ProcessProperty _addProcess = new ProcessProperty { PROCESS_NAME = processName, PRODUCT_TYPE_ID = (cmbProductType.SelectedItem as ComboboxItem).Value.ToString() };
+                ProcessSubProperty _addProcess = new ProcessSubProperty { SUB_PROCESS_NAME = processName, PROCESS_ID = (cmbMainProcess.SelectedItem as ComboboxItem).Value.ToString(), CREATE_USER = _frmMain._empLogin.code };
 
                 //Insert Process.
-                if (_processControllers.InsertProcess(_addProcess))
+                if (_processSubController.InsertProcessSub(_addProcess))
                 {
                     this.SetPage();
                     //this.ResetInsertProcess();
@@ -338,7 +327,7 @@ namespace Input
             }
             else
             {
-                MessageBox.Show("Duplicate Process Name.", "Stop", MessageBoxButtons.OK, MessageBoxIcon.Stop);
+                MessageBox.Show("Duplicate Process Sub Name.", "Stop", MessageBoxButtons.OK, MessageBoxIcon.Stop);
                 return;
             }
         }
@@ -356,14 +345,14 @@ namespace Input
                 MessageBox.Show("Please Select Status", "Stop", MessageBoxButtons.OK, MessageBoxIcon.Stop);
                 return;
             }
-            _processUpdateStatus = new ProcessProperty()
+            _processUpdateStatus = new ProcessSubProperty()
             {
-                PROCESS_NAME = this.txtUpdate.Text
+                SUB_PROCESS_NAME = this.txtUpdate.Text
                 ,
                 INUSE = this.cmbStatus.Text
             };
 
-            if (_processUpdateStatus.PROCESS_NAME == "" || _processUpdateStatus.PROCESS_NAME == null
+            if (_processUpdateStatus.SUB_PROCESS_NAME == "" || _processUpdateStatus.SUB_PROCESS_NAME == null
                 || _processUpdateStatus.INUSE == "" || _processUpdateStatus.INUSE == null)
             {
                 MessageBox.Show("Not found Process ", "Stop", MessageBoxButtons.OK, MessageBoxIcon.Stop);
@@ -384,9 +373,11 @@ namespace Input
             if (_indexStatus >= 0)
             {
                 _processUpdateStatus.INUSE = this.cmbStatus.Text == "Use" ? "1" : "0";
-                _processUpdateStatus.PRODUCT_TYPE_ID = (cmbProductType.SelectedItem as ComboboxItem).Value.ToString();
+                _processUpdateStatus.PROCESS_ID = (cmbMainProcess.SelectedItem as ComboboxItem).Value.ToString();
+                _processUpdateStatus.LAST_USER = _frmMain._empLogin.code;
+
                 // _currentCondition.EMP = frmMain._empLogin;
-                if (_processControllers.UpdateProccessStatus(_processUpdateStatus))
+                if (_processSubController.UpdateProccessStatus(_processUpdateStatus))
                 {
                     this.SetPage();
                     //this.ResetUpdateStatusProcess();

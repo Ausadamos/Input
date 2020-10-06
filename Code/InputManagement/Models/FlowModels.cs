@@ -1,12 +1,6 @@
 ﻿using BusinessData.Property;
-
-using InputManagement.Services;
 using InputManagement.Property;
-
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+using InputManagement.Services;
 
 namespace InputManagement.Models
 {
@@ -25,7 +19,7 @@ namespace InputManagement.Models
             _resultData = _services.LoadFlow();
             return _resultData;
         }
-        
+
         public OutputOnDbProperty GetMaxFlowName()
         {
             _resultData = _services.GetMaxFlowName();
@@ -42,6 +36,29 @@ namespace InputManagement.Models
             _resultData = _services.SearchProcessByFlowName(dataItem);
             return _resultData;
         }
+        public OutputOnDbProperty SearchFlowByFlowName(FlowProperty dataItem)
+        {
+            _resultData = _services.SearchFlowByFlowName(dataItem);
+            return _resultData;
+        }
+
+
+        public OutputOnDbProperty SearchFlowByProduct(FlowProperty dataItem)
+        {
+            _resultData = _services.SearchFlowByProduct(dataItem);
+            return _resultData;
+        }
+
+
+
+
+        public OutputOnDbProperty SearchProcessSubByFlowName(FlowProperty dataItem)
+        {
+            _resultData = _services.SearchProcessSubByFlowName(dataItem);
+            return _resultData;
+        }
+
+
 
         public OutputOnDbProperty InsertFlow(FlowProcessProperty dataItem)
         {

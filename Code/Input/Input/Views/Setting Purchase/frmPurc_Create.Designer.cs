@@ -39,12 +39,13 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.cmbPurchase = new System.Windows.Forms.ComboBox();
-            this.lstProcess = new System.Windows.Forms.ListBox();
             this.label8 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
             this.lblHeader = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.txtProduct = new System.Windows.Forms.TextBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.treeViewSetProcess = new System.Windows.Forms.TreeView();
             this.cmbFlow = new System.Windows.Forms.ComboBox();
             this.rdoCopyFlow = new System.Windows.Forms.RadioButton();
             this.rdoSelectFlow = new System.Windows.Forms.RadioButton();
@@ -56,10 +57,11 @@
             this.txtPathProcessCard = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
+            this.label10 = new System.Windows.Forms.Label();
+            this.cmbProduct = new System.Windows.Forms.ComboBox();
+            this.label9 = new System.Windows.Forms.Label();
             this.cmbProductType = new System.Windows.Forms.ComboBox();
             this.lblExSerialFormat = new System.Windows.Forms.Label();
-            this.txtProduct = new System.Windows.Forms.TextBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.panel1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -185,15 +187,6 @@
             this.cmbPurchase.TabIndex = 0;
             this.cmbPurchase.SelectedIndexChanged += new System.EventHandler(this.cmbPurchase_SelectedIndexChanged);
             // 
-            // lstProcess
-            // 
-            this.lstProcess.FormattingEnabled = true;
-            this.lstProcess.ItemHeight = 17;
-            this.lstProcess.Location = new System.Drawing.Point(15, 178);
-            this.lstProcess.Name = "lstProcess";
-            this.lstProcess.Size = new System.Drawing.Size(228, 259);
-            this.lstProcess.TabIndex = 0;
-            // 
             // label8
             // 
             this.label8.AutoSize = true;
@@ -207,13 +200,12 @@
             // 
             // panel1
             // 
-            this.panel1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.panel1.BackColor = System.Drawing.Color.LightBlue;
             this.panel1.Controls.Add(this.lblHeader);
-            this.panel1.Location = new System.Drawing.Point(10, 16);
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(799, 40);
+            this.panel1.Size = new System.Drawing.Size(807, 40);
             this.panel1.TabIndex = 37;
             // 
             // lblHeader
@@ -223,7 +215,7 @@
             this.lblHeader.BackColor = System.Drawing.Color.Transparent;
             this.lblHeader.Font = new System.Drawing.Font("Candara", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblHeader.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.lblHeader.Location = new System.Drawing.Point(271, 4);
+            this.lblHeader.Location = new System.Drawing.Point(275, 4);
             this.lblHeader.Name = "lblHeader";
             this.lblHeader.Size = new System.Drawing.Size(260, 33);
             this.lblHeader.TabIndex = 42;
@@ -231,9 +223,7 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.groupBox1.BackColor = System.Drawing.Color.White;
-            this.groupBox1.Controls.Add(this.comboBox1);
             this.groupBox1.Controls.Add(this.txtPurchaseNo);
             this.groupBox1.Controls.Add(this.label7);
             this.groupBox1.Controls.Add(this.txtProduct);
@@ -245,31 +235,47 @@
             this.groupBox1.Controls.Add(this.txtPartNo);
             this.groupBox1.Font = new System.Drawing.Font("Yu Gothic UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.ForeColor = System.Drawing.Color.Gray;
-            this.groupBox1.Location = new System.Drawing.Point(20, 68);
+            this.groupBox1.Location = new System.Drawing.Point(10, 196);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(502, 219);
             this.groupBox1.TabIndex = 38;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Purchase Document ";
             // 
+            // txtProduct
+            // 
+            this.txtProduct.BackColor = System.Drawing.Color.White;
+            this.txtProduct.Font = new System.Drawing.Font("Yu Gothic UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtProduct.Location = new System.Drawing.Point(127, 88);
+            this.txtProduct.MaxLength = 255;
+            this.txtProduct.Name = "txtProduct";
+            this.txtProduct.Size = new System.Drawing.Size(330, 25);
+            this.txtProduct.TabIndex = 2;
+            // 
             // groupBox2
             // 
-            this.groupBox2.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.groupBox2.BackColor = System.Drawing.Color.White;
+            this.groupBox2.Controls.Add(this.treeViewSetProcess);
             this.groupBox2.Controls.Add(this.cmbFlow);
             this.groupBox2.Controls.Add(this.rdoCopyFlow);
             this.groupBox2.Controls.Add(this.rdoSelectFlow);
             this.groupBox2.Controls.Add(this.label8);
             this.groupBox2.Controls.Add(this.cmbPurchase);
-            this.groupBox2.Controls.Add(this.lstProcess);
             this.groupBox2.Font = new System.Drawing.Font("Yu Gothic UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox2.ForeColor = System.Drawing.Color.Gray;
-            this.groupBox2.Location = new System.Drawing.Point(548, 68);
+            this.groupBox2.Location = new System.Drawing.Point(532, 62);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(260, 456);
+            this.groupBox2.Size = new System.Drawing.Size(260, 552);
             this.groupBox2.TabIndex = 39;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Select Flow";
+            // 
+            // treeViewSetProcess
+            // 
+            this.treeViewSetProcess.Location = new System.Drawing.Point(11, 183);
+            this.treeViewSetProcess.Name = "treeViewSetProcess";
+            this.treeViewSetProcess.Size = new System.Drawing.Size(240, 352);
+            this.treeViewSetProcess.TabIndex = 37;
             // 
             // cmbFlow
             // 
@@ -294,7 +300,7 @@
             this.rdoCopyFlow.TabStop = true;
             this.rdoCopyFlow.Text = "Copy Flow By Other Purchase.";
             this.rdoCopyFlow.UseVisualStyleBackColor = true;
-            this.rdoCopyFlow.CheckedChanged += new System.EventHandler(this.rdoCopyFlow_CheckedChanged);
+            this.rdoCopyFlow.Click += new System.EventHandler(this.rdoCopyFlow_CheckedChanged);
             // 
             // rdoSelectFlow
             // 
@@ -308,15 +314,16 @@
             this.rdoSelectFlow.TabStop = true;
             this.rdoSelectFlow.Text = "Select Flow.";
             this.rdoSelectFlow.UseVisualStyleBackColor = true;
+            this.rdoSelectFlow.CheckedChanged += new System.EventHandler(this.rdoSelectFlow_CheckedChanged);
+            this.rdoSelectFlow.Click += new System.EventHandler(this.rdoCopyFlow_CheckedChanged);
             // 
             // groupBox3
             // 
-            this.groupBox3.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.groupBox3.BackColor = System.Drawing.Color.White;
             this.groupBox3.Controls.Add(this.txtFFTCode);
             this.groupBox3.Controls.Add(this.label5);
             this.groupBox3.ForeColor = System.Drawing.Color.Gray;
-            this.groupBox3.Location = new System.Drawing.Point(20, 291);
+            this.groupBox3.Location = new System.Drawing.Point(10, 432);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(502, 65);
             this.groupBox3.TabIndex = 40;
@@ -325,10 +332,9 @@
             // 
             // btnCreate
             // 
-            this.btnCreate.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.btnCreate.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCreate.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCreate.Location = new System.Drawing.Point(349, 548);
+            this.btnCreate.Location = new System.Drawing.Point(366, 643);
             this.btnCreate.Name = "btnCreate";
             this.btnCreate.Size = new System.Drawing.Size(146, 44);
             this.btnCreate.TabIndex = 7;
@@ -338,14 +344,13 @@
             // 
             // groupBox4
             // 
-            this.groupBox4.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.groupBox4.BackColor = System.Drawing.Color.White;
             this.groupBox4.Controls.Add(this.lblShowFileName);
             this.groupBox4.Controls.Add(this.btnChooseFile);
             this.groupBox4.Controls.Add(this.txtPathProcessCard);
             this.groupBox4.Controls.Add(this.label6);
             this.groupBox4.ForeColor = System.Drawing.Color.DarkGray;
-            this.groupBox4.Location = new System.Drawing.Point(20, 430);
+            this.groupBox4.Location = new System.Drawing.Point(10, 512);
             this.groupBox4.Name = "groupBox4";
             this.groupBox4.Size = new System.Drawing.Size(502, 102);
             this.groupBox4.TabIndex = 41;
@@ -401,24 +406,60 @@
             // 
             // groupBox5
             // 
-            this.groupBox5.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.groupBox5.BackColor = System.Drawing.Color.White;
+            this.groupBox5.Controls.Add(this.label10);
+            this.groupBox5.Controls.Add(this.cmbProduct);
+            this.groupBox5.Controls.Add(this.label9);
             this.groupBox5.Controls.Add(this.cmbProductType);
             this.groupBox5.Controls.Add(this.lblExSerialFormat);
             this.groupBox5.ForeColor = System.Drawing.Color.Gray;
-            this.groupBox5.Location = new System.Drawing.Point(20, 360);
+            this.groupBox5.Location = new System.Drawing.Point(10, 62);
             this.groupBox5.Name = "groupBox5";
-            this.groupBox5.Size = new System.Drawing.Size(502, 65);
+            this.groupBox5.Size = new System.Drawing.Size(502, 120);
             this.groupBox5.TabIndex = 42;
             this.groupBox5.TabStop = false;
             this.groupBox5.Text = "Product Type";
+            this.groupBox5.Enter += new System.EventHandler(this.groupBox5_Enter);
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Font = new System.Drawing.Font("Yu Gothic UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label10.Location = new System.Drawing.Point(9, 67);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(100, 21);
+            this.label10.TabIndex = 48;
+            this.label10.Text = "Product Type";
+            // 
+            // cmbProduct
+            // 
+            this.cmbProduct.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbProduct.Font = new System.Drawing.Font("Yu Gothic UI", 9.75F);
+            this.cmbProduct.FormattingEnabled = true;
+            this.cmbProduct.Location = new System.Drawing.Point(115, 27);
+            this.cmbProduct.Name = "cmbProduct";
+            this.cmbProduct.Size = new System.Drawing.Size(181, 25);
+            this.cmbProduct.TabIndex = 47;
+            this.cmbProduct.SelectedIndexChanged += new System.EventHandler(this.cmbProduct_SelectedIndexChanged);
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Yu Gothic UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label9.Location = new System.Drawing.Point(45, 27);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(64, 21);
+            this.label9.TabIndex = 46;
+            this.label9.Text = "Product";
             // 
             // cmbProductType
             // 
             this.cmbProductType.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbProductType.Font = new System.Drawing.Font("Yu Gothic UI", 9.75F);
             this.cmbProductType.FormattingEnabled = true;
-            this.cmbProductType.Location = new System.Drawing.Point(14, 26);
+            this.cmbProductType.Location = new System.Drawing.Point(115, 67);
             this.cmbProductType.Name = "cmbProductType";
             this.cmbProductType.Size = new System.Drawing.Size(181, 25);
             this.cmbProductType.TabIndex = 45;
@@ -429,38 +470,18 @@
             this.lblExSerialFormat.AutoSize = true;
             this.lblExSerialFormat.Font = new System.Drawing.Font("Yu Gothic UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblExSerialFormat.ForeColor = System.Drawing.Color.DarkGray;
-            this.lblExSerialFormat.Location = new System.Drawing.Point(237, 26);
+            this.lblExSerialFormat.Location = new System.Drawing.Point(302, 71);
             this.lblExSerialFormat.Name = "lblExSerialFormat";
             this.lblExSerialFormat.Size = new System.Drawing.Size(167, 21);
             this.lblExSerialFormat.TabIndex = 44;
             this.lblExSerialFormat.Text = "Show Ex. Serial Format";
-            // 
-            // txtProduct
-            // 
-            this.txtProduct.BackColor = System.Drawing.Color.White;
-            this.txtProduct.Font = new System.Drawing.Font("Yu Gothic UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtProduct.Location = new System.Drawing.Point(127, 88);
-            this.txtProduct.MaxLength = 255;
-            this.txtProduct.Name = "txtProduct";
-            this.txtProduct.Size = new System.Drawing.Size(330, 25);
-            this.txtProduct.TabIndex = 2;
-            // 
-            // comboBox1
-            // 
-            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboBox1.Font = new System.Drawing.Font("Yu Gothic UI", 9.75F);
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(188, 87);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(285, 25);
-            this.comboBox1.TabIndex = 46;
             // 
             // frmPurc_Create
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(820, 609);
+            this.ClientSize = new System.Drawing.Size(807, 712);
             this.Controls.Add(this.groupBox5);
             this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.btnCreate);
@@ -501,7 +522,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.ComboBox cmbPurchase;
-        private System.Windows.Forms.ListBox lstProcess;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.GroupBox groupBox1;
@@ -520,7 +540,10 @@
         private System.Windows.Forms.GroupBox groupBox5;
         private System.Windows.Forms.Label lblExSerialFormat;
         private System.Windows.Forms.ComboBox cmbProductType;
-        private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.TextBox txtProduct;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.ComboBox cmbProduct;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.TreeView treeViewSetProcess;
     }
 }

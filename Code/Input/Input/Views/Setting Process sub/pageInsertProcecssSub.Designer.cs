@@ -45,9 +45,7 @@
             this.groupBox5 = new System.Windows.Forms.GroupBox();
             this.groupBoxProcess = new System.Windows.Forms.GroupBox();
             this.cmbMainProcess = new System.Windows.Forms.ComboBox();
-            this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.cmbProductType = new System.Windows.Forms.ComboBox();
             this.cmbProduct = new System.Windows.Forms.ComboBox();
             this.label3 = new System.Windows.Forms.Label();
             this.grpUpdate.SuspendLayout();
@@ -61,7 +59,7 @@
             this.rdoUpdate.AutoSize = true;
             this.rdoUpdate.Font = new System.Drawing.Font("Yu Gothic UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rdoUpdate.ForeColor = System.Drawing.Color.Gray;
-            this.rdoUpdate.Location = new System.Drawing.Point(10, -5);
+            this.rdoUpdate.Location = new System.Drawing.Point(37, 381);
             this.rdoUpdate.Name = "rdoUpdate";
             this.rdoUpdate.Size = new System.Drawing.Size(147, 29);
             this.rdoUpdate.TabIndex = 37;
@@ -117,14 +115,13 @@
             // grpUpdate
             // 
             this.grpUpdate.Controls.Add(this.btnUpdate);
-            this.grpUpdate.Controls.Add(this.rdoUpdate);
             this.grpUpdate.Controls.Add(this.lblStatus);
             this.grpUpdate.Controls.Add(this.cmbStatus);
             this.grpUpdate.Controls.Add(this.txtUpdate);
             this.grpUpdate.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.grpUpdate.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
             this.grpUpdate.ForeColor = System.Drawing.Color.Gray;
-            this.grpUpdate.Location = new System.Drawing.Point(29, 404);
+            this.grpUpdate.Location = new System.Drawing.Point(29, 390);
             this.grpUpdate.Name = "grpUpdate";
             this.grpUpdate.Size = new System.Drawing.Size(354, 138);
             this.grpUpdate.TabIndex = 36;
@@ -151,7 +148,7 @@
             this.rdoInsert.AutoSize = true;
             this.rdoInsert.Font = new System.Drawing.Font("Yu Gothic UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rdoInsert.ForeColor = System.Drawing.Color.Gray;
-            this.rdoInsert.Location = new System.Drawing.Point(10, -2);
+            this.rdoInsert.Location = new System.Drawing.Point(32, 191);
             this.rdoInsert.Name = "rdoInsert";
             this.rdoInsert.Size = new System.Drawing.Size(213, 29);
             this.rdoInsert.TabIndex = 38;
@@ -172,11 +169,10 @@
             // 
             this.grpAddprocess.Controls.Add(this.btnAdd);
             this.grpAddprocess.Controls.Add(this.txtInsertProcess);
-            this.grpAddprocess.Controls.Add(this.rdoInsert);
             this.grpAddprocess.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.grpAddprocess.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
             this.grpAddprocess.ForeColor = System.Drawing.Color.Gray;
-            this.grpAddprocess.Location = new System.Drawing.Point(29, 245);
+            this.grpAddprocess.Location = new System.Drawing.Point(29, 201);
             this.grpAddprocess.Name = "grpAddprocess";
             this.grpAddprocess.Size = new System.Drawing.Size(354, 138);
             this.grpAddprocess.TabIndex = 35;
@@ -267,21 +263,11 @@
             this.cmbMainProcess.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbMainProcess.Font = new System.Drawing.Font("Yu Gothic UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cmbMainProcess.FormattingEnabled = true;
-            this.cmbMainProcess.Location = new System.Drawing.Point(29, 187);
+            this.cmbMainProcess.Location = new System.Drawing.Point(29, 125);
             this.cmbMainProcess.Name = "cmbMainProcess";
             this.cmbMainProcess.Size = new System.Drawing.Size(354, 29);
             this.cmbMainProcess.TabIndex = 12;
             this.cmbMainProcess.SelectedIndexChanged += new System.EventHandler(this.cmbMainProcess_SelectedIndexChanged);
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Yu Gothic UI", 14.25F);
-            this.label2.Location = new System.Drawing.Point(24, 86);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(121, 25);
-            this.label2.TabIndex = 42;
-            this.label2.Text = "Product Type";
             // 
             // label1
             // 
@@ -292,20 +278,6 @@
             this.label1.Size = new System.Drawing.Size(78, 25);
             this.label1.TabIndex = 41;
             this.label1.Text = "Product";
-            // 
-            // cmbProductType
-            // 
-            this.cmbProductType.BackColor = System.Drawing.Color.White;
-            this.cmbProductType.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cmbProductType.Enabled = false;
-            this.cmbProductType.Font = new System.Drawing.Font("Yu Gothic UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.cmbProductType.ForeColor = System.Drawing.Color.Black;
-            this.cmbProductType.FormattingEnabled = true;
-            this.cmbProductType.Location = new System.Drawing.Point(29, 114);
-            this.cmbProductType.Name = "cmbProductType";
-            this.cmbProductType.Size = new System.Drawing.Size(354, 29);
-            this.cmbProductType.TabIndex = 40;
-            this.cmbProductType.SelectedIndexChanged += new System.EventHandler(this.cmbProductType_SelectedIndexChanged);
             // 
             // cmbProduct
             // 
@@ -324,7 +296,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Yu Gothic UI", 14.25F);
-            this.label3.Location = new System.Drawing.Point(24, 159);
+            this.label3.Location = new System.Drawing.Point(24, 97);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(124, 25);
             this.label3.TabIndex = 43;
@@ -336,9 +308,9 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
+            this.Controls.Add(this.rdoUpdate);
+            this.Controls.Add(this.rdoInsert);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.cmbProductType);
             this.Controls.Add(this.cmbProduct);
             this.Controls.Add(this.cmbMainProcess);
             this.Controls.Add(this.grpUpdate);
@@ -377,9 +349,7 @@
         private System.Windows.Forms.GroupBox groupBox5;
         private System.Windows.Forms.GroupBox groupBoxProcess;
         private System.Windows.Forms.ComboBox cmbMainProcess;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ComboBox cmbProductType;
         private System.Windows.Forms.ComboBox cmbProduct;
         private System.Windows.Forms.Label label3;
     }

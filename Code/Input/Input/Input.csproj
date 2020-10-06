@@ -38,6 +38,9 @@
     <Reference Include="AdvancedDataGridView, Version=0.1.0.10, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\ADGV.0.1.0.10\lib\net40\AdvancedDataGridView.dll</HintPath>
     </Reference>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\..\input by Boat\Input(Beta)\Code\Input\Input\bin\Debug\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
@@ -56,19 +59,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Controllers\Cls_DataTableHelper.cs" />
-    <Compile Include="Controllers\FlowController.cs" />
-    <Compile Include="Controllers\GenerateSerialControllers.cs" />
-    <Compile Include="Controllers\ProcessControllers.cs" />
-    <Compile Include="Controllers\ProcessSubControllers.cs" />
-    <Compile Include="Controllers\ProductSubController.cs" />
-    <Compile Include="Controllers\ProductTypeController.cs" />
-    <Compile Include="Controllers\PurchaseController.cs" />
-    <Compile Include="Controllers\InputOrderControllers.cs" />
-    <Compile Include="Controllers\SearchControllers.cs" />
-    <Compile Include="Controllers\SerialProductTypeController.cs" />
-    <Compile Include="Controllers\SerialTypeController.cs" />
-    <Compile Include="Controllers\ShipmentControllers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Views\Add New Product Type\pageCreate_ProductType.cs">
@@ -160,6 +150,30 @@
     </Compile>
     <Compile Include="Views\PO\pageInsertPO.Designer.cs">
       <DependentUpon>pageInsertPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Search\frmSearchDataDetailInProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Search\frmSearchDataDetailInProcess.Designer.cs">
+      <DependentUpon>frmSearchDataDetailInProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Search\frmSearchFlows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Search\frmSearchFlows.Designer.cs">
+      <DependentUpon>frmSearchFlows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Search\frmSearchOrderDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Search\frmSearchOrderDetail.Designer.cs">
+      <DependentUpon>frmSearchOrderDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Search\frmSearchPurchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Search\frmSearchPurchase.Designer.cs">
+      <DependentUpon>frmSearchPurchase.cs</DependentUpon>
     </Compile>
     <Compile Include="Views\Search\frmSearch_SerialProgress.cs">
       <SubType>Form</SubType>
@@ -288,6 +302,18 @@
     <EmbeddedResource Include="Views\PO\pageInsertPO.resx">
       <DependentUpon>pageInsertPO.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\Search\frmSearchDataDetailInProcess.resx">
+      <DependentUpon>frmSearchDataDetailInProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Search\frmSearchFlows.resx">
+      <DependentUpon>frmSearchFlows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Search\frmSearchOrderDetail.resx">
+      <DependentUpon>frmSearchOrderDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Search\frmSearchPurchase.resx">
+      <DependentUpon>frmSearchPurchase.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Search\frmSearch_SerialProgress.resx">
       <DependentUpon>frmSearch_SerialProgress.cs</DependentUpon>
     </EmbeddedResource>
@@ -344,9 +370,13 @@
     <None Include="Resources\3914205-free-production-icon-72555-download-production-icon-72555-manufacturing-process-png-512_512_preview.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\CommonClassLibrary\CommonClassLibrary\CommonClassLibrary.csproj">
+    <ProjectReference Include="..\..\..\..\..\..\CommonClassLibrary\CommonClassLibrary\CommonClassLibrary.csproj">
       <Project>{cf191309-162c-4e7e-a4b7-9c1e040ab4a3}</Project>
       <Name>CommonClassLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\FiberLaserPendingJudement %28Beta%29\Code\FiberLaserProcessManagement\FiberLaserProcessManagement.csproj">
+      <Project>{a3a3efa9-04df-44a0-8e3e-50dc6646954b}</Project>
+      <Name>FiberLaserProcessManagement</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\BusinessData\BusinessData.csproj">
       <Project>{a3287075-ec66-460f-970d-9da89e98fbb9}</Project>
@@ -365,6 +395,9 @@
     <None Include="Resources\588a64f5d06f6719692a2d13.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\up-chevron1.png" />
+    <None Include="Resources\up1.png" />
+    <None Include="Resources\setting-line1.png" />
     <None Include="Resources\up-chevron.png" />
     <None Include="Resources\up.png" />
     <None Include="Resources\setting-line.png" />
@@ -380,6 +413,30 @@
     <None Include="Resources\down-chevron.png" />
     <None Include="Resources\Header_SerialInput.png" />
     <Content Include="icon.ico" />
+    <None Include="Resources\3914205-free-production-icon-72555-download-production-icon-72555-manufacturing-process-png-512_512_preview1.png" />
+    <None Include="Resources\588a64f5d06f6719692a2d131.png" />
+    <None Include="Resources\Artboard_2-3-5121.png" />
+    <None Include="Resources\back24px1.png" />
+    <None Include="Resources\down1.png" />
+    <None Include="Resources\down-chevron1.png" />
+    <None Include="Resources\Header_BurIn.png" />
+    <None Include="Resources\Header_Curing.png" />
+    <None Include="Resources\Header_FiberOnPlate.png" />
+    <None Include="Resources\Header_FinalAssembling.png" />
+    <None Include="Resources\Header_Packing.png" />
+    <None Include="Resources\Header_PDThermistor.png" />
+    <None Include="Resources\Header_ResonatorAssembling.png" />
+    <None Include="Resources\Header_ResonatorAssembling1.png" />
+    <None Include="Resources\Header_ResonatorTest.png" />
+    <None Include="Resources\Header_SerialInput1.png" />
+    <None Include="Resources\Header_TFBAssembling.png" />
+    <None Include="Resources\Header_ThermalScreening.png" />
+    <None Include="Resources\icons8-key-1001.ico" />
+    <None Include="Resources\left-chevron1.png" />
+    <None Include="Resources\next1.png" />
+    <None Include="Resources\next24px1.png" />
+    <None Include="Resources\previous1.png" />
+    <None Include="Resources\right-chevron1.png" />
     <Content Include="Resources\sailing_boat_dTi_icon.ico" />
   </ItemGroup>
   <ItemGroup />

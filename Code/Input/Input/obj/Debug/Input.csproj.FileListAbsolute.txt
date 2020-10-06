@@ -1167,3 +1167,131 @@ C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\
 C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\CommonClassLibrary.dll
 C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\CommonClassLibrary.pdb
 C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Code\Input\Input\bin\Debug\CommonClassLibrary.dll.config
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageCreate_ProductType.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageRMA.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageTest_Confirm.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageTest.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageTestInitial.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageTestManufacturing.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageInsertPO.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.frmSearch_SerialProgress.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.frmSearch_SerialInput.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageSetFlow.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageInsertSubProcecss.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageUpdateProcessCard.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageUpdate_Order.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.exe
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\Input.exe.config
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\Input.exe
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\Input.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\CommonClassLibrary.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\Login.exe
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\CommonClassLibrary.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\CommonClassLibrary.dll.config
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\Login.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\Login.exe.config
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.csproj.CopyComplete
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.frmSearchDataDetailInProcess.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.frmSearchFlows.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.frmSearchOrderDetail.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.frmSearchPurchase.resources
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\FiberLaserProcessManagement.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\FiberLaserProcessManagement.pdb
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.exe
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pdb
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\Input.exe.config
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\Input.exe
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\Input.pdb
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\AdvancedDataGridView.dll
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\BusinessData.dll
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\CommonClassLibrary.dll
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\FiberLaserProcessManagement.dll
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\InputManagement.dll
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\Login.exe
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\System.Web.Mvc.dll
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\MySql.Data.dll
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\System.Web.WebPages.dll
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\CommonClassLibrary.pdb
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\CommonClassLibrary.dll.config
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\FiberLaserProcessManagement.pdb
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\BusinessData.pdb
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\InputManagement.pdb
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\InputManagement.dll.config
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\Login.pdb
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\Login.exe.config
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\AdvancedDataGridView.xml
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.Properties.Resources.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageCreate_ProductType.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.frmMain.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.frmInput_History.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageInput_Main.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageInput_Confirm.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageInput_SelectOrder.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageRework_Main.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageRMA.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageRMAInvestigate.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageRMARework.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageTest_Confirm.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageTest.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageTestInitial.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageTestManufacturing.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageInsertPO.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.frmSearchDataDetailInProcess.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.frmSearchFlows.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.frmSearchOrderDetail.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.frmSearchPurchase.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.frmSearch_SerialProgress.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.frmSearch_SerialInput.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageSearch.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageCreateFlow.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageSetFlow.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageUpdateFlow.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageInsertProcecss.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageInsertSubProcecss.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.frmPurc_Create.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageSetPurchase_Main.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageUpdateProcessCard.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.pageUpdate_Order.resources
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.csproj.GenerateResource.cache
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\ausad\Desktop\FL System\2020-10-01\02.PreMaking\Input(Beta)\Input\Code\Input\Input\obj\Debug\Input.csproj.CopyComplete

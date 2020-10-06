@@ -7,6 +7,33 @@ namespace InputManagement.SQLFactory
     {
         private string sql;
 
+        public string Insert(FlowProperty dataItem)
+        {
+            sql = @"INSERT INTO flow
+                    (
+                      ID
+                    , FLOW_NAME
+                    , FLOW_TYPE_ID
+                    , INUSE
+                    , PRODUCT_SUB_CODE
+                    )
+                    (
+                      SELECT 1 + coalesce((SELECT max(Id) FROM flow), 0) 
+                    , 'dataItem.FLOW_NAME'
+                    , 'dataItem.FLOW_TYPE_ID'
+                    , 1
+                    , 'dataItem.PRODUCT_SUB_CODE'
+                    )";
+
+            sql = sql.Replace("dataItem.ID", dataItem.ID);
+            sql = sql.Replace("dataItem.FLOW_NAME", dataItem.FLOW_NAME);
+            sql = sql.Replace("dataItem.FLOW_TYPE_ID", dataItem.FLOW_TYPE.ID);
+            sql = sql.Replace("dataItem.INUSE", dataItem.INUSE);
+            sql = sql.Replace("dataItem.PRODUCT_SUB_CODE", dataItem.PRODUCT_SUB_CODE);
+
+            return sql;
+        }
+
         public string LoadFlowAll()
         {
             sql = "CALL FLOW_ALL;";
@@ -18,7 +45,7 @@ namespace InputManagement.SQLFactory
             sql = @"SELECT tb1.ID AS FLOW_ID
                            ,tb1.FLOW_NAME
                            ,tb2.TYPE_NAME
-
+                           ,tb1.PRODUCT_SUB_CODE
                     FROM flow as tb1
 
                     INNER JOIN flow_type AS tb2
@@ -50,44 +77,44 @@ namespace InputManagement.SQLFactory
         {
             List<string> listSql = new List<string>();
 
-            //Insert Flow
-            sql = @"INSERT INTO `flow` (
-                        ID
-                        ,FLOW_NAME
-                        ,FLOW_TYPE_ID
-                        ,INUSE
-                    )
-                    (
-                        SELECT CASE WHEN COUNT(`ID`) = 0 THEN 1 ELSE MAX(`ID`)+1 END AS `ID`
-                        ,'" + dataItem.FLOW.FLOW_NAME + @"' AS  `FLOW_NAME`
-                        ,(SELECT ID FROM flow_type WHERE REPLACE(TYPE_NAME ,' ' , '' ) = REPLACE('FLOW NORMAL', ' ' , ''))
-                        ,'1' AS `INUSE`
+            ////Insert Flow
+            //sql = @"INSERT INTO `flow` (
+            //            ID
+            //            ,FLOW_NAME
+            //            ,FLOW_TYPE_ID
+            //            ,INUSE
+            //        )
+            //        (
+            //            SELECT CASE WHEN COUNT(`ID`) = 0 THEN 1 ELSE MAX(`ID`)+1 END AS `ID`
+            //            ,'" + dataItem.FLOW.FLOW_NAME + @"' AS  `FLOW_NAME`
+            //            ,(SELECT ID FROM flow_type WHERE REPLACE(TYPE_NAME ,' ' , '' ) = REPLACE('FLOW NORMAL', ' ' , ''))
+            //            ,'1' AS `INUSE`
 
-                        FROM `flow`
-                    );";
+            //            FROM `flow`
+            //        );";
 
-            listSql.Add(sql);
+            //listSql.Add(sql);
 
-            //Loop Insert Process
-            foreach (ProcessProperty _process in dataItem.PROCESS)
-            {
-                //sql = @"INSERT INTO `process_flow` (
-                //      `FLOW_ID`
-                //      ,`NO`
-                //      ,`PROCESS_ID`
-                //        )
-                //        (
-                //            SELECT `ID` AS `FLOW_ID`
-                //                , '" + _process.NO + @"' AS `NO`
-                //                , '" + _process.ID + @"' AS `PROCESS_ID`
+            ////Loop Insert Process
+            //foreach (ProcessProperty _process in dataItem.PROCESS)
+            //{
+            //    //sql = @"INSERT INTO `process_flow` (
+            //    //      `FLOW_ID`
+            //    //      ,`NO`
+            //    //      ,`PROCESS_ID`
+            //    //        )
+            //    //        (
+            //    //            SELECT `ID` AS `FLOW_ID`
+            //    //                , '" + _process.NO + @"' AS `NO`
+            //    //                , '" + _process.ID + @"' AS `PROCESS_ID`
 
-                //            FROM `flow` 
-                //            WHERE  REPLACE(FLOW_NAME, ' ', '') = REPLACE('" + dataItem.FLOW.FLOW_NAME + @"', ' ', '')
+            //    //            FROM `flow` 
+            //    //            WHERE  REPLACE(FLOW_NAME, ' ', '') = REPLACE('" + dataItem.FLOW.FLOW_NAME + @"', ' ', '')
 
-                //        );";
+            //    //        );";
 
-                listSql.Add(sql);
-            }
+            //    listSql.Add(sql);
+            //}
 
             return listSql;
         }
@@ -148,6 +175,47 @@ namespace InputManagement.SQLFactory
 
             return sql;
         }
+
+
+
+
+        public string SearchFlowByFlowName(FlowProperty dataItem)
+        {
+            sql = @"SELECT * from flow where FLOW_NAME = '" + dataItem.FLOW_NAME + @"' and INUSE = 1";
+
+            return sql;
+
+        }
+
+        public string SearchFlowByProduct(FlowProperty dataItem)
+        {
+            sql = @"SELECT * from flow where PRODUCT_SUB_CODE = '" + dataItem.PRODUCT_SUB_CODE + @"' and INUSE = 1";
+
+            return sql;
+        }
+
+
+        public string SearchProcessSubByFlowName(FlowProperty dataItem)
+        {
+            sql = @"  SELECT tb_1.FLOW_NAME
+	                    ,tb_2.PROCESS_SUB_ID 
+                        ,tb_4.ID  as PROCESS_ID
+	                    ,tb_2.`NO`
+	                    ,tb_3.SUB_PROCESS_NAME
+                    FROM `flow` AS tb_1
+                    INNER JOIN `process_sub_flow` AS tb_2 ON(tb_2.FLOW_ID = tb_1.ID)
+                    INNER JOIN `process_sub` AS tb_3 ON( tb_3.PROCESS_SUB_ID = tb_2.PROCESS_SUB_ID)		
+                    INNER JOIN `process` AS tb_4 ON( tb_3.PROCESS_ID = tb_4.ID)		
+                    WHERE REPLACE(tb_1.`FLOW_NAME`, ' ', '') = REPLACE('" + dataItem.FLOW_NAME + @"', ' ', '')
+                    AND tb_1.`INUSE` = '1'
+                    ORDER BY tb_2.`NO`";
+
+            return sql;
+        }
+
+
+
+
 
         public string CheckDuplicateFlowProcess(string dataItem)
         {

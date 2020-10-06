@@ -11,7 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Input", "Input\Input\Input.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "Login\Login.csproj", "{4A583F69-45BD-4727-B219-01373A5AAF6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonClassLibrary", "..\..\..\CommonClassLibrary\CommonClassLibrary\CommonClassLibrary.csproj", "{CF191309-162C-4E7E-A4B7-9C1E040AB4A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonClassLibrary", "..\..\..\..\CommonClassLibrary\CommonClassLibrary\CommonClassLibrary.csproj", "{CF191309-162C-4E7E-A4B7-9C1E040AB4A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiberLaserProcessManagement", "..\..\..\FiberLaserPendingJudement (Beta)\Code\FiberLaserProcessManagement\FiberLaserProcessManagement.csproj", "{A3A3EFA9-04DF-44A0-8E3E-50DC6646954B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{CF191309-162C-4E7E-A4B7-9C1E040AB4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF191309-162C-4E7E-A4B7-9C1E040AB4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF191309-162C-4E7E-A4B7-9C1E040AB4A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A3EFA9-04DF-44A0-8E3E-50DC6646954B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A3EFA9-04DF-44A0-8E3E-50DC6646954B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A3EFA9-04DF-44A0-8E3E-50DC6646954B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A3EFA9-04DF-44A0-8E3E-50DC6646954B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
